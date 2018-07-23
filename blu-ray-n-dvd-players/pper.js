@@ -12,8 +12,16 @@ var url = new URL(START_URL);
 var baseUrl = url.protocol + "//" + url.hostname;
 var count=0;
 pagesToVisit.push(START_URL);
+for(var i =1;i<=4;i++){//4
+    var crrlink ="https://www.staples.com/Blu-Ray-DVD-Players/cat_CL141768?fids=&pn="+i+"&sr=true&sby=&min=&max=&myStoreId=";
+    pagesToVisit.push(crrlink);
+}
 var file='jsonDat.json';
 var items =jsonfile.readFileSync(file);
+var arrModel=[];
+items.forEach(function(itm) {
+    arrModel.push(itm.brand+itm.model);
+});
 async function crawl() {
     if(pagesToVisit.length<=0 ) {
         console.log("all pages visted "+count+" items ."+items.length+"  all now");
@@ -24,7 +32,7 @@ async function crawl() {
         }
         return ;
     }
-    var nextPage = pagesToVisit.pop();
+    var nextPage = pagesToVisit.shift();
      if (nextPage in pagesVisited) {
            // We've already visited this page, so repeat the crawl
            crawl();
@@ -51,11 +59,11 @@ async function crawl() {
         let lnkElms = document.querySelectorAll('div.product-info a.scTrack.pfm');
         var  brand = document.querySelector("h1.product-title");
         if(brand){
-            brand = brand.textContent;          
+            brand = brand.textContent;
         }
         var modl = document.querySelector("div.item-model span#mmx-sku-manufacturerPartNumber");
         if(modl){
-           modl = modl.textContent; 
+           modl = modl.textContent;
         }
         // get the hotel data
         lnkElms.forEach((lnkEl) => {
@@ -63,11 +71,11 @@ async function crawl() {
                 let lnk =lnkEl.getAttribute('href');
                 //let re1 = new RegExp("blu");
                 hotels.push(lnk);
-                
+
             }  catch (ex){
               console.log(ex);
             }
-        
+
         });
         return {links:hotels, brand:brand,model:modl};
     });
@@ -85,18 +93,22 @@ async function crawl() {
 
     if(hotelData.brand){
         count++;
+        brand =hotelData.brand;
         var model=""
         if(hotelData.model){
            model= hotelData.model;
         }
-        items.push({
-            brand:hotelData.brand,
-            model:model,
-            category: "Blu-Ray & DVD Players",
-            source: "Staples", 
-            sourceType: "retailer",
-            sourceId: 6
-        })
+        if(!arrModel.includes(brand+model)){
+           items.push({
+               brand:hotelData.brand,
+               model:model,
+               url:nextPage,
+               category: "Blu-Ray & DVD Players",
+               source: "Staples",
+               sourceType: "retailer",
+               sourceId: 6
+          });
+      }
     }
     browser.close();
     crawl();

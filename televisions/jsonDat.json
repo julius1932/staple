@@ -1,175 +1,8 @@
 [
   {
-    "brand": "Samsung 470 Series HG40NE470SFXZA 40\" 1080p Hospitality LED-LCD TV, Black",
-    "model": "HG40NE470SFXZA",
-    "category": "Televisions",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "VIZIO SmartCast D D50f-F1 49.5\" 1080p LED-LCD TV, 16:9, HDTV, Black (D50F-F1)",
-    "model": "D50F-F1",
-    "category": "Televisions",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "VIZIO D-Series D50N-E1 50\" FHD Full-Array LED TV, Black",
-    "model": "D50N-E1",
-    "category": "Televisions",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "VIZIO D-Series D39HN-E0 39\" 720p Class Full Array LED-LCD TV, Black",
-    "model": "D39HN-D0",
-    "category": "Televisions",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Samsung 4000 UN32J4000CF 31.5\" 720p LED-LCD TV, 16:9, HDTV, Black",
-    "model": "UN32J4000CFXZA",
-    "category": "Televisions",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Samsung 6500 UN49MU6500F 49\" 2160p LED-LCD TV, 16:9, 4K UHDTV, Dark Titan (UN49MU6500FXZA)",
-    "model": "UN49MU6500FXZA",
-    "category": "Televisions",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Samsung 6290 UN65MU6290F 64.5\" 2160p LED-LCD TV, 16:9, 4K UHDTV, Dark Titan (UN65MU6290FXZA)",
-    "model": "UN65MU6290FXZA",
-    "category": "Televisions",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Samsung 6300 UN65MU6300F 65\" 2160p LED-LCD TV, 16:9, 4K UHDTV, Dark Titan",
-    "model": "UN65MU6300FXZA",
-    "category": "Televisions",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "VIZIO SmartCast E-Series E70-E3 70\" 2160p HDR LED-LCD Display, Black",
-    "model": "E70-E3",
-    "category": "Televisions",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Samsung 5300 UN40M5300AF 39.5\" 1080p LED-LCD TV, 16:9, HDTV, Black",
-    "model": "UN40M5300AFXZA",
-    "category": "Televisions",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Axess® 19\" AC/DC LED Full HDTV With HDMI and USB",
-    "model": "93581157M",
-    "category": "Televisions",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Samsung 7500 UN65MU7500F 65\" 2160p LED-LCD TV, 16:9, 4K UHDTV, Titan Silver (UN65MU7500FXZA)",
-    "model": "UN65MU7500FXZA",
-    "category": "Televisions",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "LG 28LJ4540 28\" Class 720P HD LED TV",
-    "model": "28LJ4540",
-    "category": "Televisions",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Samsung 7500 UN49MU7500F 49\" 2160p LED-LCD TV, 16:9, 4K UHDTV, Titan Silver (UN49MU7500FXZA)",
-    "model": "UN49MU7500FXZA",
-    "category": "Televisions",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Axess tv1701 13.3\" High-Definition LED TV (93591125M)",
-    "model": "93591125M",
-    "category": "Televisions",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Axess® 15.4\" LED AC/DC TV With DVD Player",
-    "model": "93581148M",
-    "category": "Televisions",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Samsung 5300 UN49M5300AF 48.5\" 1080p LED-LCD TV, 16:9, HDTV, Black (UN49M5300AFXZA)",
-    "model": "UN49M5300AFXZA",
-    "category": "Televisions",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Supersonic® 7\" Portable Rechargeable Digital LCD TV",
-    "model": "93580760M",
-    "category": "Televisions",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Samsung 477 Series HG40NE477SFXZA 40\" 1080p Hospitality LED-LCD TV, Black",
-    "model": "HG40NE477SFXZA",
-    "category": "Televisions",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Supersonic  sc499 9\" Portable Digital LCD TV",
-    "model": "93586003M",
-    "category": "Televisions",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Samsung 4500 UN32M4500AF 31.5\" 720p LED-LCD TV, 16:9, HDTV, Black",
-    "model": "UN32M4500AFXZA",
-    "category": "Televisions",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "VIZIO D-Series 32\" 720p Full-Array LED LCD TV",
-    "model": "D32HN-D0",
+    "brand": "Westinghouse WD32HB1120-RB Refurbished 32 IN. 720P LED Television",
+    "model": "WD32HB1120-RB",
+    "url": "https://www.staples.com/westinghouse-wd32hb1120-rb-refurbished-32-in-720p-led-television/product_24288235",
     "category": "Televisions",
     "source": "Staples",
     "sourceType": "retailer",
@@ -178,198 +11,178 @@
   {
     "brand": "Samsung J520D Full LED Smart TV 40 IN. 1080p Television",
     "model": "UN40J520DAFXZA",
+    "url": "https://www.staples.com/samsung-j520d-full-led-smart-tv-40-in-1080p-television/product_24288249",
     "category": "Televisions",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "Westinghouse WD32HB1120-RB Refurbished 32 IN. 720P LED Television",
-    "model": "WD32HB1120-RB",
+    "brand": "VIZIO D-Series 32\" 720p Full-Array LED LCD TV",
+    "model": "D32HN-D0",
+    "url": "https://www.staples.com/VIZIO-D-Series-32-720p-Full-Array-LED-LCD-TV/product_IM11Y1394",
     "category": "Televisions",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "Samsung 477 Series HG43NE477SFXZA 43\" 1080p Full HD Hospitality LED LCD TV, Black",
-    "model": "HG43NE477SFXZA",
+    "brand": "VIZIO SmartCast D D50f-F1 49.5\" 1080p LED-LCD TV, 16:9, HDTV, Black (D50F-F1)",
+    "model": "D50F-F1",
+    "url": "https://www.staples.com/vizio-smartcast-d-d50f-f1-49-5-1080p-led-lcd-tv-16-9-hdtv-black-d50f-f1/product_IM12KB749",
     "category": "Televisions",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "Sharp PN-LE PN-LE601 60\" 1080p LED-LCD TV, 16:9, HDTV (PNLE601)",
-    "model": "PN-LE601",
+    "brand": "Samsung 4500 UN32M4500AF 31.5\" 720p LED-LCD TV, 16:9, HDTV, Black",
+    "model": "UN32M4500AFXZA",
+    "url": "https://www.staples.com/samsung-4500-un32m4500af-31-5-720p-led-lcd-tv-16-9-hdtv-black/product_2801157",
     "category": "Televisions",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "Samsung 6300 UN75MU6300F 75\" 2160p LED-LCD TV, 16:9, 4K UHDTV",
-    "model": "UN75MU6300FXZA",
+    "brand": "Supersonic  sc499 9\" Portable Digital LCD TV",
+    "model": "93586003M",
+    "url": "https://www.staples.com/Supersonic-sc499-9-Portable-Digital-LCD-TV/product_1832948",
     "category": "Televisions",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "Gpx Tde3274bp 32\" 1080p Led Tv/dvd Combination",
-    "model": "GPXTDE3274BP",
+    "brand": "Samsung 477 Series HG40NE477SFXZA 40\" 1080p Hospitality LED-LCD TV, Black",
+    "model": "HG40NE477SFXZA",
+    "url": "https://www.staples.com/Samsung-477-Series-HG40NE477SFXZA-40-1080p-Hospitality-LED-LCD-TV-Black/product_IM14Q2439",
     "category": "Televisions",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "Westinghouse WD32HD1390-RB Refurbished 32 IN. 720P LED Television",
-    "model": "WD32HD1390-RB",
+    "brand": "Axess tv1701 13.3\" High-Definition LED TV (93591125M)",
+    "model": "93591125M",
+    "url": "https://www.staples.com/axess-tv1701-13-3-high-definition-led-tv-93591125m/product_1832940",
     "category": "Televisions",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "VIZIO D D60-F3 55\" 2160p LED-LCD TV, 16:9, 4K UHDTV",
-    "model": "D60-F3",
+    "brand": "Supersonic® 7\" Portable Rechargeable Digital LCD TV",
+    "model": "93580760M",
+    "url": "https://www.staples.com/Supersonic-7-Portable-Rechargeable-Digital-LCD-TV/product_283953",
     "category": "Televisions",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "Westinghouse WD24FC1360-RB Refurbished 24 IN. 1080P LED Television",
-    "model": "WD24FC1360-RB",
+    "brand": "Axess® 15.4\" LED AC/DC TV With DVD Player",
+    "model": "93581148M",
+    "url": "https://www.staples.com/Axess-15-4-LED-AC-DC-TV-With-DVD-Player/product_282999",
     "category": "Televisions",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "VIZIO SmartCast™ E-Series E65-E1 65\" UHD 2160p LED LCD Home Theater Display, Black",
-    "model": "E65-E1",
+    "brand": "Samsung 5300 UN49M5300AF 48.5\" 1080p LED-LCD TV, 16:9, HDTV, Black (UN49M5300AFXZA)",
+    "model": "UN49M5300AFXZA",
+    "url": "https://www.staples.com/Samsung-5300-UN49M5300AF-48-5-1080p-LED-LCD-TV-16-9-HDTV-Black-UN49M5300AFXZA/product_IM19A2180",
     "category": "Televisions",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "LG 32LJ500B 32\" Class 720P HD LED TV",
-    "model": "32LJ500B",
+    "brand": "LG 28LJ4540 28\" Class 720P HD LED TV",
+    "model": "28LJ4540",
+    "url": "https://www.staples.com/lg-28lj4540-28-class-720p-hd-led-tv/product_24328491",
     "category": "Televisions",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "Samsung DM-E Series DM55E 55\" 1080p Full HD Slim Direct-Lit LED Display, Black",
-    "model": "DM55E",
+    "brand": "Samsung 7500 UN49MU7500F 49\" 2160p LED-LCD TV, 16:9, 4K UHDTV, Titan Silver (UN49MU7500FXZA)",
+    "model": "UN49MU7500FXZA",
+    "url": "https://www.staples.com/Samsung-7500-UN49MU7500F-49-2160p-LED-LCD-TV-16-9-4K-UHDTV-Titan-Silver-UN49MU7500FXZA/product_IM18Q8810",
     "category": "Televisions",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "Axess  tv1703 7\" 720p Digital LCD TV",
-    "model": "93589512M",
+    "brand": "Samsung 7500 UN65MU7500F 65\" 2160p LED-LCD TV, 16:9, 4K UHDTV, Titan Silver (UN65MU7500FXZA)",
+    "model": "UN65MU7500FXZA",
+    "url": "https://www.staples.com/Samsung-7500-UN65MU7500F-65-2160p-LED-LCD-TV-16-9-4K-UHDTV-Titan-Silver-UN65MU7500FXZA/product_IM18Q8808",
     "category": "Televisions",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "Axess TVD1801-32 32\" Digital LED 720p HD TV with DVD Player, Black",
-    "model": "93593295M",
+    "brand": "Axess® 19\" AC/DC LED Full HDTV With HDMI and USB",
+    "model": "93581157M",
+    "url": "https://www.staples.com/Axess-19-AC-DC-LED-Full-HDTV-With-HDMI-and-USB/product_283002",
     "category": "Televisions",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "Supersonic Sc-2810 10\" Portable Lcd Tv",
-    "model": "SSCSC2810",
+    "brand": "Samsung 5300 UN40M5300AF 39.5\" 1080p LED-LCD TV, 16:9, HDTV, Black",
+    "model": "UN40M5300AFXZA",
+    "url": "https://www.staples.com/samsung-5300-un40m5300af-39-5-1080p-led-lcd-tv-16-9-hdtv-black/product_2801243",
     "category": "Televisions",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "Supersonic® 1366 x 768 SC-1312 13.3\" Widescreen LED HD Television With Built-In DVD Player",
-    "model": "93575731M",
+    "brand": "VIZIO SmartCast E-Series E70-E3 70\" 2160p HDR LED-LCD Display, Black",
+    "model": "E70-E3",
+    "url": "https://www.staples.com/vizio-smartcast-e-series-e70-e3-70-2160p-hdr-led-lcd-display-black/product_24207774",
     "category": "Televisions",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "Samsung UN32M530D-RB Refurbished 32 in 1080P Smart LED - Black",
-    "model": "UN32M530D-RB",
+    "brand": "Samsung 6300 UN65MU6300F 65\" 2160p LED-LCD TV, 16:9, 4K UHDTV, Dark Titan",
+    "model": "UN65MU6300FXZA",
+    "url": "https://www.staples.com/samsung-6300-un65mu6300f-65-2160p-led-lcd-tv-16-9-4k-uhdtv-dark-titan/product_2801241",
     "category": "Televisions",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "Samsung TE310 Refurbished 24 IN. 720P LED Television",
-    "model": "T24E310ND-RB",
+    "brand": "Samsung 6500 UN49MU6500F 49\" 2160p LED-LCD TV, 16:9, 4K UHDTV, Dark Titan (UN49MU6500FXZA)",
+    "model": "UN49MU6500FXZA",
+    "url": "https://www.staples.com/Samsung-6500-UN49MU6500F-49-2160p-LED-LCD-TV-16-9-4K-UHDTV-Dark-Titan-UN49MU6500FXZA/product_IM18Q8817",
     "category": "Televisions",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "Samsung 470 Series HG43NE470SFXZA 43\" 1080p LED-LCD TV, Black",
-    "model": "HG43NE470SFXZA",
+    "brand": "Samsung 4000 UN32J4000CF 31.5\" 720p LED-LCD TV, 16:9, HDTV, Black",
+    "model": "UN32J4000CFXZA",
+    "url": "https://www.staples.com/samsung-4000-un32j4000cf-31-5-720p-led-lcd-tv-16-9-hdtv-black/product_2801158",
     "category": "Televisions",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "Axess 9\" Portable TV ATSC with Rechargeable Battery (TV1703-9)",
-    "model": "935102431M",
-    "category": "Televisions",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "LG 43LJ5000 43\" Class Full HD 1080P TV",
-    "model": "43LJ5000",
-    "category": "Televisions",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Axess® 13.3\" LED AC/DC TV With DVD Player (93581149M)",
-    "model": "93581149M",
-    "category": "Televisions",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Axess® 19\" LED AC/DC TV With DVD Player",
-    "model": "93581147M",
-    "category": "Televisions",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "LG 43UD79-B 43\" Class 4K UHD IPS LED Monitor",
-    "model": "43UD79-B",
-    "category": "Televisions",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Samsung 478 Series HG43NE478SFXZA 43\" 1080p Hospitality LED LCD TV",
-    "model": "HG43NE478SFXZA",
+    "brand": "VIZIO D-Series D39HN-E0 39\" 720p Class Full Array LED-LCD TV, Black",
+    "model": "D39HN-D0",
+    "url": "https://www.staples.com/VIZIO-D-Series-D39HN-E0-39-720p-Class-Full-Array-LED-LCD-TV-Black/product_IM11Y1657",
     "category": "Televisions",
     "source": "Staples",
     "sourceType": "retailer",
@@ -378,6 +191,2185 @@
   {
     "brand": "Naxa 7\" Portable TV & Digital Multimedia Player",
     "model": "NAXNT70",
+    "url": "https://www.staples.com/Naxa-7-Portable-TV-Digital-Multimedia-Player/product_2141685",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Axess® 19\" LED AC/DC TV With DVD Player",
+    "model": "93581147M",
+    "url": "https://www.staples.com/Axess-19-LED-AC-DC-TV-With-DVD-Player/product_282998",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG 43UD79-B 43\" Class 4K UHD IPS LED Monitor",
+    "model": "43UD79-B",
+    "url": "https://www.staples.com/lg-43ud79-b-43-class-4k-uhd-ips-led-monitor/product_24328493",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Westinghouse WD32HB1120-RB Refurbished 32 IN. 720P LED Television",
+    "model": "WD32HB1120-RB",
+    "url": "https://www.staples.com/westinghouse-wd32hb1120-rb-refurbished-32-in-720p-led-television/product_24288235",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung J520D Full LED Smart TV 40 IN. 1080p Television",
+    "model": "UN40J520DAFXZA",
+    "url": "https://www.staples.com/samsung-j520d-full-led-smart-tv-40-in-1080p-television/product_24288249",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "VIZIO D-Series 32\" 720p Full-Array LED LCD TV",
+    "model": "D32HN-D0",
+    "url": "https://www.staples.com/VIZIO-D-Series-32-720p-Full-Array-LED-LCD-TV/product_IM11Y1394",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "VIZIO SmartCast D D50f-F1 49.5\" 1080p LED-LCD TV, 16:9, HDTV, Black (D50F-F1)",
+    "model": "D50F-F1",
+    "url": "https://www.staples.com/vizio-smartcast-d-d50f-f1-49-5-1080p-led-lcd-tv-16-9-hdtv-black-d50f-f1/product_IM12KB749",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung 4500 UN32M4500AF 31.5\" 720p LED-LCD TV, 16:9, HDTV, Black",
+    "model": "UN32M4500AFXZA",
+    "url": "https://www.staples.com/samsung-4500-un32m4500af-31-5-720p-led-lcd-tv-16-9-hdtv-black/product_2801157",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic  sc499 9\" Portable Digital LCD TV",
+    "model": "93586003M",
+    "url": "https://www.staples.com/Supersonic-sc499-9-Portable-Digital-LCD-TV/product_1832948",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung 477 Series HG40NE477SFXZA 40\" 1080p Hospitality LED-LCD TV, Black",
+    "model": "HG40NE477SFXZA",
+    "url": "https://www.staples.com/Samsung-477-Series-HG40NE477SFXZA-40-1080p-Hospitality-LED-LCD-TV-Black/product_IM14Q2439",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Axess tv1701 13.3\" High-Definition LED TV (93591125M)",
+    "model": "93591125M",
+    "url": "https://www.staples.com/axess-tv1701-13-3-high-definition-led-tv-93591125m/product_1832940",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic® 7\" Portable Rechargeable Digital LCD TV",
+    "model": "93580760M",
+    "url": "https://www.staples.com/Supersonic-7-Portable-Rechargeable-Digital-LCD-TV/product_283953",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Axess® 15.4\" LED AC/DC TV With DVD Player",
+    "model": "93581148M",
+    "url": "https://www.staples.com/Axess-15-4-LED-AC-DC-TV-With-DVD-Player/product_282999",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung 5300 UN49M5300AF 48.5\" 1080p LED-LCD TV, 16:9, HDTV, Black (UN49M5300AFXZA)",
+    "model": "UN49M5300AFXZA",
+    "url": "https://www.staples.com/Samsung-5300-UN49M5300AF-48-5-1080p-LED-LCD-TV-16-9-HDTV-Black-UN49M5300AFXZA/product_IM19A2180",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG 28LJ4540 28\" Class 720P HD LED TV",
+    "model": "28LJ4540",
+    "url": "https://www.staples.com/lg-28lj4540-28-class-720p-hd-led-tv/product_24328491",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung 7500 UN49MU7500F 49\" 2160p LED-LCD TV, 16:9, 4K UHDTV, Titan Silver (UN49MU7500FXZA)",
+    "model": "UN49MU7500FXZA",
+    "url": "https://www.staples.com/Samsung-7500-UN49MU7500F-49-2160p-LED-LCD-TV-16-9-4K-UHDTV-Titan-Silver-UN49MU7500FXZA/product_IM18Q8810",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung 7500 UN65MU7500F 65\" 2160p LED-LCD TV, 16:9, 4K UHDTV, Titan Silver (UN65MU7500FXZA)",
+    "model": "UN65MU7500FXZA",
+    "url": "https://www.staples.com/Samsung-7500-UN65MU7500F-65-2160p-LED-LCD-TV-16-9-4K-UHDTV-Titan-Silver-UN65MU7500FXZA/product_IM18Q8808",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Axess® 19\" AC/DC LED Full HDTV With HDMI and USB",
+    "model": "93581157M",
+    "url": "https://www.staples.com/Axess-19-AC-DC-LED-Full-HDTV-With-HDMI-and-USB/product_283002",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung 5300 UN40M5300AF 39.5\" 1080p LED-LCD TV, 16:9, HDTV, Black",
+    "model": "UN40M5300AFXZA",
+    "url": "https://www.staples.com/samsung-5300-un40m5300af-39-5-1080p-led-lcd-tv-16-9-hdtv-black/product_2801243",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "VIZIO SmartCast E-Series E70-E3 70\" 2160p HDR LED-LCD Display, Black",
+    "model": "E70-E3",
+    "url": "https://www.staples.com/vizio-smartcast-e-series-e70-e3-70-2160p-hdr-led-lcd-display-black/product_24207774",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung 6300 UN65MU6300F 65\" 2160p LED-LCD TV, 16:9, 4K UHDTV, Dark Titan",
+    "model": "UN65MU6300FXZA",
+    "url": "https://www.staples.com/samsung-6300-un65mu6300f-65-2160p-led-lcd-tv-16-9-4k-uhdtv-dark-titan/product_2801241",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung 6500 UN49MU6500F 49\" 2160p LED-LCD TV, 16:9, 4K UHDTV, Dark Titan (UN49MU6500FXZA)",
+    "model": "UN49MU6500FXZA",
+    "url": "https://www.staples.com/Samsung-6500-UN49MU6500F-49-2160p-LED-LCD-TV-16-9-4K-UHDTV-Dark-Titan-UN49MU6500FXZA/product_IM18Q8817",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung 4000 UN32J4000CF 31.5\" 720p LED-LCD TV, 16:9, HDTV, Black",
+    "model": "UN32J4000CFXZA",
+    "url": "https://www.staples.com/samsung-4000-un32j4000cf-31-5-720p-led-lcd-tv-16-9-hdtv-black/product_2801158",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "VIZIO D-Series D39HN-E0 39\" 720p Class Full Array LED-LCD TV, Black",
+    "model": "D39HN-D0",
+    "url": "https://www.staples.com/VIZIO-D-Series-D39HN-E0-39-720p-Class-Full-Array-LED-LCD-TV-Black/product_IM11Y1657",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Naxa 7\" Portable TV & Digital Multimedia Player",
+    "model": "NAXNT70",
+    "url": "https://www.staples.com/Naxa-7-Portable-TV-Digital-Multimedia-Player/product_2141685",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Axess® 19\" LED AC/DC TV With DVD Player",
+    "model": "93581147M",
+    "url": "https://www.staples.com/Axess-19-LED-AC-DC-TV-With-DVD-Player/product_282998",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG 43UD79-B 43\" Class 4K UHD IPS LED Monitor",
+    "model": "43UD79-B",
+    "url": "https://www.staples.com/lg-43ud79-b-43-class-4k-uhd-ips-led-monitor/product_24328493",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Axess® 13.3\" LED AC/DC TV With DVD Player (93581149M)",
+    "model": "93581149M",
+    "url": "https://www.staples.com/axess-13-3-led-ac-dc-tv-with-dvd-player-93581149m/product_283000",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG 43LJ5000 43\" Class Full HD 1080P TV",
+    "model": "43LJ5000",
+    "url": "https://www.staples.com/lg-43lj5000-43-class-full-hd-1080p-tv/product_24328488",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Axess 9\" Portable TV ATSC with Rechargeable Battery (TV1703-9)",
+    "model": "935102431M",
+    "url": "https://www.staples.com/axess-9-portable-tv-atsc-with-rechargeable-battery-tv1703-9/product_24194659",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung 470 Series HG43NE470SFXZA 43\" 1080p LED-LCD TV, Black",
+    "model": "HG43NE470SFXZA",
+    "url": "https://www.staples.com/Samsung-470-Series-HG43NE470SFXZA-43-1080p-LED-LCD-TV-Black/product_IM14Q2441",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung TE310 Refurbished 24 IN. 720P LED Television",
+    "model": "T24E310ND-RB",
+    "url": "https://www.staples.com/samsung-te310-refurbished-24-in-720p-led-television/product_24288260",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung UN32M530D-RB Refurbished 32 in 1080P Smart LED - Black",
+    "model": "UN32M530D-RB",
+    "url": "https://www.staples.com/samsung-un32m530d-rb-refurbished-32-in-1080p-smart-led-black/product_24307491",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Axess TVD1801-32 32\" Digital LED 720p HD TV with DVD Player, Black",
+    "model": "93593295M",
+    "url": "https://www.staples.com/Axess-TVD1801-32-32-Digital-LED-720p-HD-TV-with-DVD-Player-Black/product_24004507",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic® 1366 x 768 SC-1312 13.3\" Widescreen LED HD Television With Built-In DVD Player",
+    "model": "93575731M",
+    "url": "https://www.staples.com/Supersonic-1366-x-768-SC-1312-13-3-Widescreen-LED-HD-Television-With-Built-In-DVD-Player/product_132971",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic Sc-2810 10\" Portable Lcd Tv",
+    "model": "SSCSC2810",
+    "url": "https://www.staples.com/Supersonic-Sc-2810-10-Portable-Lcd-Tv/product_23974845",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung DM-E Series DM55E 55\" 1080p Full HD Slim Direct-Lit LED Display, Black",
+    "model": "DM55E",
+    "url": "https://www.staples.com/Samsung-DM-E-Series-DM55E-55-1080p-Full-HD-Slim-Direct-Lit-LED-Display-Black/product_IM11C4022",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG 32LJ500B 32\" Class 720P HD LED TV",
+    "model": "32LJ500B",
+    "url": "https://www.staples.com/lg-32lj500b-32-class-720p-hd-led-tv/product_24328492",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Axess  tv1703 7\" 720p Digital LCD TV",
+    "model": "93589512M",
+    "url": "https://www.staples.com/Axess-tv1703-7-720p-Digital-LCD-TV/product_1832938",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "VIZIO SmartCast™ E-Series E65-E1 65\" UHD 2160p LED LCD Home Theater Display, Black",
+    "model": "E65-E1",
+    "url": "https://www.staples.com/VIZIO-SmartCast-E-Series-E65-E1-65-UHD-2160p-LED-LCD-Home-Theater-Display-Black/product_IM14T9694",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Westinghouse WD24FC1360-RB Refurbished 24 IN. 1080P LED Television",
+    "model": "WD24FC1360-RB",
+    "url": "https://www.staples.com/westinghouse-wd24fc1360-rb-refurbished-24-in-1080p-led-television/product_24288236",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Vizio D32F-E1-RB Refurbished 32 IN. 1080P LED Television",
+    "model": "D32F-E1-RB",
+    "url": "https://www.staples.com/vizio-d32f-e1-rb-refurbished-32-in-1080p-led-television/product_24288246",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "VIZIO D D60-F3 55\" 2160p LED-LCD TV, 16:9, 4K UHDTV",
+    "model": "D60-F3",
+    "url": "https://www.staples.com/vizio-d-d60-f3-55-2160p-led-lcd-tv-16-9-4k-uhdtv/product_IM12TM060",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Westinghouse WD32HD1390-RB Refurbished 32 IN. 720P LED Television",
+    "model": "WD32HD1390-RB",
+    "url": "https://www.staples.com/westinghouse-wd32hd1390-rb-refurbished-32-in-720p-led-television/product_24288233",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Gpx Tde3274bp 32\" 1080p Led Tv/dvd Combination",
+    "model": "GPXTDE3274BP",
+    "url": "https://www.staples.com/Gpx-Tde3274bp-32-1080p-Led-Tv-dvd-Combination/product_23974694",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung 6300 UN75MU6300F 75\" 2160p LED-LCD TV, 16:9, 4K UHDTV",
+    "model": "UN75MU6300FXZA",
+    "url": "https://www.staples.com/samsung-6300-un75mu6300f-75-2160p-led-lcd-tv-16-9-4k-uhdtv/product_2801240",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sharp PN-LE PN-LE601 60\" 1080p LED-LCD TV, 16:9, HDTV (PNLE601)",
+    "model": "PN-LE601",
+    "url": "https://www.staples.com/Sharp-PN-LE-PN-LE601-60-1080p-LED-LCD-TV-16-9-HDTV-PNLE601/product_IM19Y6104",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG 43UJ6300 43\" Class 4K LED TV With Smarttv",
+    "model": "43UJ6300",
+    "url": "https://www.staples.com/lg-43uj6300-43-class-4k-led-tv-with-smarttv/product_24328485",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "TCL 55C803-RB Refurbished 55 in. 4K Smart LED - Black",
+    "model": "55C803-RB",
+    "url": "https://www.staples.com/tcl-55c803-rb-refurbished-55-in-4k-smart-led-black/product_24307474",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Westinghouse WD40FX1170-RB Refurbished 40 IN. 1080P LED Television",
+    "model": "WD40FX1170-RB",
+    "url": "https://www.staples.com/westinghouse-wd40fx1170-rb-refurbished-40-in-1080p-led-television/product_24288250",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Innovera Black-Out Privacy Filter For 21.5\" Widescreen Lcd Monitor",
+    "model": "BLF215W",
+    "url": "https://www.staples.com/Innovera-Black-Out-Privacy-Filter-For-21-5-Widescreen-Lcd-Monitor/product_IVRBLF215W",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic® 1920 x 1080 SC-2412 24\" Widescreen LED HD Television With Built-In DVD Player",
+    "model": "93576168M",
+    "url": "https://www.staples.com/Supersonic-1920-x-1080-SC-2412-24-Widescreen-LED-HD-Television-With-Built-In-DVD-Player/product_132973",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Vizio E43U-D2-RB Refurbished 43 IN. 2160P LED Television",
+    "model": "E43U-D2-RB",
+    "url": "https://www.staples.com/vizio-e43u-d2-rb-refurbished-43-in-2160p-led-television/product_24288242",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Naxa 24\" LED TV with DVD Player & Built-in Soundbar (NTD-2460)",
+    "model": "NAXNTD2460",
+    "url": "https://www.staples.com/Naxa-24-LED-TV-with-DVD-Player-Built-in-Soundbar-NTD-2460/product_24197378",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Naxa 13.3\" LED TV with DVD/Media Player & Car Package (NTD-1356)",
+    "model": "NAXNTD1356",
+    "url": "https://www.staples.com/Naxa-13-3-LED-TV-with-DVD-Media-Player-Car-Package-NTD-1356/product_24197377",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "VIZIO D D65-F1 64.5\" 2160p LED-LCD TV, 16:9, 4K UHDTV",
+    "model": "D65-F1",
+    "url": "https://www.staples.com/vizio-d-d65-f1-64-5-2160p-led-lcd-tv-16-9-4k-uhdtv/product_IM12TM061",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Westinghouse WD42FB2680-RB Refurbished  42 in. Smart LED - Black",
+    "model": "WD42FB2680-RB",
+    "url": "https://www.staples.com/westinghouse-wd42fb2680-rb-refurbished-42-in-smart-led-black/product_24307471",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Proscan Pledv1945a 19\" 720p Led Tv/dvd Combo With Atsc Tuner",
+    "model": "CURPLEDV1945A",
+    "url": "https://www.staples.com/Proscan-Pledv1945a-19-720p-Led-Tv-dvd-Combo-With-Atsc-Tuner/product_23979232",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Naxa 10\" Portable TV & Digital Multimedia Player with Car Package(NT-110)",
+    "model": "NAXT110",
+    "url": "https://www.staples.com/naxa-10-portable-tv-digital-multimedia-player-with-car-package-nt-110/product_24329519",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG 55LV35A-5B 55\" Class Full HD Widescreen Monitor",
+    "model": "55LV35A-5B",
+    "url": "https://www.staples.com/LG-55LV35A-5B-55-Class-Full-HD-Widescreen-Monitor/product_IM1VV3528",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung UN43MU630D-RB Refurbished 43 IN. 2160P LED Television",
+    "model": "UN43MU630D-RB",
+    "url": "https://www.staples.com/samsung-un43mu630d-rb-refurbished-43-in-2160p-led-television/product_24288257",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Hisense 40H3B-RB REFURBISHED 40 IN. 1080P LED Television",
+    "model": "40H3B-RB",
+    "url": "https://www.staples.com/hisense-40h3b-rb-refurbished-40-in-1080p-led-television/product_24288261",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG UV340C 75UV340C 74.6\" 2160p LED-LCD TV, 16:9, 4K UHDTV, TAA Compliant (75UV340C)",
+    "model": "75UV340C",
+    "url": "https://www.staples.com/LG-UV340C-75UV340C-74-6-2160p-LED-LCD-TV-16-9-4K-UHDTV-TAA-Compliant-75UV340C/product_IM19Z6891",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Proscan 24\" 1080p Direct LED Full HDTV With DVD Player",
+    "model": "CURPLEDV2488A",
+    "url": "https://www.staples.com/Proscan-24-1080p-Direct-LED-Full-HDTV-With-DVD-Player/product_1199991",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania 10.2\" Under-counter Bluetooth Kitchen TV With Built-in DVD Player & HDMI",
+    "model": "CURSKCR2706BT",
+    "url": "https://www.staples.com/Sylvania-10-2-Under-counter-Bluetooth-Kitchen-TV-With-Built-in-DVD-Player-HDMI/product_2141670",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Vizio E40-D0-RB Refurbished 40 IN. 1080P LED Television",
+    "model": "E40-D0-RB",
+    "url": "https://www.staples.com/vizio-e40-d0-rb-refurbished-40-in-1080p-led-television/product_24288239",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Vizio M43-C1-RB Refurbished 43 IN. 2160P LED Television",
+    "model": "M43-C1-RB",
+    "url": "https://www.staples.com/vizio-m43-c1-rb-refurbished-43-in-2160p-led-television/product_24288243",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sharp PN-LE PN-LE901 90\" 1080p LED-LCD TV, 16:9, HDTV",
+    "model": "PN-LE901",
+    "url": "https://www.staples.com/Sharp-PN-LE-PN-LE901-90-1080p-LED-LCD-TV-16-9-HDTV/product_IM18K0228",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Protective Antiglare LCD Monitor Filter, Fits Laptop/LCD to 15\"",
+    "model": "46401",
+    "url": "https://www.staples.com/Protective-Antiglare-LCD-Monitor-Filter-Fits-Laptop-LCD-to-15/product_IVR46401",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sharp LC-43P5000U-RB Refurbished 43 In. 1080P Smart LED - Black",
+    "model": "LC-43P5000U-RB",
+    "url": "https://www.staples.com/sharp-lc-43p5000u-rb-refurbished-43-in-1080p-smart-led-black/product_24307473",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Westinghouse WD32FB2530-RB Refurbished 32 IN. 1080P LED Television",
+    "model": "WD32FB2530-RB",
+    "url": "https://www.staples.com/westinghouse-wd32fb2530-rb-refurbished-32-in-1080p-led-television/product_24288237",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Hisense 40H3EA-RB Refurbished 40 in. 1080P Television",
+    "model": "40H3EA-RB",
+    "url": "https://www.staples.com/hisense-40h3ea-rb-refurbished-40-in-1080p-television/product_24288268",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung 693 Series HG32NF693GFXZA 32\" 1080p LED-LCD TV, Black",
+    "model": "HG32NF693GFXZA",
+    "url": "https://www.staples.com/samsung-693-series-hg32nf693gfxza-32-1080p-led-lcd-tv-black/product_2826667",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic 15.6\" LED TV",
+    "model": "SSCSC1511",
+    "url": "https://www.staples.com/Supersonic-15-6-LED-TV/product_2141673",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "VIZIO SmartCast M-Series M70-E3 70\" 2160p HDR LED-LCD Display, Black",
+    "model": "M70-E3",
+    "url": "https://www.staples.com/vizio-smartcast-m-series-m70-e3-70-2160p-hdr-led-lcd-display-black/product_24197161",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "VIZIO SmartCast E-Series E43-E2 43\" 2160p LED-LCD Display, Black",
+    "model": "E43-E2",
+    "url": "https://www.staples.com/vizio-smartcast-e-series-e43-e2-43-2160p-led-lcd-display-black/product_24197231",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG 32UD59-B 32\" class 4K UHD LED Monitor",
+    "model": "32UD59-B",
+    "url": "https://www.staples.com/lg-32ud59-b-32-class-4k-uhd-led-monitor/product_24328487",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung 690U Series HG65NF690UFXZA 65\" 2160p LED-LCD Hospitality TV, Black",
+    "model": "HG65NF690UFXZA",
+    "url": "https://www.staples.com/samsung-690u-series-hg65nf690ufxza-65-2160p-led-lcd-hospitality-tv-black/product_24207727",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "NEC E Series E905 90\" 1080p Commercial LED LCD TV, Black",
+    "model": "E905",
+    "url": "https://www.staples.com/NEC-E-Series-E905-90-1080p-Commercial-LED-LCD-TV-Black/product_IM1ZG7461",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic® 1366 x 768 SC-1911 19\" Widescreen LED HD Television",
+    "model": "93575497M",
+    "url": "https://www.staples.com/supersonic-1366-x-768-sc-1911-19-widescreen-led-hd-television/product_132969",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Westinghouse WD43UB4530-RB Refurbished 43 in. 4K Smart LED - Black",
+    "model": "WD43UB4530-RB",
+    "url": "https://www.staples.com/westinghouse-wd43ub4530-rb-refurbished-43-in-4k-smart-led-black/product_24307472",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Axess 40\" Class Widescreen HD LED TV (TV1703-40)",
+    "model": "935102525M",
+    "url": "https://www.staples.com/axess-40-class-widescreen-hd-led-tv-tv1703-40/product_24194658",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "TLC  43UP130 Refurbished 43 IN. 2160P Television",
+    "model": "43UP130-RB",
+    "url": "https://www.staples.com/tlc-43up130-refurbished-43-in-2160p-television/product_24288253",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG 43\" Class (42.5\" Diagonal) 43LV340C Essential Commercial TV Functionality",
+    "model": "43LV340C",
+    "url": "https://www.staples.com/LG-43-Class-42-5-Diagonal-43LV340C-Essential-Commercial-TV-Functionality/product_IM18K2137",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Hisense 40H3C1-RB Refurbished 40 in. 1080P Television",
+    "model": "40H3C1-RB",
+    "url": "https://www.staples.com/hisense-40h3c1-rb-refurbished-40-in-1080p-television/product_24288267",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG 43UH610A Refurbished 43 IN. 2160P LED Television",
+    "model": "43UH610A-RB",
+    "url": "https://www.staples.com/lg-43uh610a-refurbished-43-in-2160p-led-television/product_24288262",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Vizio E43-D2-RB Refurbished 43 IN. 1080P LED Television",
+    "model": "E43-D2-RB",
+    "url": "https://www.staples.com/vizio-e43-d2-rb-refurbished-43-in-1080p-led-television/product_24288245",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "VIZIO D D50-F1 50\" LED-LCD TV, 16:9",
+    "model": "D50-F1",
+    "url": "https://www.staples.com/vizio-d-d50-f1-50-led-lcd-tv-16-9/product_IM12TM058",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic® 1366 x 768 SC-1311 13.3\" Widescreen LED HD Television",
+    "model": "93576308M",
+    "url": "https://www.staples.com/supersonic-1366-x-768-sc-1311-13-3-widescreen-led-hd-television/product_132976",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Westinghouse WD24HB2600-RB Refurbished 24 in. LED - Black",
+    "model": "WD24HB2600-RB",
+    "url": "https://www.staples.com/westinghouse-wd24hb2600-rb-refurbished-24-in-led-black/product_24307476",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Proscan 48\" 1080p D-LED TV",
+    "model": "CURPLDED4897A",
+    "url": "https://www.staples.com/Proscan-48-1080p-D-LED-TV/product_2141693",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung DB-E Series DB32E 32\" 1080p Slim Direct-Lit LED-LCD Digital Signage Display, Black",
+    "model": "DB32E",
+    "url": "https://www.staples.com/Samsung-DB-E-Series-DB32E-32-1080p-Slim-Direct-Lit-LED-LCD-Digital-Signage-Display-Black/product_IM11C4012",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sharp PN-LE PN-LE801 80\" 1080p LED-LCD TV, 16:9, HDTV (PNLE801)",
+    "model": "PN-LE801",
+    "url": "https://www.staples.com/Sharp-PN-LE-PN-LE801-80-1080p-LED-LCD-TV-16-9-HDTV-PNLE801/product_IM19X5001",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Vizio E43-C2-RB Refurbished 43 IN. 1080P LED Television",
+    "model": "E43-C2-RB",
+    "url": "https://www.staples.com/vizio-e43-c2-rb-refurbished-43-in-1080p-led-television/product_24288244",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Axess TVD1805-24 23.8 in. 1080p HD LED TV with DVD Player Black",
+    "model": "935102917M",
+    "url": "https://www.staples.com/axess-tvd1805-24-23-8-in-1080p-hd-led-tv-with-dvd-player-black/product_24272140",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung KU6290 Refurbished 40 IN. 2160P LED Television",
+    "model": "UN40KU6290FXZA",
+    "url": "https://www.staples.com/samsung-ku6290-refurbished-40-in-2160p-led-television/product_24288259",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "GPX® 720p TDE1982B 19-Inch LED HDTV/DVD Combination, Black",
+    "model": "GPXTDE1982B",
+    "url": "https://www.staples.com/GPX-720p-TDE1982B-19-Inch-LED-HDTV-DVD-Combination-Black/product_210581",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Naxa® 19\" 1080p Full HD LED TV and Media Player",
+    "model": "93586400M",
+    "url": "https://www.staples.com/Naxa-19-1080p-Full-HD-LED-TV-and-Media-Player/product_1271458",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "NEC Display 55\" LED Backlit Display with Integrated ATSC/NTSC Tuner",
+    "model": "E556",
+    "url": "https://www.staples.com/NEC-Display-55-LED-Backlit-Display-with-Integrated-ATSC-NTSC-Tuner/product_IM18J9006",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic® 360 deg HDTV Digital Amplified Motorized Rotating Antenna",
+    "model": "93583949M",
+    "url": "https://www.staples.com/Supersonic-360-deg-HDTV-Digital-Amplified-Motorized-Rotating-Antenna/product_284027",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "NEC Display 32\" LED Backlit Display with Integrated ATSC/NTSC Tuner",
+    "model": "E326",
+    "url": "https://www.staples.com/NEC-Display-32-LED-Backlit-Display-with-Integrated-ATSC-NTSC-Tuner/product_IM18J9004",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "NEC 1920 x 1080 E805 80\" LED-LCD Flat Panel Television",
+    "model": "E805",
+    "url": "https://www.staples.com/NEC-1920-x-1080-E805-80-LED-LCD-Flat-Panel-Television/product_IM1YE3496",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Axess TV1705-24 24 in. 1080p  Full HD LED TV Black",
+    "model": "935103176M",
+    "url": "https://www.staples.com/axess-tv1705-24-24-in-1080p-full-hd-led-tv-black/product_24272203",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG 55LV340C Digital Signage Display (55LV340C)",
+    "model": "55LV340C",
+    "url": "https://www.staples.com/LG-55LV340C-Digital-Signage-Display-55LV340C/product_IM18K2135",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Privacy Antiglare LCD Monitor Filter, for 21.5\"-22\" Widescreen Notebook/LCD",
+    "model": "46415",
+    "url": "https://www.staples.com/Privacy-Antiglare-LCD-Monitor-Filter-for-21-5-22-Widescreen-Notebook-LCD/product_IVR46415",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Naxa Nt-2410 23.6\" 720p Led Tv With Media Player",
+    "model": "NAXNT2410",
+    "url": "https://www.staples.com/Naxa-Nt-2410-23-6-720p-Led-Tv-With-Media-Player/product_23974818",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Vizio D40F-E1-RB Refurbished 40 IN. 1080P LED Television",
+    "model": "D40F-E1-RB",
+    "url": "https://www.staples.com/vizio-d40f-e1-rb-refurbished-40-in-1080p-led-television/product_24288240",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung UN40MU6290-RB Refurbished 40 in. 4K Smart LED - Black",
+    "model": "UN40MU6290-RB",
+    "url": "https://www.staples.com/samsung-un40mu6290-rb-refurbished-40-in-4k-smart-led-black/product_24307467",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG 49\" Class (48.5\" Diagonal) 49LV340C Essential Commercial TV Functionality",
+    "model": "49LV340C",
+    "url": "https://www.staples.com/LG-49-Class-48-5-Diagonal-49LV340C-Essential-Commercial-TV-Functionality/product_IM18K2136",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung DE55C 55\" Commercial Display",
+    "model": "DE55C",
+    "url": "https://www.staples.com/samsung-de55c-55-commercial-display/product_23976653",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Gpx Te1982b 19\" Led Hdtv",
+    "model": "GPXTE1982B",
+    "url": "https://www.staples.com/Gpx-Te1982b-19-Led-Hdtv/product_23974693",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "NEC Display 40\" Commercial-Grade Large Format Display",
+    "model": "V404",
+    "url": "https://www.staples.com/NEC-Display-40-Commercial-Grade-Large-Format-Display/product_IM18K1933",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic® 1920 x 1080 SC-2211 22\" Widescreen LED HD Television",
+    "model": "93576170M",
+    "url": "https://www.staples.com/Supersonic-1920-x-1080-SC-2211-22-Widescreen-LED-HD-Television/product_132975",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Christie UHD551-L 4K UHD 55\" Commercial-grade, Direct-lit LED LCD panel (135-017109-01)",
+    "model": "UHD551-L",
+    "url": "https://www.staples.com/christie-uhd551-l-4k-uhd-55-commercial-grade-direct-lit-led-lcd-panel-135-017109-01/product_24298113",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Christie UHD651-L 4K UHD 65\" Commercial-grade, Direct-lit LED LCD panel (135-018100-01)",
+    "model": "UHD651-L",
+    "url": "https://www.staples.com/christie-uhd651-l-4k-uhd-65-commercial-grade-direct-lit-led-lcd-panel-135-018100-01/product_24298114",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Privascreen Blackout Privacy Filter For 12.5\" LCD/Notebook",
+    "model": "4813001",
+    "url": "https://www.staples.com/Privascreen-Blackout-Privacy-Filter-For-12-5-LCD-Notebook/product_FEL4813001",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "QFX HD/DTV/UHF/VHF/FM 90 deg Rotating Antenna",
+    "model": "93583993M",
+    "url": "https://www.staples.com/qfx-hd-dtv-uhf-vhf-fm-90-deg-rotating-antenna/product_283746",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic® 15.6\" Class Widescreen LED HDTV With DVD Player (93576000M)",
+    "model": "93576000M",
+    "url": "https://www.staples.com/supersonic-15-6-class-widescreen-led-hdtv-with-dvd-player-93576000m/product_284029",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Gpx Tde1587b 15.6\" Led Tv/dvd Combination",
+    "model": "GPXTDE1587B",
+    "url": "https://www.staples.com/Gpx-Tde1587b-15-6-Led-Tv-dvd-Combination/product_23974711",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic® 1366 x 768 SC-1912 19\" Widescreen LED HD Television With Built-In DVD Player",
+    "model": "93575730M",
+    "url": "https://www.staples.com/Supersonic-1366-x-768-SC-1912-19-Widescreen-LED-HD-Television-With-Built-In-DVD-Player/product_132970",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung 32\" 1080p Slim LED LCD Display",
+    "model": "DM32E",
+    "url": "https://www.staples.com/Samsung-32-1080p-Slim-LED-LCD-Display/product_IM11C4019",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "NEC V323-2 32\" 1080p Full HD High-Performance Commercial-Grade LED Display, Black",
+    "model": "V323-2",
+    "url": "https://www.staples.com/NEC-V323-2-32-1080p-Full-HD-High-Performance-Commercial-Grade-LED-Display-Black/product_IM1ZL8531",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "NEC Display 50\" LED Backlit Display with Integrated ATSC/NTSC Tuner",
+    "model": "E506",
+    "url": "https://www.staples.com/NEC-Display-50-LED-Backlit-Display-with-Integrated-ATSC-NTSC-Tuner/product_IM18J9005",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Naxa Ntd-2457a 23.6\" Led Tv & Dvd/media Player Combination With Car Package",
+    "model": "NAXNTD2457",
+    "url": "https://www.staples.com/Naxa-Ntd-2457a-23-6-Led-Tv-Dvd-media-Player-Combination-With-Car-Package/product_23974817",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Philips 84\" U-Line Display",
+    "model": "BDL 8470QU",
+    "url": "https://www.staples.com/philips-84-u-line-display/product_23976644",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "NEC Display 48\" Commercial-Grade Large Format Display",
+    "model": "V484",
+    "url": "https://www.staples.com/NEC-Display-48-Commercial-Grade-Large-Format-Display/product_IM18K1934",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "NEC Display MultiSync E656 LCD 65\" Entry Level Large Format Display",
+    "model": "E656",
+    "url": "https://www.staples.com/NEC-Display-MultiSync-E656-LCD-65-Entry-Level-Large-Format-Display/product_IM18K3278",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "NEC Display 48\" Professional-Grade Large Format Display",
+    "model": "P484",
+    "url": "https://www.staples.com/nec-display-48-professional-grade-large-format-display/product_IM18K1932",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Axess TVD1805-19 18.5 in. 1366 x 768  HD LED TV with DVD Player Black",
+    "model": "935102930M",
+    "url": "https://www.staples.com/axess-tvd1805-19-18-5-in-1366-x-768-hd-led-tv-with-dvd-player-black/product_24272215",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Philips Signage Solutions U-Line 75BDL3000U",
+    "model": "75BDL3000U",
+    "url": "https://www.staples.com/philips-signage-solutions-u-line-75bdl3000u/product_24326128",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Philips Signage Solutions 43BDL4051T",
+    "model": "43BDL4051T",
+    "url": "https://www.staples.com/philips-signage-solutions-43bdl4051t/product_24326122",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "NEC Display 55\" Commercial-Grade Large Format Display",
+    "model": "V554",
+    "url": "https://www.staples.com/nec-display-55-commercial-grade-large-format-display/product_IM18K1935",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Philips Signage Solutions D-Line 32BDL4050D",
+    "model": "32BDL4050D",
+    "url": "https://www.staples.com/philips-signage-solutions-d-line-32bdl4050d/product_24326132",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Philips Signage Solutions H-Line 75BDL3003H",
+    "model": "75BDL3003H",
+    "url": "https://www.staples.com/philips-signage-solutions-h-line-75bdl3003h/product_24326121",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Philips Signage Solutions 75BDL3010T",
+    "model": "75BDL3010T",
+    "url": "https://www.staples.com/philips-signage-solutions-75bdl3010t/product_24326131",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Philips Signage Solutions E-Line BDL5570EL",
+    "model": "BDL5570EL",
+    "url": "https://www.staples.com/philips-signage-solutions-e-line-bdl5570el/product_24326130",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Philips Signage Solutions Q-Line 86BDL3050Q",
+    "model": "86BDL3050Q",
+    "url": "https://www.staples.com/philips-signage-solutions-q-line-86bdl3050q/product_24326125",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Philips Signage Solutions Q-Line 75BDL3050Q",
+    "model": "75BDL3050Q",
+    "url": "https://www.staples.com/philips-signage-solutions-q-line-75bdl3050q/product_24326124",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Philips Signage Solutions Q-Line 55BDL3050Q",
+    "model": "55BDL3050Q",
+    "url": "https://www.staples.com/philips-signage-solutions-q-line-55bdl3050q/product_24326126",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Philips Signage Solutions BDL4988XC",
+    "model": "BDL4988XC",
+    "url": "https://www.staples.com/philips-signage-solutions-bdl4988xc/product_24326138",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Shuttle XPC nano NS02A Digital Signage Appliance",
+    "model": "NS02A",
+    "url": "https://www.staples.com/Shuttle-XPC-nano-NS02A-Digital-Signage-Appliance/product_IM18G9289",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Philips Signage Solutions P-Line 55BDL5055P",
+    "model": "55BDL5055P",
+    "url": "https://www.staples.com/philips-signage-solutions-p-line-55bdl5055p/product_24326136",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Panasonic TH-55VF1HU Digital Signage Display",
+    "model": "TH-55VF1HU",
+    "url": "https://www.staples.com/Panasonic-TH-55VF1HU-Digital-Signage-Display/product_IM17U0089",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Philips Signage Solutions D-Line 65BDL4050D",
+    "model": "65BDL4050D",
+    "url": "https://www.staples.com/philips-signage-solutions-d-line-65bdl4050d/product_24326133",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Philips Signage Solutions P-Line 42BDL5055P",
+    "model": "42BDL5055P",
+    "url": "https://www.staples.com/philips-signage-solutions-p-line-42bdl5055p/product_24326134",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Philips Signage Solutions D-Line 55BDL4050D",
+    "model": "55BDL4050D",
+    "url": "https://www.staples.com/philips-signage-solutions-d-line-55bdl4050d/product_24326129",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Elo ECM Android Computer Modules",
+    "model": "E336899",
+    "url": "https://www.staples.com/Elo-ECM-Android-Computer-Modules/product_IM12R5685",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Philips Signage Solutions BDL5588XC",
+    "model": "BDL5588XC",
+    "url": "https://www.staples.com/philips-signage-solutions-bdl5588xc/product_24326123",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Philips Signage Solutions V-Line BDL5590VL",
+    "model": "BDL5590VL",
+    "url": "https://www.staples.com/philips-signage-solutions-v-line-bdl5590vl/product_24326127",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Philips 43\" Multi Touch Display",
+    "model": "43BDL4051T",
+    "url": "https://www.staples.com/philips-43-multi-touch-display/product_23976645",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Elo Digital Signage Appliance (E992401)",
+    "model": "E992401",
+    "url": "https://www.staples.com/Elo-Digital-Signage-Appliance-E992401/product_IM18B7204",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Philips Signage Solutions 65BDL3051T",
+    "model": "65BDL3051T",
+    "url": "https://www.staples.com/philips-signage-solutions-65bdl3051t/product_24326135",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Philips Signage Solutions D-Line 49BDL4050D",
+    "model": "49BDL4050D",
+    "url": "https://www.staples.com/philips-signage-solutions-d-line-49bdl4050d/product_24326137",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung 470 Series HG40NE470SFXZA 40\" 1080p Hospitality LED-LCD TV, Black",
+    "model": "HG40NE470SFXZA",
+    "url": "https://www.staples.com/Samsung-470-Series-HG40NE470SFXZA-40-1080p-Hospitality-LED-LCD-TV-Black/product_IM14Q2438",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung 470 Series HG55NE470BFXZA 55\" 1080p LED-LCD TV, Black",
+    "model": "HG55NE470BFXZA",
+    "url": "https://www.staples.com/Samsung-470-Series-HG55NE470BFXZA-55-1080p-LED-LCD-TV-Black/product_IM14Q2447",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "VIZIO D-Series D43N-E1 43\" 1080p Class Full Array LED-LCD TV, Black",
+    "model": "D43N-E1",
+    "url": "https://www.staples.com/VIZIO-D-Series-D43N-E1-43-1080p-Class-Full-Array-LED-LCD-TV-Black/product_IM14T7593",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "VIZIO D-Series D50N-E1 50\" FHD Full-Array LED TV, Black",
+    "model": "D50N-E1",
+    "url": "https://www.staples.com/VIZIO-D-Series-D50N-E1-50-FHD-Full-Array-LED-TV-Black/product_IM14T9969",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG 43LJ5500 49\" Class Full HD 1080P TV with Smart tv",
+    "model": "43LJ5500",
+    "url": "https://www.staples.com/lg-43lj5500-49-class-full-hd-1080p-tv-with-smart-tv/product_24328484",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung J6201-Series UN55J6201AFXZA 55\" Class 1080p FHD LED LCD TV, Black",
+    "model": "UN55J6201AFXZA",
+    "url": "https://www.staples.com/Samsung-J6201-Series-UN55J6201AFXZA-55-Class-1080p-FHD-LED-LCD-TV-Black/product_IM17K5031",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung KS9000 Series UN55KS9000FXZA/B 55\" 4K SUHD LED LCD Smart TV",
+    "model": "UN55KS9000FXZA/B",
+    "url": "https://www.staples.com/samsung-ks9000-series-un55ks9000fxza-b-55-4k-suhd-led-lcd-smart-tv/product_IM12GH238",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung 477 Series HG43NE477SFXZA 43\" 1080p Full HD Hospitality LED LCD TV, Black",
+    "model": "HG43NE477SFXZA",
+    "url": "https://www.staples.com/Samsung-477-Series-HG43NE477SFXZA-43-1080p-Full-HD-Hospitality-LED-LCD-TV-Black/product_IM14Q2442",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "VIZIO D Series D40F-E1 40\" Full HD LED-LCD Smart TV",
+    "model": "D40F-E1",
+    "url": "https://www.staples.com/vizio-d-series-d40f-e1-40-full-hd-led-lcd-smart-tv/product_IM14U1227",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung 470 Series HG28NE470AF 28\" 720p Hospitality LED LCD TV, Black",
+    "model": "HG28NE470AFXZA",
+    "url": "https://www.staples.com/Samsung-470-Series-HG28NE470AF-28-720p-Hospitality-LED-LCD-TV-Black/product_IM13V6120",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung 477 Series HG55NE477BFXZA 55\" 1080p Hospitality LED-LCD TV, Black",
+    "model": "HG55NE477BFXZA",
+    "url": "https://www.staples.com/Samsung-477-Series-HG55NE477BFXZA-55-1080p-Hospitality-LED-LCD-TV-Black/product_IM14Q2448",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG 22LJ4540 22\" Class Full 1080P LED TV",
+    "model": "22LJ4540",
+    "url": "https://www.staples.com/lg-22lj4540-22-class-full-1080p-led-tv/product_24328494",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung 6300 UN55MU6300F 55\" 2160p LED-LCD TV, 16:9, 4K UHDTV, Black, Dark Titan",
+    "model": "UN55MU6300FXZA",
+    "url": "https://www.staples.com/samsung-6300-un55mu6300f-55-2160p-led-lcd-tv-16-9-4k-uhdtv-black-dark-titan/product_2801242",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "VIZIO D D24hn-E1 24\" 720p LED-LCD TV, 16:9",
+    "model": "D24HN-E1",
+    "url": "https://www.staples.com/VIZIO-D-D24hn-E1-24-720p-LED-LCD-TV-16-9/product_IM14U0184",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung 690 Series HG28NE690AFXZA 28\" 720p Hospitality LED-LCD Smart TV, Black",
+    "model": "HG28NE690AFXZA",
+    "url": "https://www.staples.com/Samsung-690-Series-HG28NE690AFXZA-28-720p-Hospitality-LED-LCD-Smart-TV-Black/product_IM14Q2436",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG 24LH4830-PU 24\" Class 720P HD LED TV With smart tv",
+    "model": "24LH4830-PU",
+    "url": "https://www.staples.com/lg-24lh4830-pu-24-class-720p-hd-led-tv-with-smart-tv/product_24328495",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung 690 Series HG24NE690AFXZA 24\" 720p Hospitality LED-LCD Smart TV, Black",
+    "model": "HG24NE690AFXZA",
+    "url": "https://www.staples.com/Samsung-690-Series-HG24NE690AFXZA-24-720p-Hospitality-LED-LCD-Smart-TV-Black/product_IM14Q2435",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung UN40M530D-RB Refurbished 40 in 1080P Smart LED - Black",
+    "model": "UN40M530D-RB",
+    "url": "https://www.staples.com/samsung-un40m530d-rb-refurbished-40-in-1080p-smart-led-black/product_24307492",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung 6290 UN65MU6290F 64.5\" 2160p LED-LCD TV, 16:9, 4K UHDTV, Dark Titan (UN65MU6290FXZA)",
+    "model": "UN65MU6290FXZA",
+    "url": "https://www.staples.com/samsung-6290-un65mu6290f-64-5-2160p-led-lcd-tv-16-9-4k-uhdtv-dark-titan-un65mu6290fxza/product_IM11AQ779",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung HE470 HG32NE470FFXZA 32\" HD LED LCD TV, Black",
+    "model": "HG32NE470FFXZA",
+    "url": "https://www.staples.com/samsung-he470-hg32ne470ffxza-32-hd-led-lcd-tv-black/product_IM12DA601",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung 478 Series HG43NE478SFXZA 43\" 1080p Hospitality LED LCD TV",
+    "model": "HG43NE478SFXZA",
+    "url": "https://www.staples.com/Samsung-478-Series-HG43NE478SFXZA-43-1080p-Hospitality-LED-LCD-TV/product_IM14Q2443",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung 7500 UN55MU7500F 55\" 2160p LED-LCD TV, 16:9, 4K UHDTV, Titan Silver (UN55MU7500FXZA)",
+    "model": "UN55MU7500FXZA",
+    "url": "https://www.staples.com/Samsung-7500-UN55MU7500F-55-2160p-LED-LCD-TV-16-9-4K-UHDTV-Titan-Silver-UN55MU7500FXZA/product_IM18Q8809",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "VIZIO SmartCast D D32f-F1 31.5\" 1080p LED-LCD TV, 16:9, HDTV",
+    "model": "D32F-F1",
+    "url": "https://www.staples.com/vizio-smartcast-d-d32f-f1-31-5-1080p-led-lcd-tv-16-9-hdtv/product_IM12KB748",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "VIZIO D D39F-E1 39\" 1080p LED-LCD TV, 16:9, HDTV, Black (D39F-E1)",
+    "model": "D39F-E1",
+    "url": "https://www.staples.com/VIZIO-D-D39F-E1-39-1080p-LED-LCD-TV-16-9-HDTV-Black-D39F-E1/product_IM14U1226",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung 478 Series HG55NE478BFXZA 55\" 1080p Hospitality LED-LCD TV, Black",
+    "model": "HG55NE478BFXZA",
+    "url": "https://www.staples.com/Samsung-478-Series-HG55NE478BFXZA-55-1080p-Hospitality-LED-LCD-TV-Black/product_IM14N2671",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "TLC 40FS3750 Refurbished 40 IN. 1080P Television",
+    "model": "40FS3750-RB",
+    "url": "https://www.staples.com/tlc-40fs3750-refurbished-40-in-1080p-television/product_24288255",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung UN65MU7500/HW-M4500 65\" 4K Ultra HD Curved LED Smart TV and Sound Bar Bundle",
+    "model": "UN65MU7500/HW-M4500",
+    "url": "https://www.staples.com/samsung-un65mu7500-hw-m4500-65-4k-ultra-hd-curved-led-smart-tv-and-sound-bar-bundle/product_IM12GG532",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung KU7000 Series UN65KU7000FXZA/B 65\" 4K UHD LED LCD Smart TV",
+    "model": "UN65KU7000FXZA/B",
+    "url": "https://www.staples.com/samsung-ku7000-series-un65ku7000fxza-b-65-4k-uhd-led-lcd-smart-tv/product_IM12KB701",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Refurbished Samsung 32\" Class J525D Full LED Smart TV (UN32J525D)",
+    "model": "UN32J525D-RB",
+    "url": "https://www.staples.com/samsung-j525d-rb-refurbished-43-in-1080p-led-television/product_24288258",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung 5300 UN50M5300AFXZA 50\" 1080p LED-LCD TV, 16:9, HDTV (UN50M5300AFXZA)",
+    "model": "UN50M5300AFXZA",
+    "url": "https://www.staples.com/samsung-5300-un50m5300afxza-50-1080p-led-lcd-tv-16-9-hdtv-un50m5300afxza/product_IM19A2179",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung 5202 UN43J5202AF 43\" 1080p LED-LCD TV, 16:9, HDTV, Black (UN43J5202AFXZA)",
+    "model": "UN43J5202AFXZA",
+    "url": "https://www.staples.com/samsung-5202-un43j5202af-43-1080p-led-lcd-tv-16-9-hdtv-black-un43j5202afxza/product_IM12GG520",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic Sc-1311 13.3\" 720p Ac/dc Led Tv",
+    "model": "SSCSC1311",
+    "url": "https://www.staples.com/Supersonic-Sc-1311-13-3-720p-Ac-dc-Led-Tv/product_23974397",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung KS8500 UN65KS8500FXZA 65\" Curved 4K SUHD Smart LED TV, Black",
+    "model": "UN65KS8500FXZA/B",
+    "url": "https://www.staples.com/samsung-ks8500-un65ks8500fxza-65-curved-4k-suhd-smart-led-tv-black/product_IM14D4520",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "VIZIO D D43-E2 42.5\" 2160p LED-LCD TV, 16:9, 4K UHDTV (D43-E2)",
+    "model": "D43-E2",
+    "url": "https://www.staples.com/VIZIO-D-D43-E2-42-5-2160p-LED-LCD-TV-16-9-4K-UHDTV-D43-E2/product_IM14U1325",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung DB-E 55\" 1080p Slim Direct-Lit LED-LCD TV, Black",
+    "model": "DB55E",
+    "url": "https://www.staples.com/Samsung-DB-E-55-1080p-Slim-Direct-Lit-LED-LCD-TV-Black/product_IM11C4015",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Refurbished (UN32J4000AFXZA) 32 IN. LED TV",
+    "model": "UN32J4000AFXZA",
+    "url": "https://www.staples.com/samsung-j400-full-led-smart-tv-32-in-720p-television/product_24288251",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Proscan 32\" 720p Direct LED HDTV With DVD Player",
+    "model": "CURPLDV321300",
+    "url": "https://www.staples.com/Proscan-32-720p-Direct-LED-HDTV-With-DVD-Player/product_1199990",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Axess  tv1703 16\" Full HD LED TV",
+    "model": "93592691M",
+    "url": "https://www.staples.com/Axess-tv1703-16-Full-HD-LED-TV/product_1832942",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG 43LJ5500 Refurbished 43 IN. 1080P LED Television",
+    "model": "43LJ5500-RB",
+    "url": "https://www.staples.com/lg-43lj5500-refurbished-43-in-1080p-led-television/product_24288263",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Tcl 49S403 Refurbished 49 IN. 2160P LED Television",
+    "model": "49S403-RB",
+    "url": "https://www.staples.com/tcl-49s403-refurbished-49-in-2160p-led-television/product_24288247",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Naxa® 22\" Widescreen LED HD Television With Built In Digital TV Tuner and USB/SD Inputs/DVD Player",
+    "model": "93577824M",
+    "url": "https://www.staples.com/Naxa-22-Widescreen-LED-HD-Television-With-Built-In-Digital-TV-Tuner-and-USB-SD-Inputs-DVD-Player/product_283276",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic® 1920 x 1080 SC-2411 24\" Widescreen LED HD Television",
+    "model": "93576169M",
+    "url": "https://www.staples.com/Supersonic-1920-x-1080-SC-2411-24-Widescreen-LED-HD-Television/product_132974",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG 32\" Class (31.5\" Diagonal) 32LV340C Essential Commercial TV Functionality",
+    "model": "32LV340C",
+    "url": "https://www.staples.com/LG-32-Class-31-5-Diagonal-32LV340C-Essential-Commercial-TV-Functionality/product_IM18K2138",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Tcl 49S403 Refurbished 49 IN. 2160P LED Television",
+    "model": "49S403-RB",
+    "url": "https://www.staples.com/tcl-49s403-refurbished-49-in-2160p-led-television/product_24288247",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Naxa® 22\" Widescreen LED HD Television With Built In Digital TV Tuner and USB/SD Inputs/DVD Player",
+    "model": "93577824M",
+    "url": "https://www.staples.com/Naxa-22-Widescreen-LED-HD-Television-With-Built-In-Digital-TV-Tuner-and-USB-SD-Inputs-DVD-Player/product_283276",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic® 1920 x 1080 SC-2411 24\" Widescreen LED HD Television",
+    "model": "93576169M",
+    "url": "https://www.staples.com/Supersonic-1920-x-1080-SC-2411-24-Widescreen-LED-HD-Television/product_132974",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "VIZIO E E43-F1 43\" 2160p LED-LCD TV, 16:9, 4K UHDTV",
+    "model": "E43-F1",
+    "url": "https://www.staples.com/vizio-e-e43-f1-43-2160p-led-lcd-tv-16-9-4k-uhdtv/product_IM12TM063",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG 32LJ550B 32\" Class 720P HD LED TV With smart tv",
+    "model": "32LJ550B",
+    "url": "https://www.staples.com/lg-32lj550b-32-class-720p-hd-led-tv-with-smart-tv/product_24328486",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Vizio D24HN-D1-RB Refurbished 24\" 1080P LED Television",
+    "model": "D24HN-D1-RB",
+    "url": "https://www.staples.com/vizio-d24hn-d1-rb-refurbished-32-in-1080p-led-television/product_24288248",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Naxa® 1920 x 1080 NTD-2252 22\" Widescreen LED HD Television With Built-In Digital TV Tuner",
+    "model": "93575204M",
+    "url": "https://www.staples.com/Naxa-1920-x-1080-NTD-2252-22-Widescreen-LED-HD-Television-With-Built-In-Digital-TV-Tuner/product_132889",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung UN55JU670DF 4K 120Hz 55\" Curved Smart LED TV, Black (Certified Refurbished)",
+    "model": "UN55JU670DF",
+    "url": "https://www.staples.com/samsung-un55ju670df-4k-120hz-55-curved-smart-led-tv-black-certified-refurbished/product_24231495",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Panasonic 70-inch Class FULL HD LCD Display TH-70SF2HU (TH-70SF2HU)",
+    "model": "TH-70SF2HU",
+    "url": "https://www.staples.com/panasonic-70-inch-class-full-hd-lcd-display-th-70sf2hu-th-70sf2hu/product_IM12MB022",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung KS8000 UN65KS8000FXZA 65\" 2160p LED-LCD TV, Silver",
+    "model": "UN65KS8000FXZA/B",
+    "url": "https://www.staples.com/samsung-ks8000-un65ks8000fxza-65-2160p-led-lcd-tv-silver/product_IM12DG770",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Naxa ntd-2255 20\" - 29\" 1080p LED TV, Black",
+    "model": "93594538M",
+    "url": "https://www.staples.com/Naxa-ntd-2255-20-29-1080p-LED-TV-Black/product_2121092",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG 24LJ4540WU 24\" class 720P HD LED TV White",
+    "model": "24LJ4540-WU",
+    "url": "https://www.staples.com/lg-24lj4540wu-24-class-720p-hd-led-tv-white/product_24328490",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Westinghouse WD40FB2530-RB Refurbished 40 IN. 1080P LED Television",
+    "model": "WD40FB2530-RB",
+    "url": "https://www.staples.com/westinghouse-wd40fb2530-rb-refurbished-40-in-1080p-led-television/product_24288234",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Naxa nt-2409 20\" - 29\" 1080p LED TV, Black",
+    "model": "93594543M",
+    "url": "https://www.staples.com/Naxa-nt-2409-20-29-1080p-LED-TV-Black/product_2121096",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Vizio D24HN-E1-RB Refurbished 24 in. LED - Black",
+    "model": "D24HN-E1-RB",
+    "url": "https://www.staples.com/vizio-d24hn-e1-rb-refurbished-24-in-led-black/product_24307475",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic® 1920 x 1080 SC-2212 22\" Widescreen LED HD Television With Built-In DVD Player (93576064M)",
+    "model": "93576064M",
+    "url": "https://www.staples.com/supersonic-1920-x-1080-sc-2212-22-widescreen-led-hd-television-with-built-in-dvd-player-93576064m/product_132972",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Naxa nt-3201 30\" - 39\" 720p LED TV, Black",
+    "model": "93594542M",
+    "url": "https://www.staples.com/Naxa-nt-3201-30-39-720p-LED-TV-Black/product_2121095",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Naxa ntd-1956 Under 20\" 720p LED TV, Black",
+    "model": "93594540M",
+    "url": "https://www.staples.com/Naxa-ntd-1956-Under-20-720p-LED-TV-Black/product_2121093",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sharp Refurbished (LC-43N6100U-RB) 43 IN. 4K TV",
+    "model": "LC-43N6100U-RB",
+    "url": "https://www.staples.com/sharp-lc-43n6100u-43-in-2160p-television/product_24288269",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Vizio E32-D1-RB Refurbished 32 IN. 1080P LED Television",
+    "model": "E32-D1-RB",
+    "url": "https://www.staples.com/vizio-e32-d1-rb-refurbished-32-in-1080p-led-television/product_24288238",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung LT24H310S-RB Refurbished 24 in. 2 in 1 LED - Black",
+    "model": "LT24H310S-RB",
+    "url": "https://www.staples.com/samsung-lt24h310s-rb-refurbished-24-in-2-in-1-led-black/product_24307494",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Axess TV1704-32 32 in. 1366 x 768  HD LED TV Black",
+    "model": "935102933M",
+    "url": "https://www.staples.com/axess-tv1704-32-32-in-1366-x-768-hd-led-tv-black/product_24272189",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG 24LJ4540 24\" Class 720P HD LED TV",
+    "model": "24LJ4540",
+    "url": "https://www.staples.com/lg-24lj4540-24-class-720p-hd-led-tv/product_24328489",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG 55UH5C-B Digital Signage Display",
+    "model": "55UH5C-B",
+    "url": "https://www.staples.com/LG-55UH5C-B-Digital-Signage-Display/product_IM16G1162",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Philips 84\" Multi Touch Display",
+    "model": "BDL 8470QT",
+    "url": "https://www.staples.com/philips-84-multi-touch-display/product_23976646",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung 5003 UN32J5003EF 31.5\" 1080p LED-LCD TV, 16:9, HDTV, Black",
+    "model": "UN32J5003EFXZA",
+    "url": "https://www.staples.com/samsung-5003-un32j5003ef-31-5-1080p-led-lcd-tv-16-9-hdtv-black/product_IM12GG467",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Philips 49\" Video Wall Display",
+    "model": "BDL4988XL",
+    "url": "https://www.staples.com/philips-49-video-wall-display/product_23976643",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung QM55F UHD Commercial Display",
+    "model": "QM55F",
+    "url": "https://www.staples.com/samsung-qm55f-uhd-commercial-display/product_23976659",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Elo I-Series for Windows AiO Interactive Signage (E222782)",
+    "model": "E222782",
+    "url": "https://www.staples.com/Elo-I-Series-for-Windows-AiO-Interactive-Signage-E222782/product_IM14D3256",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Axess TV1701-40 40” 1080p HD LED TV, Black",
+    "model": "93593294M",
+    "url": "https://www.staples.com/Axess-TV1701-40-40-1080p-HD-LED-TV-Black/product_24004506",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Q7F QN75Q7FAMF 75\" 2160p LED-LCD TV, 16:9, 4K UHDTV, Sterling Silver",
+    "model": "QN75Q7FAMFXZA",
+    "url": "https://www.staples.com/samsung-q7f-qn75q7famf-75-2160p-led-lcd-tv-16-9-4k-uhdtv-sterling-silver/product_IM14U1106",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Elo 5551L 54.6\" Interactive Digital Signage",
+    "model": "E268447",
+    "url": "https://www.staples.com/Elo-5551L-54-6-Interactive-Digital-Signage/product_IM16F9939",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung QM49F UHD Commercial Display",
+    "model": "QM49F",
+    "url": "https://www.staples.com/samsung-qm49f-uhd-commercial-display/product_23976658",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Q8C QN65Q7FAMF 65\" 2160p LED-LCD TV, 16:9, 4K UHDTV, Sterling Silver",
+    "model": "QN65Q7FAMFXZA",
+    "url": "https://www.staples.com/samsung-q8c-qn65q7famf-65-2160p-led-lcd-tv-16-9-4k-uhdtv-sterling-silver/product_IM14U1103",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Philips 75\" Multi Touch Display",
+    "model": "75BDL3010T",
+    "url": "https://www.staples.com/philips-75-multi-touch-display/product_23976642",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Vizio D43F-E1-RB Refurbished 43 IN. 1080P LED Television",
+    "model": "D43N-E1-RB",
+    "url": "https://www.staples.com/vizio-d43f-e1-rb-refurbished-43-in-1080p-led-television/product_24288241",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung UN40MU630D-RB Refurbished 40 IN. 2160P Television",
+    "model": "UN40MU630D-RB",
+    "url": "https://www.staples.com/samsung-un40mu630d-rb-refurbished-40-in-2160p-television/product_24288256",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "32\" Philips D-Line Display",
+    "model": "32BDL4050D",
+    "url": "https://www.staples.com/32-philips-d-line-display/product_23976630",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung 690 HG75NF690UF 75\" 2160p LED-LCD TV, 16:9, 4K UHDTV, Black",
+    "model": "HG75NF690UFXZA",
+    "url": "https://www.staples.com/samsung-690-hg75nf690uf-75-2160p-led-lcd-tv-16-9-4k-uhdtv-black/product_IM12DA207",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Philips 42\" V-Line Display",
+    "model": "BDL 4290VL",
+    "url": "https://www.staples.com/philips-42-v-line-display/product_23976640",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung DB10E-T Touch-Enabled Small Signage",
+    "model": "DB10E-T",
+    "url": "https://www.staples.com/samsung-db10e-t-touch-enabled-small-signage/product_23976656",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "TLC  43S303 Refurbished 43 IN. 1080P Television",
+    "model": "43S303-RB",
+    "url": "https://www.staples.com/tlc-43s303-refurbished-43-in-1080p-television/product_24288252",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Hisense 40H4C1 Refurbished 40 IN. 1080P LED Television",
+    "model": "40H4C1-RB",
+    "url": "https://www.staples.com/hisense-40h4c1-refurbished-40-in-1080p-led-television/product_24288264",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Hisense 40H5BA-RB Refurbished 40 in. 1080P Television",
+    "model": "40H5BA-RB",
+    "url": "https://www.staples.com/hisense-40h5ba-rb-refurbished-40-in-1080p-television/product_24288265",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Hisense 43H7C-RB Refurbished 43 in Television",
+    "model": "43H7C-RB",
+    "url": "https://www.staples.com/hisense-43h7c-rb-refurbished-43-in-television/product_24288266",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Philips 42\" Multi Touch Display",
+    "model": "BDL4270TT",
+    "url": "https://www.staples.com/philips-42-multi-touch-display/product_23976631",
+    "category": "Televisions",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Philips 55\" Multi Touch Display",
+    "model": "BDL5570TT",
+    "url": "https://www.staples.com/philips-55-multi-touch-display/product_23976638",
     "category": "Televisions",
     "source": "Staples",
     "sourceType": "retailer",

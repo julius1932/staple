@@ -1,175 +1,8 @@
 [
   {
-    "brand": "Jabra® Adapter Cable for SPEAK 410 Headset, Quick Disconnect to 3.5 mm Mini-Phone Male/Male, Black (8800-00-99)",
-    "model": "8800-00-99",
-    "category": "Audio/Video Receiver",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Amped Wireless® HighPower® AC2550 Wi-Fi Range Extender (W250REA)",
-    "model": "W250REA",
-    "category": "Audio/Video Receiver",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Naxa® NAB-4001 Bluetooth Wireless Receiver and Adapter, Black",
-    "model": "93586475M",
-    "category": "Audio/Video Receiver",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Pyle® Pro PTA2 2 x 40W Mini Stereo Power Amplifier",
-    "model": "PYLPTA2",
-    "category": "Audio/Video Receiver",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Pyle Home 240-Watt PA Power Amp (PT510)",
-    "model": "PYLPT510",
-    "category": "Audio/Video Receiver",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Pyle® Pro® PT1100 1000 W Power Amplifier",
-    "model": "PYRPT1100",
-    "category": "Audio/Video Receiver",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Pyle Dual Channel Power Amplifier, 80 W (pta22bt)",
-    "model": "93595193M",
-    "category": "Audio/Video Receiver",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Channel Master Cm-3414 Ultra Mini Distribution Amp (4 Port)",
-    "model": "CMSTCM3414",
-    "category": "Audio/Video Receiver",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Pyle® PCM20A 40 W Power Amplifier With 25 and 70 Volt Output",
-    "model": "93582839M",
-    "category": "Audio/Video Receiver",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Digiwave Digital HDTV Amplifier (ANT1005)",
-    "model": "ANT1005",
-    "category": "Audio/Video Receiver",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "GOgroove® BlueGATE RXT 2-In-1 Wireless Bluetooth Receiver and Transmitter With 3.5 mm Stereo Output",
-    "model": "3795988",
-    "category": "Audio/Video Receiver",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Terk Directional Amplified HDTV Antenna",
-    "model": "TERHDTVA",
-    "category": "Audio/Video Receiver",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Eagle Aspen 25dB Distribution Amp",
-    "model": "EASDISTAMP25GX",
-    "category": "Audio/Video Receiver",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "TP-LINK Bluetooth Music Receiver (HA100)",
-    "model": "HA100",
-    "category": "Audio/Video Receiver",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "GOgroove BlueGate Wireless A2DP Bluetooth Audio Adapter & Receiver",
-    "model": "4413777",
-    "category": "Audio/Video Receiver",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Actiontec® ScreenBeam Mini 2 Wireless Display Receiver",
-    "model": "SBWD60A01",
-    "category": "Audio/Video Receiver",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Pyle® PCA2 2 Channel Stereo Power Amplifier, 2 x 40 W",
-    "model": "93574913M",
-    "category": "Audio/Video Receiver",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Pyle® Pro® PT8000CH 8000 W Stereo/Mono Amplifier",
-    "model": "PYLPT8000CH",
-    "category": "Audio/Video Receiver",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Pyle® PCA1 2 Channel Mini Stereo Power Amplifier, 2 x 15 W",
-    "model": "93574915M",
-    "category": "Audio/Video Receiver",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Pyle® Home PD1000A 1000 Watt AM/FM Receiver With Built-in DVD, MP3 And USB",
-    "model": "PYLPD1000A",
-    "category": "Audio/Video Receiver",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Pyle Home Pfa330bt 90-watt Mini Blue Series Compact Bluetooth® Amp",
-    "model": "PYLPFA330BT",
-    "category": "Audio/Video Receiver",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Pyle® Home PT270AiU 600 Watt Stereo AM/FM Receiver With ipod Dock",
-    "model": "PYLPT270AIU",
+    "brand": "Pyle Home 200W Bluetooth Stereo Amplifier PDA5BU with AM/FM/USB/AUX",
+    "model": "93599019M",
+    "url": "https://www.staples.com/Pyle-Home-200W-Bluetooth-Stereo-Amplifier-PDA5BU-with-AM-FM-USB-AUX/product_24004750",
     "category": "Audio/Video Receiver",
     "source": "Staples",
     "sourceType": "retailer",
@@ -178,6 +11,205 @@
   {
     "brand": "Sherwood® AM/FM Stereo Receiver With Bluetooth, 200 W",
     "model": "SHDRX4508",
+    "url": "https://www.staples.com/Sherwood-AM-FM-Stereo-Receiver-With-Bluetooth-200-W/product_1593760",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle Home Pfa330bt 90-watt Mini Blue Series Compact Bluetooth® Amp",
+    "model": "PYLPFA330BT",
+    "url": "https://www.staples.com/Pyle-Home-Pfa330bt-90-watt-Mini-Blue-Series-Compact-Bluetooth-Amp/product_2139720",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle® Home PD1000A 1000 Watt AM/FM Receiver With Built-in DVD, MP3 And USB",
+    "model": "PYLPD1000A",
+    "url": "https://www.staples.com/Pyle-Home-PD1000A-1000-Watt-AM-FM-Receiver-With-Built-in-DVD-MP3-And-USB/product_210880",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle® Home PT270AiU 600 Watt Stereo AM/FM Receiver With ipod Dock",
+    "model": "PYLPT270AIU",
+    "url": "https://www.staples.com/Pyle-Home-PT270AiU-30-Watt-Stereo-AM-FM-Receiver-With-ipod-Dock/product_212610",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle® PCA1 2 Channel Mini Stereo Power Amplifier, 2 x 15 W",
+    "model": "93574915M",
+    "url": "https://www.staples.com/Pyle-PCA1-2-Channel-Mini-Stereo-Power-Amplifier-2-x-15-W/product_137690",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle® Pro® PT8000CH 8000 W Stereo/Mono Amplifier",
+    "model": "PYLPT8000CH",
+    "url": "https://www.staples.com/Pyle-Pro-PT8000CH-8000-W-Stereo-Mono-Amplifier/product_212925",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle® PCA2 2 Channel Stereo Power Amplifier, 2 x 40 W",
+    "model": "93574913M",
+    "url": "https://www.staples.com/Pyle-PCA2-2-Channel-Stereo-Power-Amplifier-2-x-40-W/product_137518",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Actiontec® ScreenBeam Mini 2 Wireless Display Receiver",
+    "model": "SBWD60A01",
+    "url": "https://www.staples.com/Actiontec-ScreenBeam-Mini-2-Wireless-Display-Receiver/product_IM1XC1674",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "GOgroove BlueGate Wireless A2DP Bluetooth Audio Adapter & Receiver",
+    "model": "4413777",
+    "url": "https://www.staples.com/GOgroove-BlueGATE-Bluetooth-Receiver-Adapter-with-Wireless-A2DP-Technology/product_382535",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "TP-LINK Bluetooth Music Receiver (HA100)",
+    "model": "HA100",
+    "url": "https://www.staples.com/TP-LINK-Bluetooth-Music-Receiver-HA100/product_IM1ZM6338",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Eagle Aspen 25dB Distribution Amp",
+    "model": "EASDISTAMP25GX",
+    "url": "https://www.staples.com/Eagle-Aspen-25dB-Distribution-Amp/product_2087890",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Terk Directional Amplified HDTV Antenna",
+    "model": "TERHDTVA",
+    "url": "https://www.staples.com/Terk-Directional-Amplified-HDTV-Antenna/product_1419207",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "GOgroove® BlueGATE RXT 2-In-1 Wireless Bluetooth Receiver and Transmitter With 3.5 mm Stereo Output",
+    "model": "3795988",
+    "url": "https://www.staples.com/GOgroove-BlueGATE-RXT-2-In-1-Wireless-Bluetooth-Receiver-and-Transmitter-With-3-5-mm-Stereo-Output/product_1186410",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Digiwave Digital HDTV Amplifier (ANT1005)",
+    "model": "ANT1005",
+    "url": "https://www.staples.com/Digiwave-Digital-HDTV-Amplifier-ANT1005/product_2426898",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle® PCM20A 40 W Power Amplifier With 25 and 70 Volt Output",
+    "model": "93582839M",
+    "url": "https://www.staples.com/Pyle-PCM20A-40-W-Power-Amplifier-With-25-and-70-Volt-Output/product_283648",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Channel Master Cm-3414 Ultra Mini Distribution Amp (4 Port)",
+    "model": "CMSTCM3414",
+    "url": "https://www.staples.com/Channel-Master-Cm-3414-Ultra-Mini-Distribution-Amp-4-Port/product_23978950",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle Dual Channel Power Amplifier, 80 W (pta22bt)",
+    "model": "93595193M",
+    "url": "https://www.staples.com/Pyle-Dual-Channel-Power-Amplifier-80-W-pta22bt/product_2120860",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle® Pro® PT1100 1000 W Power Amplifier",
+    "model": "PYRPT1100",
+    "url": "https://www.staples.com/Pyle-Pro-PT1100-1000-W-Power-Amplifier/product_210878",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle Home 240-Watt PA Power Amp (PT510)",
+    "model": "PYLPT510",
+    "url": "https://www.staples.com/pyle-home-240-watt-pa-power-amp-pt510/product_2089107",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle® Pro PTA2 2 x 40W Mini Stereo Power Amplifier",
+    "model": "PYLPTA2",
+    "url": "https://www.staples.com/Pyle-Pro-PTA2-2-x-40W-Mini-Stereo-Power-Amplifier/product_212268",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Naxa® NAB-4001 Bluetooth Wireless Receiver and Adapter, Black",
+    "model": "93586475M",
+    "url": "https://www.staples.com/Naxa-NAB-4001-Bluetooth-Wireless-Receiver-and-Adapter-Black/product_238283",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Amped Wireless® HighPower® AC2550 Wi-Fi Range Extender (W250REA)",
+    "model": "W250REA",
+    "url": "https://www.staples.com/Amped-Wireless-HighPower-AC2550-Wi-Fi-Range-Extender-W250REA/product_IM13V5516",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle 300-watt Digital USB Stereo Receiver",
+    "model": "PYLPT560AU",
+    "url": "https://www.staples.com/Pyle-300-watt-Digital-USB-Stereo-Receiver/product_2089118",
     "category": "Audio/Video Receiver",
     "source": "Staples",
     "sourceType": "retailer",
@@ -186,6 +218,1087 @@
   {
     "brand": "Pyle Home 200W Bluetooth Stereo Amplifier PDA5BU with AM/FM/USB/AUX",
     "model": "93599019M",
+    "url": "https://www.staples.com/Pyle-Home-200W-Bluetooth-Stereo-Amplifier-PDA5BU-with-AM-FM-USB-AUX/product_24004750",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sherwood® AM/FM Stereo Receiver With Bluetooth, 200 W",
+    "model": "SHDRX4508",
+    "url": "https://www.staples.com/Sherwood-AM-FM-Stereo-Receiver-With-Bluetooth-200-W/product_1593760",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle Home Pfa330bt 90-watt Mini Blue Series Compact Bluetooth® Amp",
+    "model": "PYLPFA330BT",
+    "url": "https://www.staples.com/Pyle-Home-Pfa330bt-90-watt-Mini-Blue-Series-Compact-Bluetooth-Amp/product_2139720",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle® Home PD1000A 1000 Watt AM/FM Receiver With Built-in DVD, MP3 And USB",
+    "model": "PYLPD1000A",
+    "url": "https://www.staples.com/Pyle-Home-PD1000A-1000-Watt-AM-FM-Receiver-With-Built-in-DVD-MP3-And-USB/product_210880",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle® Home PT270AiU 600 Watt Stereo AM/FM Receiver With ipod Dock",
+    "model": "PYLPT270AIU",
+    "url": "https://www.staples.com/Pyle-Home-PT270AiU-30-Watt-Stereo-AM-FM-Receiver-With-ipod-Dock/product_212610",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle® PCA1 2 Channel Mini Stereo Power Amplifier, 2 x 15 W",
+    "model": "93574915M",
+    "url": "https://www.staples.com/Pyle-PCA1-2-Channel-Mini-Stereo-Power-Amplifier-2-x-15-W/product_137690",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle® Pro® PT8000CH 8000 W Stereo/Mono Amplifier",
+    "model": "PYLPT8000CH",
+    "url": "https://www.staples.com/Pyle-Pro-PT8000CH-8000-W-Stereo-Mono-Amplifier/product_212925",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle® PCA2 2 Channel Stereo Power Amplifier, 2 x 40 W",
+    "model": "93574913M",
+    "url": "https://www.staples.com/Pyle-PCA2-2-Channel-Stereo-Power-Amplifier-2-x-40-W/product_137518",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Actiontec® ScreenBeam Mini 2 Wireless Display Receiver",
+    "model": "SBWD60A01",
+    "url": "https://www.staples.com/Actiontec-ScreenBeam-Mini-2-Wireless-Display-Receiver/product_IM1XC1674",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "GOgroove BlueGate Wireless A2DP Bluetooth Audio Adapter & Receiver",
+    "model": "4413777",
+    "url": "https://www.staples.com/GOgroove-BlueGATE-Bluetooth-Receiver-Adapter-with-Wireless-A2DP-Technology/product_382535",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "TP-LINK Bluetooth Music Receiver (HA100)",
+    "model": "HA100",
+    "url": "https://www.staples.com/TP-LINK-Bluetooth-Music-Receiver-HA100/product_IM1ZM6338",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Eagle Aspen 25dB Distribution Amp",
+    "model": "EASDISTAMP25GX",
+    "url": "https://www.staples.com/Eagle-Aspen-25dB-Distribution-Amp/product_2087890",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Terk Directional Amplified HDTV Antenna",
+    "model": "TERHDTVA",
+    "url": "https://www.staples.com/Terk-Directional-Amplified-HDTV-Antenna/product_1419207",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "GOgroove® BlueGATE RXT 2-In-1 Wireless Bluetooth Receiver and Transmitter With 3.5 mm Stereo Output",
+    "model": "3795988",
+    "url": "https://www.staples.com/GOgroove-BlueGATE-RXT-2-In-1-Wireless-Bluetooth-Receiver-and-Transmitter-With-3-5-mm-Stereo-Output/product_1186410",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Digiwave Digital HDTV Amplifier (ANT1005)",
+    "model": "ANT1005",
+    "url": "https://www.staples.com/Digiwave-Digital-HDTV-Amplifier-ANT1005/product_2426898",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle® PCM20A 40 W Power Amplifier With 25 and 70 Volt Output",
+    "model": "93582839M",
+    "url": "https://www.staples.com/Pyle-PCM20A-40-W-Power-Amplifier-With-25-and-70-Volt-Output/product_283648",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Channel Master Cm-3414 Ultra Mini Distribution Amp (4 Port)",
+    "model": "CMSTCM3414",
+    "url": "https://www.staples.com/Channel-Master-Cm-3414-Ultra-Mini-Distribution-Amp-4-Port/product_23978950",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle Dual Channel Power Amplifier, 80 W (pta22bt)",
+    "model": "93595193M",
+    "url": "https://www.staples.com/Pyle-Dual-Channel-Power-Amplifier-80-W-pta22bt/product_2120860",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle® Pro® PT1100 1000 W Power Amplifier",
+    "model": "PYRPT1100",
+    "url": "https://www.staples.com/Pyle-Pro-PT1100-1000-W-Power-Amplifier/product_210878",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle Home 240-Watt PA Power Amp (PT510)",
+    "model": "PYLPT510",
+    "url": "https://www.staples.com/pyle-home-240-watt-pa-power-amp-pt510/product_2089107",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle® Pro PTA2 2 x 40W Mini Stereo Power Amplifier",
+    "model": "PYLPTA2",
+    "url": "https://www.staples.com/Pyle-Pro-PTA2-2-x-40W-Mini-Stereo-Power-Amplifier/product_212268",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Naxa® NAB-4001 Bluetooth Wireless Receiver and Adapter, Black",
+    "model": "93586475M",
+    "url": "https://www.staples.com/Naxa-NAB-4001-Bluetooth-Wireless-Receiver-and-Adapter-Black/product_238283",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Amped Wireless® HighPower® AC2550 Wi-Fi Range Extender (W250REA)",
+    "model": "W250REA",
+    "url": "https://www.staples.com/Amped-Wireless-HighPower-AC2550-Wi-Fi-Range-Extender-W250REA/product_IM13V5516",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle 300-watt Digital USB Stereo Receiver",
+    "model": "PYLPT560AU",
+    "url": "https://www.staples.com/Pyle-300-watt-Digital-USB-Stereo-Receiver/product_2089118",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "BOSS Audio Systems Riot Series Full-Range Class AB Amp 4 Channels, 400 Watts max (BOSR1004)",
+    "model": "BOSR1004",
+    "url": "https://www.staples.com/boss-audio-systems-riot-series-full-range-class-ab-amp-4-channels-400-watts-max-bosr1004/product_24329585",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle Pro Psbv210Wifi 23.8\" Wi-fi Bluetooth® SoundBar",
+    "model": "PYRPSBV210WIFI",
+    "url": "https://www.staples.com/Pyle-Pro-Psbv210Wifi-23-8-Wi-fi-Bluetooth-SoundBar/product_2423513",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "BOSS Audio Systems 6.2\" Double-DIN In-Dash Digital Media AM/FM Receiver with Bluetooth (BOSBV9349B)",
+    "model": "BOSBV9349B",
+    "url": "https://www.staples.com/boss-audio-systems-6-2-double-din-in-dash-digital-media-am-fm-receiver-with-bluetooth-bosbv9349b/product_24329586",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Technical Pro 1500 W Digital Home Stereo Receiver (rx504)",
+    "model": "93590874M",
+    "url": "https://www.staples.com/Technical-Pro-1500-W-Digital-Home-Stereo-Receiver-rx504/product_1832763",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle® Digital Home Stereo Receiver System With USB/SD Memory Readers, 300 W",
+    "model": "PYRPT390AU",
+    "url": "https://www.staples.com/Pyle-Digital-Home-Stereo-Receiver-System-With-USB-SD-Memory-Readers-300-W/product_1594022",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle Home Pt390btu Digital Home Theater Bluetooth® Stereo Receiver",
+    "model": "PYLPT390BTU",
+    "url": "https://www.staples.com/Pyle-Home-Pt390btu-Digital-Home-Theater-Bluetooth-Stereo-Receiver/product_2139705",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle Bluetooth 5.1-Channel HDMI Digital Stereo Receiver/Amp (PT592A)",
+    "model": "PYLPT592A",
+    "url": "https://www.staples.com/pyle-bluetooth-5-1-channel-hdmi-digital-stereo-receiver-amp-pt592a/product_1641680",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle® PCM60A 100 W Power Amplifier With 25 and 70 Volt Output",
+    "model": "93582837M",
+    "url": "https://www.staples.com/Pyle-PCM60A-100-W-Power-Amplifier-With-25-and-70-Volt-Output/product_283646",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Monoprice 50 Watt Stereo Hybrid Tube Amplifier With Bluetooth & Line Output (116153)",
+    "model": "116153",
+    "url": "https://www.staples.com/monoprice-50-watt-stereo-hybrid-tube-amplifier-with-bluetooth-line-output-116153/product_24299771",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Audiovox XMAMP18 Satellite Radio Home Amplifier",
+    "model": "XMAMP18",
+    "url": "https://www.staples.com/Audiovox-XMAMP18-Satellite-Radio-Home-Amplifier/product_IM1T57278",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "QVS® HVGA-AS VGA to HDMI Signal Convertor",
+    "model": "HVGA-AS",
+    "url": "https://www.staples.com/QVS-HVGA-AS-VGA-to-HDMI-Signal-Convertor/product_IM1Y68293",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Wilson 700 - 2700 MHz Wideband 50 Ohm Directional Antenna With N Female Connector",
+    "model": "WSN314411",
+    "url": "https://www.staples.com/Wilson-700-2700-MHz-Wideband-50-Ohm-Directional-Antenna-With-N-Female-Connector/product_1317389",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Wilson 700 - 2100 MHz 13.88\" Dual-Band Omnidirectional 50 Ohm NMO Mount Cellular Antenna",
+    "model": "WSN311104",
+    "url": "https://www.staples.com/Wilson-700-2100-MHz-13-88-Dual-Band-Omnidirectional-50-Ohm-NMO-Mount-Cellular-Antenna/product_1317400",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Channel Master Cm-3412 Ultra Mini Distribution Amp (2 Port)",
+    "model": "CMSTCM3412",
+    "url": "https://www.staples.com/Channel-Master-Cm-3412-Ultra-Mini-Distribution-Amp-2-Port/product_23978949",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyramid Professional Amplifier With LED Level Display and Microphone Input, 300 W",
+    "model": "PYRPA305",
+    "url": "https://www.staples.com/Pyramid-Professional-Amplifier-With-LED-Level-Display-and-Microphone-Input-300-W/product_1594059",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Planet Audio AC1600.4 ANARCHY Full-Range MOSFET Class AB Amp (4 Channels, 1,600 Watts Max) (PLTAC16004DS)",
+    "model": "PLTAC16004",
+    "url": "https://www.staples.com/planet-audio-ac1600-4-anarchy-full-range-mosfet-class-ab-amp-4-channels-1-600-watts-max-pltac16004ds/product_1597601",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pioneer TS-W106M Promo Series 10\" Subwoofer",
+    "model": "PIOTSW106M",
+    "url": "https://www.staples.com/Pioneer-TS-W106M-Promo-Series-10-Subwoofer/product_2484240",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle 300 Watts Digital AM/FM Stereo Receiver (PT560AU)",
+    "model": "93574941M",
+    "url": "https://www.staples.com/Pyle-300-Watts-Digital-AM-FM-Stereo-Receiver-PT560AU/product_24139622",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyramid Professional Home Studio Pre-Amplifier",
+    "model": "PYRPR2500",
+    "url": "https://www.staples.com/Pyramid-Professional-Home-Studio-Pre-Amplifier/product_1594049",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle® PT570AU 350W 5.1-Channel Receiver With AM/FM Radio, USB Port And SD Card Port",
+    "model": "PYLPT570AU",
+    "url": "https://www.staples.com/Pyle-PT570AU-350W-5-1-Channel-Receiver-With-AM-FM-Radio/product_212692",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Kenwood KAC-M8005 1,600-Watt 5-Channel Marine Class D Amp",
+    "model": "KWDKACM8005",
+    "url": "https://www.staples.com/Kenwood-KAC-M8005-1-600-Watt-5-Channel-Marine-Class-D-Amp/product_24192624",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Power Acoustik® Reaper Series Class D Full-Range And Monoblock Amplifier, 4 Channel, 1200 W",
+    "model": "POWRZ41200D",
+    "url": "https://www.staples.com/new-power-acoustik-reaper-series-class-d-full-range-and-monoblock-amplifier-4-channel-1200-w/product_1594473",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle Plcdbt75mrb Marine Single-din In-dash Cd AM/FM Receiver with Two 6.5\" Speakers, Splashproof Radio Cover & Bluetooth (black)",
+    "model": "PYLPLCDBT75MRB",
+    "url": "https://www.staples.com/Pyle-Plcdbt75mrb-Marine-Single-din-In-dash-Cd-Am-fm-Receiver-With-Two-6-5-Speakers-Splashproof-Radio-Cover-Bluetooth-black/product_23974255",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Onkyo TX-8020 Amplifier, 100 W RMS, 2 Channel",
+    "model": "TX-8020",
+    "url": "https://www.staples.com/Onkyo-TX-8020-Amplifier-100-W-RMS-2-Channel/product_IM1RY7127",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Channel Master Cm-7778 Titan 2 Preamp (medium Gain)",
+    "model": "CMSTCM7778",
+    "url": "https://www.staples.com/Channel-Master-Cm-7778-Titan-2-Preamp-medium-Gain/product_23978928",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Boss Audio Systems Chaos Epic Compact All-Terrain Class AB Amp 2 Channels, 100 Watts (BOSCE102)",
+    "model": "BOSCE102",
+    "url": "https://www.staples.com/boss-audio-systems-chaos-epic-compact-all-terrain-class-ab-amp-2-channels-100-watts-bosce102/product_24329589",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Channel Plus 20 dB Bidirectional RF Cable Amplifier",
+    "model": "MPTDA520A",
+    "url": "https://www.staples.com/Channel-Plus-20-dB-Bidirectional-RF-Cable-Amplifier/product_1595593",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Oem Systems Model 500 500-watt Subwoofer Amp",
+    "model": "OEMMODEL500",
+    "url": "https://www.staples.com/Oem-Systems-Model-500-500-watt-Subwoofer-Amp/product_23979289",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Technical Pro RX503 Receiver With Digital Spectrum",
+    "model": "93579492M",
+    "url": "https://www.staples.com/Technical-Pro-RX503-Receiver-With-Digital-Spectrum/product_284220",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle-health Phpha76 2.4ghz Wireless Tv Hearing Amplifier Headset",
+    "model": "PYLPHPHA76",
+    "url": "https://www.staples.com/Pyle-health-Phpha76-2-4ghz-Wireless-Tv-Hearing-Amplifier-Headset/product_2139637",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Kenwood KAC-5001PS KAC Series 1,000-Watt Class D Mono Power Amp with LPF",
+    "model": "KWDKAC5001PS",
+    "url": "https://www.staples.com/Kenwood-KAC-5001PS-KAC-Series-1-000-Watt-Class-D-Mono-Power-Amp-with-LPF/product_24192625",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Monoprice Monolith 2x200 Watts Per Channel Two Channel Home Theater Stereo Power Amplifier (115595)",
+    "model": "115595",
+    "url": "https://www.staples.com/monoprice-monolith-2x200-watts-per-channel-two-channel-home-theater-stereo-power-amplifier-115595/product_24299769",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Monoprice 50 Watt Stereo Hybrid Tube Amplifier with Bluetooth and 5-inch Select Speakers Bundle",
+    "model": "116155",
+    "url": "https://www.staples.com/monoprice-50-watt-stereo-hybrid-tube-amplifier-with-bluetooth-and-5-inch-select-speakers-bundle/product_24338565",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Wilson 700 - 2700 MHz Wideband 75 Ohm Directional Antenna With F Female Connector",
+    "model": "WSN314475",
+    "url": "https://www.staples.com/Wilson-700-2700-MHz-Wideband-75-Ohm-Directional-Antenna-With-F-Female-Connector/product_1317388",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Boss Audio Systems Marine-Gauge System with In-Dash Mechless AM/FM Receiver, Speakers & Antenna White Speakers (BOSMCKGB350W6)",
+    "model": "BOSMCKGB350W6",
+    "url": "https://www.staples.com/boss-audio-systems-marine-gauge-system-with-in-dash-mechless-am-fm-receiver-speakers-antenna-white-speakers-bosmckgb350w6/product_24329592",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "SSL Mini Class AB MOSFET Monoblock Power Amplifier, 1 Channel, 200 W",
+    "model": "SSLSMCM200",
+    "url": "https://www.staples.com/new-ssl-mini-class-ab-mosfet-monoblock-power-amplifier-1-channel-200-w/product_1597154",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Monoprice Monolith 5x200 Watts Per Channel Multi-Channel Home Theater Power Amplifier with XLR inputs (115593)",
+    "model": "115593",
+    "url": "https://www.staples.com/monoprice-monolith-5x200-watts-per-channel-multi-channel-home-theater-power-amplifier-with-xlr-inputs-115593/product_24299770",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Hifonics GA-1000.1D GOLIATH Series Monoblock Super D-Class Amp 1,000 Watts (HIFGA10001D)",
+    "model": "HIFGA10001D",
+    "url": "https://www.staples.com/hifonics-ga-1000-1d-goliath-series-monoblock-super-d-class-amp-1-000-watts-hifga10001d/product_24329346",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle Home Compact Bluetooth Audio Stereo Receiver with FM Radio(PTA24BT)",
+    "model": "PYLPTA24BT",
+    "url": "https://www.staples.com/pyle-home-compact-bluetooth-audio-stereo-receiver-with-fm-radio-pta24bt/product_24337229",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Quantum FX  Complete Amplifier Hookup Kit 20 ft. 1500W (A-KIT4)",
+    "model": "935102992M",
+    "url": "https://www.staples.com/quantum-fx-complete-amplifier-hookup-kit-20-ft-1500w-a-kit4/product_24272217",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Monoprice Monolith 3x200 Watts Per Channel Multi-Channel Home Theater Power Amplifier with XLR Inputs (115594)",
+    "model": "115594",
+    "url": "https://www.staples.com/monoprice-monolith-3x200-watts-per-channel-multi-channel-home-theater-power-amplifier-with-xlr-inputs-115594/product_24299768",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Channel Master Ultra Mini Distribution Amp (1 Port)",
+    "model": "CMSTCM3410",
+    "url": "https://www.staples.com/Channel-Master-Ultra-Mini-Distribution-Amp-1-Port/product_2089800",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle Plcdbt65mrw Marine Single-din In-dash Cd AM/FM Receiver with Two 6.5\" Speakers, Splashproof Radio Cover & Bluetooth (white)",
+    "model": "PYLPLCDBT65MRW",
+    "url": "https://www.staples.com/Pyle-Plcdbt65mrw-Marine-Single-din-In-dash-Cd-Am-fm-Receiver-With-Two-6-5-Speakers-Splashproof-Radio-Cover-Bluetooth-white/product_23974257",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Planet Audio® Half-DIN 4 Band Pre-Amplifier Equalizer With Remote Subwoofer Control",
+    "model": "PLTPEQ10",
+    "url": "https://www.staples.com/new-planet-audio-half-din-4-band-pre-amplifier-equalizer-with-remote-subwoofer-control/product_1596676",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Hifonics BRUTUS BXX Series 4-Channel Super A/B Class Amp 1,200 Watts (HIFBXX12004)",
+    "model": "HIFBXX12004",
+    "url": "https://www.staples.com/hifonics-brutus-bxx-series-4-channel-super-a-b-class-amp-1-200-watts-hifbxx12004/product_24329345",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "SSL 2/3-Way Pre-Amplifier Electronic Crossover w/ Remote Subwoofer Control",
+    "model": "SSLSX310",
+    "url": "https://www.staples.com/SSL-2-3-Way-Pre-Amplifier-Electronic-Crossover-With-Remote-Subwoofer-Control/product_1596652",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Cerwin-vega Mobile H740 Hed Series 2-way Coaxial Speakers (4\", 275 Watts Max)",
+    "model": "CERH740",
+    "url": "https://www.staples.com/Cerwin-vega-Mobile-H740-Hed-Series-2-way-Coaxial-Speakers-4-275-Watts-Max/product_2698964",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Db Link PWR4-ANL Power Series 4-Gauge Amp Installation Kit (ANL Fuse) (DBDPWR4ANL)",
+    "model": "DBDPWR4ANL",
+    "url": "https://www.staples.com/db-link-pwr4-anl-power-series-4-gauge-amp-installation-kit-anl-fuse-dbdpwr4anl/product_24330130",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Boss Audio Systems Riot Series Marine Class AB Amp 4 Channels, 400 Watts (BOSMR1004)",
+    "model": "BOSMR1004",
+    "url": "https://www.staples.com/boss-audio-systems-riot-series-marine-class-ab-amp-4-channels-400-watts-bosmr1004/product_24329581",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Gemini® Professional Power Amplifier, 5000 W",
+    "model": "GCIXGA5000",
+    "url": "https://www.staples.com/Gemini-Professional-Power-Amplifier-5000-W/product_1592422",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Power Acoustik® Reaper Series Class D Full-Range And Monoblock Amplifier, 4 Channel, 2000 W",
+    "model": "POWRZ42000D",
+    "url": "https://www.staples.com/new-power-acoustik-reaper-series-class-d-full-range-and-monoblock-amplifier-4-channel-2000-w/product_1594471",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Power Acoustik® Reaper Series Class D Full-Range & Monoblock Amplifier, 1 Channel, 1500 W",
+    "model": "POWRZ11500D",
+    "url": "https://www.staples.com/new-power-acoustik-reaper-series-class-d-full-range-monoblock-amplifier-1-channel-1500-w/product_1594475",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Xantech 6-Way A/V Distribution Amp (AV61)",
+    "model": "XANAV61",
+    "url": "https://www.staples.com/xantech-6-way-a-v-distribution-amp-av61/product_1597747",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sound Storm Laboratories EV200.2 EVOLUTION Series Full-Range 200-Watt 2-Channel MOSFET Class AB Amp (Black) (SSLEV2002DS)",
+    "model": "SSLEV2002",
+    "url": "https://www.staples.com/sound-storm-laboratories-ev200-2-evolution-series-full-range-200-watt-2-channel-mosfet-class-ab-amp-black-sslev2002ds/product_1641495",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Kenwood KAC-6407 550-Watt 4/3/2-Channel Class AB Amp",
+    "model": "KWDKAC6407",
+    "url": "https://www.staples.com/Kenwood-KAC-6407-550-Watt-4-3-2-Channel-Class-AB-Amp/product_24192658",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pioneer Compact 8\" x 5.25\" 160-Watt Active Subwoofer with Built-in Amp (PIOTSWX130DA)",
+    "model": "PIOTSWX130DA",
+    "url": "https://www.staples.com/pioneer-compact-8-x-5-25-160-watt-active-subwoofer-with-built-in-amp-piotswx130da/product_24329344",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Cerwin-vega Mobile H7683 Hed Series 3-way Coaxial Speakers (6\" X 8\", 360 Watts Max)",
+    "model": "CERH7683",
+    "url": "https://www.staples.com/Cerwin-vega-Mobile-H7683-Hed-Series-3-way-Coaxial-Speakers-6-X-8-360-Watts-Max/product_2698968",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Quantum FX  Complete Amplifier Hookup Kit 17 ft. 1300W (A-KIT8)",
+    "model": "935102993M",
+    "url": "https://www.staples.com/quantum-fx-complete-amplifier-hookup-kit-17-ft-1300w-a-kit8/product_24272381",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Monoprice Pure Tube Stereo Amplifier with Bluetooth  Line  and Phono Inputs",
+    "model": "127222",
+    "url": "https://www.staples.com/monoprice-pure-tube-stereo-amplifier-with-bluetooth-line-and-phono-inputs/product_24338562",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Monoprice Multizone Source Keypad with Bluetooth Receiver and RJ45 to RCA Converter",
+    "model": "124343",
+    "url": "https://www.staples.com/monoprice-multizone-source-keypad-with-bluetooth-receiver-and-rj45-to-rca-converter/product_24338566",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pioneer GM-A4704 GM Series Class AB Amp (4 Channels, 520 Watts max)",
+    "model": "PIOGMA4704",
+    "url": "https://www.staples.com/Pioneer-GM-A4704-GM-Series-Class-AB-Amp-4-Channels-520-Watts-max/product_2484152",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Cerwin-vega Mobile H7653 Hed Series 3-way Coaxial Speakers (6.5\", 340 Watts Max)",
+    "model": "CERH7653",
+    "url": "https://www.staples.com/Cerwin-vega-Mobile-H7653-Hed-Series-3-way-Coaxial-Speakers-6-5-340-Watts-Max/product_2698966",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "BOSS Audio Systems Riot Series Full-Range Class AB Amp 2 Channels, 800 Watts max (BOSR4002)",
+    "model": "BOSR4002",
+    "url": "https://www.staples.com/boss-audio-systems-riot-series-full-range-class-ab-amp-2-channels-800-watts-max-bosr4002/product_24329583",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Planet Audio Pl1600.4 Pulse Series 4-channel Mosfet Class Ab Amp (1,600 Watts)",
+    "model": "PLT16004",
+    "url": "https://www.staples.com/Planet-Audio-Pl1600-4-Pulse-Series-4-channel-Mosfet-Class-Ab-Amp-1-600-Watts/product_2423932",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Cerwin-vega Mobile H735 Hed Series 2-way Coaxial Speakers (3.5\", 250 Watts Max)",
+    "model": "CERH735",
+    "url": "https://www.staples.com/Cerwin-vega-Mobile-H735-Hed-Series-2-way-Coaxial-Speakers-3-5-250-Watts-Max/product_2698961",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "CE Labs UH8-4k 4K 1 x 8 HDMI Distribution Amp (CEIUH84KDS)",
+    "model": "CEIUH84K",
+    "url": "https://www.staples.com/ce-labs-uh8-4k-4k-1-x-8-hdmi-distribution-amp-ceiuh84kds/product_2089907",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Ubiquiti® IsoBeam™ Isolator Radome for 620 mm Dish Reflector (ISO-BEAM-620)",
+    "model": "ISO-BEAM-620",
+    "url": "https://www.staples.com/Ubiquiti-IsoBeam-Isolator-Radome-for-620-mm-Dish-Reflector-ISO-BEAM-620/product_IM1ZP2859",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Monoprice 50 Watt Stereo Hybrid Tube Amplifier with Bluetooth and Monolith K-BAS Speakers Bundle",
+    "model": "118833",
+    "url": "https://www.staples.com/monoprice-50-watt-stereo-hybrid-tube-amplifier-with-bluetooth-and-monolith-k-bas-speakers-bundle/product_24338564",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Jabra® Adapter Cable for SPEAK 410 Headset, Quick Disconnect to 3.5 mm Mini-Phone Male/Male, Black (8800-00-99)",
+    "model": "8800-00-99",
+    "url": "https://www.staples.com/Jabra-Adapter-Cable-for-SPEAK-410-Headset-Quick-Disconnect-to-3-5-mm-Mini-Phone-Male-Male-Black-8800-00-99/product_IM1DW4691",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle® PHA40 4 Channel Stereo Headphone Amplifier",
+    "model": "PHA40",
+    "url": "https://www.staples.com/Pyle-PHA40-4-Channel-Stereo-Headphone-Amplifier/product_IM1DE6718",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle® PyleHome PT110 80W AC/DC Microphone PA Mono Amplifier With 70V Output and Mic Talkover",
+    "model": "PT110",
+    "url": "https://www.staples.com/Pyle-PyleHome-PT110-80W-AC-DC-Microphone-PA-Mono-Amplifier-With-70V-Output-and-Mic-Talkover/product_IM1GE7049",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle Home 600W Audio Powered Amplifier & Bluetooth Receiver Stereo System PT506BT with MP3/USB/SD/AUX Playback",
+    "model": "93599184M",
+    "url": "https://www.staples.com/Pyle-Home-600W-Audio-Powered-Amplifier-Bluetooth-Receiver-Stereo-System-PT506BT-with-MP3-USB-SD-AUX-Playback/product_24004107",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle PTAU23 Power Amplifier, 10 - 100 W",
+    "model": "PTAU23",
+    "url": "https://www.staples.com/Pyle-PTAU23-Power-Amplifier-10-100-W/product_IM1DE6754",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sound Storm Laboratories EV400.4 EVOLUTION Series Full-Range 400-Watt 4-Channel MOSFET Class AB Amp (Black) (SSLEV4004DS)",
+    "model": "SSLEV4004",
+    "url": "https://www.staples.com/sound-storm-laboratories-ev400-4-evolution-series-full-range-400-watt-4-channel-mosfet-class-ab-amp-black-sslev4004ds/product_1641497",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "GOgroove Bluetooth Receiver Car Kit aptX Technology",
+    "model": "4118729",
+    "url": "https://www.staples.com/GOgroove-Bluetooth-Receiver-Car-Kit-aptX-Technology/product_1609856",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle® PCM30A 60 W Power Amplifier With 25 and 70 Volt Output",
+    "model": "93582838M",
+    "url": "https://www.staples.com/Pyle-PCM30A-60-W-Power-Amplifier-With-25-and-70-Volt-Output/product_283647",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "PIONEER GM Digital Series Class-D Amp, 5-Channel Bridgeable, 2,000W Max, with Wired Bass Boost Remote (PIOGMD9605)",
+    "model": "PIOGMD9605",
+    "url": "https://www.staples.com/PIONEER-GM-Digital-Series-Class-D-Amp-5-Channel-Bridgeable-2-000W-Max-with-Wired-Bass-Boost-Remote-PIOGMD9605/product_1985623",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Weboost 304415 Rv/trucker Spring-mount Antenna",
+    "model": "WB304415",
+    "url": "https://www.staples.com/Weboost-304415-Rv-trucker-Spring-mount-Antenna/product_23979166",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle® PCA4 Mini 2x120 W Stereo Power Amplifier",
+    "model": "93574916M",
+    "url": "https://www.staples.com/Pyle-PCA4-Mini-2x120-W-Stereo-Power-Amplifier/product_283450",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle® PT530A 2 Channel Built-In AM/FM Radio Amplifier Receiver, 350 W",
+    "model": "93576609M",
+    "url": "https://www.staples.com/Pyle-PT530A-2-Channel-Built-In-AM-FM-Radio-Amplifier-Receiver-350-W/product_132911",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Audiosource 2-channel Analog Power Amp (50 Watts Per Channel)",
+    "model": "AOSAMP100VS",
+    "url": "https://www.staples.com/Audiosource-2-channel-Analog-Power-Amp-50-Watts-Per-Channel/product_2088241",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle® PCAU44 Mini 2 x 120 W Stereo Power Amplifier with USB Input and CD Input",
+    "model": "93579824M",
+    "url": "https://www.staples.com/Pyle-PCAU44-Mini-2-x-120-W-Stereo-Power-Amplifier-with-USB-Input-and-CD-Input/product_283639",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Power Acoustik® 4-Band 1/2 DIN Parametric Equalizer",
+    "model": "POWPWM16",
+    "url": "https://www.staples.com/new-power-acoustik-4-band-1-2-din-parametric-equalizer/product_1594535",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle® PFA400U 100W Class-T Hi-Fi Audio Amplifier With USB Flash and SD Memory Card Readers",
+    "model": "PFA400U",
+    "url": "https://www.staples.com/Pyle-PFA400U-100W-Class-T-Hi-Fi-Audio-Amplifier-With-USB-Flash-and-SD-Memory-Card-Readers/product_IM1QZ5934",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Monoprice Stereo Tube Headphone Amp with 24-bit/96kHz USB DAC Bluetooth and Preamp Out (116154)",
+    "model": "116154",
+    "url": "https://www.staples.com/monoprice-stereo-tube-headphone-amp-with-24-bit-96khz-usb-dac-bluetooth-and-preamp-out-116154/product_24299772",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Technical Pro 2U Pro PX3000 2 Channel Power Amplifier in Black",
+    "model": "93597033M",
+    "url": "https://www.staples.com/technical-pro-2u-pro-px3000-2-channel-power-amplifier-in-black/product_2491388",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Hifonics Brx1116.1D Brutus Monoblock Super D-Class Amp, 1,100 Watts (HIFBRX11161DDS)",
+    "model": "HIFBRX11161D",
+    "url": "https://www.staples.com/hifonics-brx1116-1d-brutus-monoblock-super-d-class-amp-1-100-watts-hifbrx11161dds/product_1643142",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Db Drive A72000.1 Okur A7 Series Monoblock Class D Amp, 2,000 Watts Max (DBDA720001DS)",
+    "model": "DBDA720001",
+    "url": "https://www.staples.com/db-drive-a72000-1-okur-a7-series-monoblock-class-d-amp-2-000-watts-max-dbda720001ds/product_2089864",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Boss Audio Systems Marine-Gauge System with In-Dash Mechless AM/FM Receiver, Speakers & Antenna Black Speakers (BOSMCKGB350B6)",
+    "model": "BOSMCKGB350B6",
+    "url": "https://www.staples.com/boss-audio-systems-marine-gauge-system-with-in-dash-mechless-am-fm-receiver-speakers-antenna-black-speakers-bosmckgb350b6/product_24329591",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Cerwin-vega Mobile H746 Hed Series 2-way Coaxial Speakers (4\" X 6\", 275 Watts Max)",
+    "model": "CERH746",
+    "url": "https://www.staples.com/Cerwin-vega-Mobile-H746-Hed-Series-2-way-Coaxial-Speakers-4-X-6-275-Watts-Max/product_2698960",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pioneer GM-A6704 GM Series Class AB Amp (4 Channels, 1,000 Watts max)",
+    "model": "PIOGMA6704",
+    "url": "https://www.staples.com/Pioneer-GM-A6704-GM-Series-Class-AB-Amp-4-Channels-1-000-Watts-max/product_2484151",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Digiwave HDTV amplifier (ANT1011)",
+    "model": "ANT1011",
+    "url": "https://www.staples.com/Digiwave-HDTV-amplifier-ANT1011/product_2426895",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle PWMA1003T Pro Stereo Receiver Pre-Amplifier, 1000W (3575574M)",
+    "model": "93575574M",
+    "url": "https://www.staples.com/Pyle-PWMA1003T-Pro-Stereo-Receiver-Pre-Amplifier-1000W-3575574M/product_1949761",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle Plmr90uw Hydra Series 4\" Marine Digital Media Am/fm Receiver With Bluetooth® (white)",
+    "model": "PYLPLMR90UW",
+    "url": "https://www.staples.com/Pyle-Plmr90uw-Hydra-Series-4-Marine-Digital-Media-Am-fm-Receiver-With-Bluetooth-white/product_2139735",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle Plmr7btw Marine Single-din Mechless Marine Am/fm Receiver With Built-in Speakers & Bluetooth®",
+    "model": "PYLPLMR7BTW",
+    "url": "https://www.staples.com/Pyle-Plmr7btw-Marine-Single-din-Mechless-Marine-Am-fm-Receiver-With-Built-in-Speakers-Bluetooth/product_2139734",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Monoprice 25 Watt Stereo Hybrid Tube Amplifier with Bluetooth and Retro Speakers Bundle",
+    "model": "116158",
+    "url": "https://www.staples.com/monoprice-25-watt-stereo-hybrid-tube-amplifier-with-bluetooth-and-retro-speakers-bundle/product_24338563",
+    "category": "Audio/Video Receiver",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Monoprice 25 Watt Stereo Hybrid Tube Amplifier with Bluetooth and Retro Speakers Bundle",
+    "model": "116158",
+    "url": "https://www.staples.com/monoprice-25-watt-stereo-hybrid-tube-amplifier-with-bluetooth-and-retro-speakers-bundle/product_24338563",
     "category": "Audio/Video Receiver",
     "source": "Staples",
     "sourceType": "retailer",

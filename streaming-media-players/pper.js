@@ -1,21 +1,21 @@
 const puppeteer = require('puppeteer');
 var URL = require('url-parse');
 var jsonfile = require('jsonfile');
-var START_URL = "https://www.staples.com/Home-Theatre/cat_CL167255?icid=TVSTREAMINGSUPERCAT:LINKBOX3:HOMETHEATER2:HOMETHEATERSPEAKERSYSTEMS::::";
+var START_URL = "https://www.staples.com/Amazon-Fire-TV-Stick-with-Alexa-Voice-Remote/product_2427021";
 var MAX_PAGES_TO_VISIT = 1000;
 
 var pagesVisited = {};
 var numPagesVisited = 0;
 var pagesToVisit = [];
-
+pagesToVisit.push(START_URL);
+pagesToVisit.push("https://www.staples.com/Google-Chromecast/product_1883575");
+pagesToVisit.push("https://www.staples.com/Google-Chromecast-Ultra/product_2440426");
+pagesToVisit.push("https://www.staples.com/Amazon-Fire-TV/product_1883574");
+pagesToVisit.push("https://www.staples.com/Google-Chromecast-Audio/product_1924438");
 var url = new URL(START_URL);
 var baseUrl = url.protocol + "//" + url.hostname;
+
 var count=0;
-//pagesToVisit.push(START_URL);
-for(var i =5;i<=9;i++){//9
-    var crrlink ="https://www.staples.com/Home-Theatre/cat_CL167255?fids=&pn="+i+"&sr=true&sby=&min=&max=&myStoreId=";
-    pagesToVisit.push(crrlink);
-}
 var file='jsonDat.json';
 var items =jsonfile.readFileSync(file);
 var arrModel=[];
@@ -47,16 +47,15 @@ async function crawl() {
     await page.setViewport({ width: 1920, height: 926 });
     await page.goto(nextPage);
     //await page.screenshot({path: 'image-staples.png', fullPage: true});
-    if(START_URL!=nextPage){
-        //await page.click('button.Button-s1all4g7-0.jAJqvB');
-        //await page.screenshot({path: 'image-taget.png', fullPage: true});
+    if(START_URL==nextPage){
+        //await page.click('button#load-more-results');
     }
     //await page.waitForSelector("a.div.product-image a.scTrack.pfm");
   console.log("on-------"+nextPage);
     let hotelData = await page.evaluate(() => {
         let hotels = [];
         // get the hotel elements
-        let lnkElms = document.querySelectorAll('div.product-info a.scTrack.pfm');
+        //let lnkElms = document.querySelectorAll('div.product-info a.scTrack.pfm');
         var  brand = document.querySelector("h1.product-title");
         if(brand){
             brand = brand.textContent;
@@ -66,7 +65,7 @@ async function crawl() {
            modl = modl.textContent;
         }
         // get the hotel data
-        lnkElms.forEach((lnkEl) => {
+      /*  lnkElms.forEach((lnkEl) => {
             try {
                 let lnk =lnkEl.getAttribute('href');
                 //let re1 = new RegExp("blu");
@@ -76,8 +75,8 @@ async function crawl() {
               console.log(ex);
             }
 
-        });
-        return {links:hotels, brand:brand,model:modl};
+        }); */
+        return {links:[], brand:brand,model:modl};
     });
     hotelData.links.forEach((lnk) => {
         if(lnk != null && lnk.startsWith('/')){
@@ -93,22 +92,22 @@ async function crawl() {
 
     if(hotelData.brand){
         count++;
-        brand=hotelData.brand;
+        var brand = hotelData.brand;
         var model=""
         if(hotelData.model){
            model= hotelData.model;
         }
         if(!arrModel.includes(brand+model)){
             items.push({
-                brand:hotelData.brand,
+                brand:brand,
                 model:model,
-                url:nextPage,
-                category: "Home Theater Systems",
+                url :nextPage,
+                category: "Streaming Media Players",
                 source: "Staples",
                 sourceType: "retailer",
-                sourceId: 6
-        });
-      }
+               sourceId: 6
+           });
+        }
     }
     browser.close();
     crawl();

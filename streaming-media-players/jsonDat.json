@@ -1,0 +1,47 @@
+[
+  {
+    "brand": "Amazon Fire TV Stick with Alexa Voice Remote",
+    "model": "LY73PR",
+    "url": "https://www.staples.com/Amazon-Fire-TV-Stick-with-Alexa-Voice-Remote/product_2427021",
+    "category": "Streaming Media Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Google Chromecast",
+    "model": "811571016518",
+    "url": "https://www.staples.com/Google-Chromecast/product_1883575",
+    "category": "Streaming Media Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Google Chromecast Ultra",
+    "model": "GA3A00403A14",
+    "url": "https://www.staples.com/Google-Chromecast-Ultra/product_2440426",
+    "category": "Streaming Media Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Amazon Fire TV",
+    "model": "B00U3FPN4U",
+    "url": "https://www.staples.com/Amazon-Fire-TV/product_1883574",
+    "category": "Streaming Media Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Google Chromecast Audio",
+    "model": "811571016587",
+    "url": "https://www.staples.com/Google-Chromecast-Audio/product_1924438",
+    "category": "Streaming Media Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  }
+]

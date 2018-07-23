@@ -1,135 +1,764 @@
 [
   {
-    "brand": "Acer Iconia One 10 B3-A40FHD-K0MW Tablet, 10.1\", 2GB DDR3L SDRAM, MediaTek Cortex A35 MT8167A Quad-core 1.50GHz, 32GB",
-    "model": "NT.LE0AA.002",
+    "brand": "Sungale 10 Inch Dual Camera Android Tablet",
+    "model": "ID1032WTA",
+    "url": "https://www.staples.com/Sungale-10-Inch-Dual-Camera-Android-Tablet/product_24001310",
     "category": "Android Tablets",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "Samsung SM-T813 9.7\" Galaxy Tab S2, 3GB RAM, Android 6.0, Gold",
-    "model": "SM-T813NZDEXAR",
+    "brand": "AZT 10in Android Tablet Quad-core IPS-panel",
+    "model": "AZT-TAB10-S970",
+    "url": "https://www.staples.com/AZT-10in-Android-Tablet-Quad-core-IPS-panel/product_1240721",
     "category": "Android Tablets",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "Samsung SM-T813 9.7\" Galaxy Tab S2, 3GB RAM, Android 6.0, Black",
-    "model": "SM-T813NZKEXAR",
+    "brand": "Acer ICONIA B1-790-K21X Tablet, 7\", 1GB DDR3L SDRAM, MediaTek Cortex A53 MT8163 Quad-core 1.3GHZ, 16GB, Android 6.0 Marshmallow",
+    "model": "NT.LDFAA.001",
+    "url": "https://www.staples.com/Acer-ICONIA-B1-790-K21X-Tablet-7-1GB-DDR3L-SDRAM-MediaTek-Cortex-A53-MT8163-Quad-core-1-3GHZ-16GB-Android-6-0-Marshmallow/product_IM19W9711",
     "category": "Android Tablets",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "Samsung SM-T813 9.7\" Galaxy Tab S2, 3GB RAM, Android 6.0, White",
-    "model": "SM-T813NZWEXAR",
+    "brand": "LINSAY F10XHD 10\" Quad Core Tablet Android Black",
+    "model": "F10XHD",
+    "url": "https://www.staples.com/LINSAY-F10XHD-10-Quad-Core-Tablet-Android-Black/product_2549349",
     "category": "Android Tablets",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "Samsung SM-T713 8\" Galaxy Tab S2, 3GB RAM, Android 6.0, Gold",
-    "model": "SM-T713NZDEXAR",
+    "brand": "Acer ICONIA B3-A40-K5S2 Tablet, 10.1\", 2GB DDR3L SDRAM, MediaTek Cortex A35 MT8167 Quad-core 1.30GHz, 32GB, Android 7.0 Nougat",
+    "model": "NT.LDVAA.001",
+    "url": "https://www.staples.com/Acer-ICONIA-B3-A40-K5S2-Tablet-10-1-2GB-DDR3L-SDRAM-MediaTek-Cortex-A35-MT8167-Quad-core-1-30GHz-32GB-Android-7-0-Nougat/product_IM19W9710",
     "category": "Android Tablets",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "Samsung SM-T713 8\" Galaxy Tab S2, 3GB RAM, Android 6.0, Black",
-    "model": "SM-T713NZKEXAR",
+    "brand": "Samsung Galaxy Tab A SM-T380 Tablet, 8\", 2GB, Qualcomm Snapdragon 425 Quad-core 1.40GHz, 32GB, Android 7.1 Nougat, 1280 x 800",
+    "model": "SM-T380NZKEXAR",
+    "url": "https://www.staples.com/samsung-galaxy-tab-a-sm-t380-tablet-8-2gb-qualcomm-snapdragon-425-quad-core-1-40ghz-32gb-android-7-1-nougat-1280-x-800/product_IM11DM607",
     "category": "Android Tablets",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "Acer Chromebook Tab 10 D651N D651N-K9WT Chromebook Tablet, 9.7\", 4 GB LPDDR3, Rockchip RK33XX RK3399 2 GHz, 32 GB",
-    "model": "NX.H0BAA.001",
+    "brand": "LINSAY F7XHD 7\" Quad Core Dual Camera Tablet Android Black",
+    "model": "F7XHD",
+    "url": "https://www.staples.com/LINSAY-F7XHD-7-Quad-Core-Dual-Camera-Tablet-Android-Black/product_2549348",
     "category": "Android Tablets",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "Rand Mcnally Intelliroute 8\" TND Tablet",
-    "model": "RDY0528013076",
+    "brand": "Proscan PLT8802-8GB Dual Core Tablet; Android Tablet 8\"",
+    "model": "CURPLT88028GB",
+    "url": "https://www.staples.com/Proscan-PLT8802-8-Tablet-8-GB-Android-Jelly-Bean-Wi-Fi-Black/product_1106252",
     "category": "Android Tablets",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "Supersonic® Matrix MID 9\" Touchscreen 8GB Tablet",
-    "model": "93584989M",
+    "brand": "Samsung SM-P580NZKAXAR 10.1\" Galaxy Tab A Tablet, 16GB, Android 6.0, Black",
+    "model": "SM-P580NZKAXAR",
+    "url": "https://www.staples.com/Samsung-SM-P580NZKAXAR-10-1-Galaxy-Tab-A-Tablet-16GB-Android-6-0-Black/product_IM14T7929",
     "category": "Android Tablets",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "Acer ICONIA B1-780-K6C3 Tablet, 7\", 1 GB DDR3L SDRAM, MediaTek Cortex A53 MT8163 Quad-core (4 Core) 1.30 GHz, 16 GB",
-    "model": "NT.LCJAA.002",
+    "brand": "RCA RCS13101EK-RB Refurbished Home Stereo System, Removable 7-inch Android Tablet, Black",
+    "model": "RCS13101EK-RB",
+    "url": "https://www.staples.com/rca-rcs13101ek-rb-refurbished-home-stereo-system-removable-7-inch-android-tablet-black/product_24288194",
     "category": "Android Tablets",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "iView SupraPad 7-inch 8GB Tablet with Dual-Core 1.2 GHz Processor",
-    "model": "93585192M",
+    "brand": "Ematic Sprout Channel Cubby™ 7\" Kids Tablet, 1GB RAM, Android 4.4 KitKat, Green/White/Blue",
+    "model": "CUBBY",
+    "url": "https://www.staples.com/Ematic-Sprout-Channel-Cubby-7-Kids-Tablet-1GB-RAM-Android-4-4-KitKat-Green-White-Blue/product_2596609",
     "category": "Android Tablets",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "Naxa 7\" Core Tablet with Android OS 7.1 & GMS Certification(NID-7019)",
-    "model": "NAXID7019",
+    "brand": "Samsung Galaxy Tab A SM-P580 10.1\" Tablet, 16GB, Android 6.0 Marshmallow, Black",
+    "model": "SM-P580NZKAXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-A-SM-P580-10-1-Tablet-16GB-Android-6-0-Marshmallow-Black/product_IM16C0422",
     "category": "Android Tablets",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "Naxa 9\" Core Tablet with Android OS 7.1 & GMS Certification(NID-9009)",
-    "model": "NAXID9009",
+    "brand": "LINSAY F7XHDKIDSPURPLE 7\" Quad Core Tablet w/ Purple Kids Defender Case Android",
+    "model": "F7XHDKIDSPURPLE",
+    "url": "https://www.staples.com/LINSAY-F7XHDKIDSPURPLE-7-Quad-Core-Tablet-w-Purple-Kids-Defender-Case-Android/product_2566995",
     "category": "Android Tablets",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "Ematic EGQ347BL 7\" HD Quad-Core Android 5.0 8GB Tablet with Bluetooth",
-    "model": "SHAGEGQ347BL",
+    "brand": "Samsung Galaxy Tab E SM-T377 8\" Touchscreen Tablet, Android 6.0.1, Black",
+    "model": "SM-T377AZKAATT",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-E-SM-T377-8-Touchscreen-Tablet-Android-6-0-1-Black/product_IM14N3924",
     "category": "Android Tablets",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "Honeywell® ScanPal EDA70 Enterprise 7\" Tablet, 2GB RAM, Android 7.1 Nougat",
-    "model": "EDA70-0-C121SNGUK",
+    "brand": "iView 7-inch 8GB Tablet with Android 4.2",
+    "model": "93585200M",
+    "url": "https://www.staples.com/iView-7-inch-8GB-Tablet-with-Android-4-2/product_551756",
     "category": "Android Tablets",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "Samsung Galaxy Tab Active2 SM-T390 Tablet, 8\", 3GB, Samsung Exynos 7 Octa 7870 Octa-core 1.60GHz, 16GB, Android 7.1 Nougat",
-    "model": "SM-T390NZKAXAR",
+    "brand": "iView 7\" Tablet, 8 GB, Android Jelly Bean, Wi-Fi, Blue",
+    "model": "93585193M",
+    "url": "https://www.staples.com/iView-SupraPad-7-inch-8GB-Tablet-with-HDMI-Output/product_551758",
     "category": "Android Tablets",
     "source": "Staples",
     "sourceType": "retailer",
     "sourceId": 6
   },
   {
-    "brand": "Asus ZenPad 10 Z301MF-A2-WH Tablet, 10.1\", 2 GB LPDDR3, MediaTek 4 Core 1.50 GHz, 16 GB, Android 7.0 Nougat, 1920 x 1200",
-    "model": "Z301MF-A2-WH",
+    "brand": "Samsung Galaxy Tab E SM-T560 9.6\" Tablet, 16GB, Android 5.1 Lollipop, Black",
+    "model": "SM-T560NZKUXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-E-SM-T560-9-6-Tablet-16GB-Android-5-1-Lollipop-Black/product_2740051",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Zebra® ET50 Series 8.3\" 32GB Android Tablet, Black (ET50PE-L15E-00US)",
+    "model": "ET50PE-L15E-00US",
+    "url": "https://www.staples.com/Zebra-ET50-Series-8-3-32GB-Android-Tablet-Black-ET50PE-L15E-00US/product_IM14D4691",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sungale 10 Inch Dual Camera Android Tablet",
+    "model": "ID1032WTA",
+    "url": "https://www.staples.com/Sungale-10-Inch-Dual-Camera-Android-Tablet/product_24001310",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "AZT 10in Android Tablet Quad-core IPS-panel",
+    "model": "AZT-TAB10-S970",
+    "url": "https://www.staples.com/AZT-10in-Android-Tablet-Quad-core-IPS-panel/product_1240721",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Acer ICONIA B1-790-K21X Tablet, 7\", 1GB DDR3L SDRAM, MediaTek Cortex A53 MT8163 Quad-core 1.3GHZ, 16GB, Android 6.0 Marshmallow",
+    "model": "NT.LDFAA.001",
+    "url": "https://www.staples.com/Acer-ICONIA-B1-790-K21X-Tablet-7-1GB-DDR3L-SDRAM-MediaTek-Cortex-A53-MT8163-Quad-core-1-3GHZ-16GB-Android-6-0-Marshmallow/product_IM19W9711",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F10XHD 10\" Quad Core Tablet Android Black",
+    "model": "F10XHD",
+    "url": "https://www.staples.com/LINSAY-F10XHD-10-Quad-Core-Tablet-Android-Black/product_2549349",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Acer ICONIA B3-A40-K5S2 Tablet, 10.1\", 2GB DDR3L SDRAM, MediaTek Cortex A35 MT8167 Quad-core 1.30GHz, 32GB, Android 7.0 Nougat",
+    "model": "NT.LDVAA.001",
+    "url": "https://www.staples.com/Acer-ICONIA-B3-A40-K5S2-Tablet-10-1-2GB-DDR3L-SDRAM-MediaTek-Cortex-A35-MT8167-Quad-core-1-30GHz-32GB-Android-7-0-Nougat/product_IM19W9710",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab A SM-T380 Tablet, 8\", 2GB, Qualcomm Snapdragon 425 Quad-core 1.40GHz, 32GB, Android 7.1 Nougat, 1280 x 800",
+    "model": "SM-T380NZKEXAR",
+    "url": "https://www.staples.com/samsung-galaxy-tab-a-sm-t380-tablet-8-2gb-qualcomm-snapdragon-425-quad-core-1-40ghz-32gb-android-7-1-nougat-1280-x-800/product_IM11DM607",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F7XHD 7\" Quad Core Dual Camera Tablet Android Black",
+    "model": "F7XHD",
+    "url": "https://www.staples.com/LINSAY-F7XHD-7-Quad-Core-Dual-Camera-Tablet-Android-Black/product_2549348",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Proscan PLT8802-8GB Dual Core Tablet; Android Tablet 8\"",
+    "model": "CURPLT88028GB",
+    "url": "https://www.staples.com/Proscan-PLT8802-8-Tablet-8-GB-Android-Jelly-Bean-Wi-Fi-Black/product_1106252",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung SM-P580NZKAXAR 10.1\" Galaxy Tab A Tablet, 16GB, Android 6.0, Black",
+    "model": "SM-P580NZKAXAR",
+    "url": "https://www.staples.com/Samsung-SM-P580NZKAXAR-10-1-Galaxy-Tab-A-Tablet-16GB-Android-6-0-Black/product_IM14T7929",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "RCA RCS13101EK-RB Refurbished Home Stereo System, Removable 7-inch Android Tablet, Black",
+    "model": "RCS13101EK-RB",
+    "url": "https://www.staples.com/rca-rcs13101ek-rb-refurbished-home-stereo-system-removable-7-inch-android-tablet-black/product_24288194",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Ematic Sprout Channel Cubby™ 7\" Kids Tablet, 1GB RAM, Android 4.4 KitKat, Green/White/Blue",
+    "model": "CUBBY",
+    "url": "https://www.staples.com/Ematic-Sprout-Channel-Cubby-7-Kids-Tablet-1GB-RAM-Android-4-4-KitKat-Green-White-Blue/product_2596609",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab A SM-P580 10.1\" Tablet, 16GB, Android 6.0 Marshmallow, Black",
+    "model": "SM-P580NZKAXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-A-SM-P580-10-1-Tablet-16GB-Android-6-0-Marshmallow-Black/product_IM16C0422",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F7XHDKIDSPURPLE 7\" Quad Core Tablet w/ Purple Kids Defender Case Android",
+    "model": "F7XHDKIDSPURPLE",
+    "url": "https://www.staples.com/LINSAY-F7XHDKIDSPURPLE-7-Quad-Core-Tablet-w-Purple-Kids-Defender-Case-Android/product_2566995",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab E SM-T377 8\" Touchscreen Tablet, Android 6.0.1, Black",
+    "model": "SM-T377AZKAATT",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-E-SM-T377-8-Touchscreen-Tablet-Android-6-0-1-Black/product_IM14N3924",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "iView 7-inch 8GB Tablet with Android 4.2",
+    "model": "93585200M",
+    "url": "https://www.staples.com/iView-7-inch-8GB-Tablet-with-Android-4-2/product_551756",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "iView 7\" Tablet, 8 GB, Android Jelly Bean, Wi-Fi, Blue",
+    "model": "93585193M",
+    "url": "https://www.staples.com/iView-SupraPad-7-inch-8GB-Tablet-with-HDMI-Output/product_551758",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab E SM-T560 9.6\" Tablet, 16GB, Android 5.1 Lollipop, Black",
+    "model": "SM-T560NZKUXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-E-SM-T560-9-6-Tablet-16GB-Android-5-1-Lollipop-Black/product_2740051",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Zebra® ET50 Series 8.3\" 32GB Android Tablet, Black (ET50PE-L15E-00US)",
+    "model": "ET50PE-L15E-00US",
+    "url": "https://www.staples.com/Zebra-ET50-Series-8-3-32GB-Android-Tablet-Black-ET50PE-L15E-00US/product_IM14D4691",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Ematic EGQ347BL 7\" Tablet, 8GB, Android 5.0 Lollipop, Black",
+    "model": "EGQ347BL",
+    "url": "https://www.staples.com/Ematic-EGQ347BL-7-Tablet-8GB-Android-5-0-Lollipop-Black/product_24179318",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Ematic PBS Playtime Pad PBSKD12 7\" Kids Tablet, 1GB RAM, Android 6.0 Marshmallow, Blue/Green",
+    "model": "PBSKD12",
+    "url": "https://www.staples.com/Ematic-PBS-Playtime-Pad-PBSKD12-7-Kids-Tablet-1GB-RAM-Android-6-0-Marshmallow-Blue-Green/product_2596610",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab S3 SM-T820NZK/EJ-FT820 9.7\" Tablet Bundle, Android 7.0, Black",
+    "model": "SM-T820NZK/EJ-FT820",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-S3-SM-T820NZK-EJ-FT820-9-7-Tablet-Bundle-Android-7-0-Black/product_IM19J4046",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F10XHDB 10\" Quad Core Tablet w/ Black Case Android",
+    "model": "F10XHDB",
+    "url": "https://www.staples.com/LINSAY-F10XHDB-10-Quad-Core-Tablet-w-Black-Case-Android/product_2549353",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic® Munchkins SC-774KT 7\" Kids Tablet, 4GB, Android 5.1 Lollipop, Pink",
+    "model": "SC774KTPINK",
+    "url": "https://www.staples.com/Supersonic-Munchkins-SC-774KT-7-Kids-Tablet-4GB-Android-5-1-Lollipop-Pink/product_2112568",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F7XHDBK 7\" Quad Core Tablet w/ Black Keyboard Android",
+    "model": "F7XHDBK",
+    "url": "https://www.staples.com/LINSAY-F7XHDBK-7-Quad-Core-Tablet-w-Black-Keyboard-Android/product_2549350",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F10XHDBK 10\" Quad Core Tablet w/ Black Keyboard Android",
+    "model": "F10XHDBK",
+    "url": "https://www.staples.com/LINSAY-F10XHDBK-10-Quad-Core-Tablet-w-Black-Keyboard-Android/product_2596706",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F7XHDB 7\" Quad Core Tablet w/ Black Case Android",
+    "model": "F7XHDB",
+    "url": "https://www.staples.com/LINSAY-F7XHDB-7-Quad-Core-Tablet-w-Black-Case-Android/product_2549352",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F10XHDBDS 10\" Quad Core Tablet w/ Silver Keyboard Android",
+    "model": "F10XHDBDS",
+    "url": "https://www.staples.com/LINSAY-F10XHDBDS-10-Quad-Core-Tablet-w-Silver-Keyboard-Android/product_2551722",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F10XHDBKCOREDW 10\" Quad Core Tablet w/ Red Crocodile Style Keyboard Android",
+    "model": "F10XHDBKCOREDW",
+    "url": "https://www.staples.com/LINSAY-F10XHDBKCOREDW-10-Quad-Core-Tablet-w-Red-Crocodile-Style-Keyboard-Android/product_2554443",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F10XHDBKCOBROWN 10\" Quad Core Tablet w/ Brown Crocodile Style Keyboard Android",
+    "model": "F10XHDBKCOBROWN",
+    "url": "https://www.staples.com/LINSAY-F10XHDBKCOBROWN-10-Quad-Core-Tablet-w-Brown-Crocodile-Style-Keyboard-Android/product_2554442",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F10XHDKIDSPINK 10\" Quad Core Tablet w/ Pink Kids Defender Case Android",
+    "model": "F10XHDKIDSPINK",
+    "url": "https://www.staples.com/LINSAY-F10XHDKIDSPINK-10-Quad-Core-Tablet-w-Pink-Kids-Defender-Case-Android/product_2566901",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F7KPWP 7\" Quad Core Tablet w/ Purple Kids Defender Case Android and 1.5\" Smart Watch Kids Cam Selfie Pink",
+    "model": "F7KPWP",
+    "url": "https://www.staples.com/LINSAY-F7KPWP-7-Quad-Core-Tablet-w-Purple-Kids-Defender-Case-Android-and-1-5-Smart-Watch-Kids-Cam-Selfie-Pink/product_2566871",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F10XHDBCWHITE 10\" Quad Core Tablet w/ White Case Android",
+    "model": "F10XHDBCWHITE",
+    "url": "https://www.staples.com/LINSAY-F10XHDBCWHITE-10-Quad-Core-Tablet-w-White-Case-Android/product_2566864",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F10XHDBCBLUE 10\" Quad Core Tablet w/ Blue Case Android",
+    "model": "F10XHDBCBLUE",
+    "url": "https://www.staples.com/LINSAY-F10XHDBCBLUE-10-Quad-Core-Tablet-w-Blue-Case-Android/product_2567000",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F10XHDBDG 10\" Quad Core Tablet w/ Golden Keyboard Android",
+    "model": "F10XHDBDG",
+    "url": "https://www.staples.com/LINSAY-F10XHDBDG-10-Quad-Core-Tablet-w-Golden-Keyboard-Android/product_2549418",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F10XHDBCUSAS 10\" Quad Core Tablet w/ USA Style Case Android",
+    "model": "F10XHDBCUSAS",
+    "url": "https://www.staples.com/LINSAY-F10XHDBCUSAS-10-Quad-Core-Tablet-w-USA-Style-Case-Android/product_2571681",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "NuVision 10.1\" Android 5.0 Lollipop Tablet",
+    "model": "TM101A530L",
+    "url": "https://www.staples.com/NuVision-10-1-Android-5-0-Lollipop-Tablet-with-Case-Stand/product_1671838",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F10XHDBKCOBLACK 10\" Quad Core Tablet w/ Black Crocodile Style Keyboard Android",
+    "model": "F10XHDBKCOBLACK",
+    "url": "https://www.staples.com/LINSAY-F10XHDBKCOBLACK-10-Quad-Core-Tablet-w-Black-Crocodile-Style-Keyboard-Android/product_2571682",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F10XHDKIDSBLUE 10\" Quad Core Tablet w/ Blue Kids Defender Case Android",
+    "model": "F10XHDKIDSBLUE",
+    "url": "https://www.staples.com/LINSAY-F10XHDKIDSBLUE-10-Quad-Core-Tablet-w-Blue-Kids-Defender-Case-Android/product_2571683",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F7KBWB 7\" Quad Core Tablet w/ Blue Kids Defender Case Android and 1.5\" Smart Watch Kids Cam Selfie Blue",
+    "model": "F7KBWB",
+    "url": "https://www.staples.com/LINSAY-F7KBWB-7-Quad-Core-Tablet-w-Blue-Kids-Defender-Case-Android-and-1-5-Smart-Watch-Kids-Cam-Selfie-Blue/product_2566872",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F10XHDCKBAG 10\" Quad Core Tablet w/ Black Keyboard and Bag Pack Android",
+    "model": "F10XHDCKBAG",
+    "url": "https://www.staples.com/LINSAY-F10XHDCKBAG-10-Quad-Core-Tablet-w-Black-Keyboard-and-Bag-Pack-Android/product_2596922",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F7XHDBKB 7\" Quad Core Tablet w/ Blue Keyboard, Earphones and Stylus Pen Android",
+    "model": "F7XHDBKB",
+    "url": "https://www.staples.com/LINSAY-F7XHDBKB-7-Quad-Core-Tablet-w-Blue-Keyboard-Earphones-and-Stylus-Pen-Android/product_2548517",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F7XHDBKR 7\" Quad Core Tablet w/ Red Keyboard, Earphones and Stylus Pen Android",
+    "model": "F7XHDBKR",
+    "url": "https://www.staples.com/LINSAY-F7XHDBKR-7-Quad-Core-Tablet-w-Red-Keyboard-Earphones-and-Stylus-Pen-Android/product_2549351",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F7XHDBCBLUEPOLO 7\" Quad Core Tablet w/ Blue Case Android",
+    "model": "F7XHDBCBLUEPOLO",
+    "url": "https://www.staples.com/LINSAY-F7XHDBCBLUEPOLO-7-Quad-Core-Tablet-w-Blue-Case-Android/product_2566996",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F7XHDBCNYS 7\" Quad Core Tablet w/ New York Style Case Android",
+    "model": "F7XHDBCNYS",
+    "url": "https://www.staples.com/LINSAY-F7XHDBCNYS-7-Quad-Core-Tablet-w-New-York-Style-Case-Android/product_2572019",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F10XHDBCLBROWN 10\" Quad Core Tablet w/ Brown Case Android",
+    "model": "F10XHDBCLBROWN",
+    "url": "https://www.staples.com/LINSAY-F10XHDBCLBROWN-10-Quad-Core-Tablet-w-Brown-Case-Android/product_2567001",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F7XHDBCLPINK 7\" Quad Core Tablet w/ Pink Case Android",
+    "model": "F7XHDBCLPINK",
+    "url": "https://www.staples.com/LINSAY-F7XHDBCLPINK-7-Quad-Core-Tablet-w-Pink-Case-Android/product_2566997",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F10XHDKIDSBAGB 10\" Quad Core Tablet w/ Blue Kids Defender Case and Bag Pack Android",
+    "model": "F10XHDKIDSBAGB",
+    "url": "https://www.staples.com/LINSAY-F10XHDKIDSBAGB-10-Quad-Core-Tablet-w-Blue-Kids-Defender-Case-and-Bag-Pack-Android/product_2566945",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F10XHDKIDSBAGG 10\" Quad Core Tablet w/ Green Kids Defender Case and Bag Pack Android",
+    "model": "F10XHDKIDSBAGG",
+    "url": "https://www.staples.com/LINSAY-F10XHDKIDSBAGG-10-Quad-Core-Tablet-w-Green-Kids-Defender-Case-and-Bag-Pack-Android/product_2566969",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F7XHDBKPURPLE 7\" Quad Core Tablet w/ Purple Keyboard Android",
+    "model": "F7XHDBKPURPLE",
+    "url": "https://www.staples.com/LINSAY-F7XHDBKPURPLE-7-Quad-Core-Tablet-w-Purple-Keyboard-Android/product_2572015",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F7XHDKIDSBLUE 7\" Quad Core Tablet w/ Blue Kids Defender Case Android",
+    "model": "F7XHDKIDSBLUE",
+    "url": "https://www.staples.com/LINSAY-F7XHDKIDSBLUE-7-Quad-Core-Tablet-w-Blue-Kids-Defender-Case-Android/product_2566999",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F7XHDKIDSGREEN 7\" Quad Core Tablet w/ Green Kids Defender Case Android",
+    "model": "F7XHDKIDSGREEN",
+    "url": "https://www.staples.com/LINSAY-F7XHDKIDSGREEN-7-Quad-Core-Tablet-w-Green-Kids-Defender-Case-Android/product_2572014",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F7XHDBLKZEBRA 7\" Quad Core Tablet w/ Zebra Style Keyboard Android",
+    "model": "F7XHDBLKZEBRA",
+    "url": "https://www.staples.com/LINSAY-F7XHDBLKZEBRA-7-Quad-Core-Tablet-w-Zebra-Style-Keyboard-Android/product_2572017",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F7XHDKIDS 7\" Quad Core Tablet w/ Yellow Kids Defender Case Android",
+    "model": "F7XHDKIDS",
+    "url": "https://www.staples.com/LINSAY-F7XHDKIDS-7-Quad-Core-Tablet-w-Yellow-Kids-Defender-Case-Android/product_2549355",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F7XHDBKSPINK 7\" Quad Core Tablet w/ Pink Keyboard Android",
+    "model": "F7XHDBKSPINK",
+    "url": "https://www.staples.com/LINSAY-F7XHDBKSPINK-7-Quad-Core-Tablet-w-Pink-Keyboard-Android/product_2566998",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F10KBWB 10\" Quad Core Tablet w/ Blue Kids Defender Case Android and 1.5\" Smart Watch Kids Cam Selfie Blue",
+    "model": "F10KBWB",
+    "url": "https://www.staples.com/LINSAY-F10KBWB-10-Quad-Core-Tablet-w-Blue-Kids-Defender-Case-Android-and-1-5-Smart-Watch-Kids-Cam-Selfie-Blue/product_2566866",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F7XHDCKBAG 7\" Quad Core Tablet w/ Black Keyboard and Bag Pack Android",
+    "model": "F7XHDCKBAG",
+    "url": "https://www.staples.com/LINSAY-F7XHDCKBAG-7-Quad-Core-Tablet-w-Black-Keyboard-and-Bag-Pack-Android/product_2566980",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F10KPWP 10\" Quad Core Tablet w/ Pink Kids Defender Case Android and 1.5\" Smart Watch Kids Cam Selfie Pink",
+    "model": "F10KPWP",
+    "url": "https://www.staples.com/LINSAY-F10KPWP-10-Quad-Core-Tablet-w-Pink-Kids-Defender-Case-Android-and-1-5-Smart-Watch-Kids-Cam-Selfie-Pink/product_2566865",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F7XHDKIDSBAG 7\" Quad Core Tablet w/ Yellow Kids Defender Case and Bag Pack Android",
+    "model": "F7XHDKIDSBAG",
+    "url": "https://www.staples.com/LINSAY-F7XHDKIDSBAG-7-Quad-Core-Tablet-w-Yellow-Kids-Defender-Case-and-Bag-Pack-Android/product_2566970",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic 7\" Tablet, 4 GB, Android Jelly Bean, Wi-Fi, Black",
+    "model": "93584067M",
+    "url": "https://www.staples.com/Supersonic-7-Tablet-4-GB-Android-Jelly-Bean-Wi-Fi-Black/product_284096",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Zeki Tbdv986w 9\" Android 5.1 Quad-core 8gb Tablet With Dvd Player",
+    "model": "GPXTBDV986W",
+    "url": "https://www.staples.com/Zeki-Tbdv986w-9-Android-5-1-Quad-core-8gb-Tablet-With-Dvd-Player/product_23983116",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Axess TA2510-7 7\" Tablet, Android Jelly Bean, Black",
+    "model": "93584772M",
+    "url": "https://www.staples.com/Axess-TA2510-7-7-Tablet-Android-Jelly-Bean-Black/product_477797",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Naxa 7\" Core Android 5.1 8GB Tablet",
+    "model": "NAXNID7015",
+    "url": "https://www.staples.com/Naxa-7-Core-Android-5-1-8GB-Tablet/product_2141687",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Naxa 10.1\" Core Android 5.1 8GB Tablet",
+    "model": "NAXNID1002",
+    "url": "https://www.staples.com/Naxa-10-1-Core-Android-5-1-8GB-Tablet/product_2141688",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic 9-Inch 8GB Tablet with 1.2 GHz Processor and Android 4.1",
+    "model": "93584060M",
+    "url": "https://www.staples.com/Supersonic-9-Inch-8GB-Tablet-with-1-2-GHz-Processor-and-Android-4-1/product_284089",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "MIMO MONITORS Adapt-IQ MCT-10QDS-POE 10.1\" Digital Signage Tablet with PoE, 8GB, Android 4.4",
+    "model": "MCT-10QDS-POE",
+    "url": "https://www.staples.com/MIMO-MONITORS-Adapt-IQ-MCT-10QDS-POE-10-1-Digital-Signage-Tablet-with-PoE-8GB-Android-4-4/product_IM13G9442",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "MIMO MONITORS Adapt-IQ MCT-10QDS 10.1\" Digital Signage Tablet, 8GB, Android 4.4",
+    "model": "MCT-10QDS",
+    "url": "https://www.staples.com/MIMO-MONITORS-Adapt-IQ-MCT-10QDS-10-1-Digital-Signage-Tablet-8GB-Android-4-4/product_IM13G9441",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic SV-7 7-inch 4GB Tablet with Android Jelly Bean",
+    "model": "93584986M",
+    "url": "https://www.staples.com/Supersonic-SV-7-7-inch-4GB-Tablet-with-Android-Jelly-Bean/product_551712",
     "category": "Android Tablets",
     "source": "Staples",
     "sourceType": "retailer",
@@ -138,6 +767,1366 @@
   {
     "brand": "iView 7-inch 4GB Tablet with Android 4.2 and HDMI Output",
     "model": "93584768M",
+    "url": "https://www.staples.com/iView-7-inch-4GB-Tablet-with-Android-4-2-and-HDMI-Output/product_478410",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Honeywell® ScanPal EDA70 Enterprise 7\" Tablet, 2GB RAM, Android 7.1 Nougat",
+    "model": "EDA70-0-C121SNGUK",
+    "url": "https://www.staples.com/honeywell-scanpal-eda70-enterprise-7-tablet-2gb-ram-android-7-1-nougat/product_IM19Z8128",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Ematic EGQ347BL 7\" HD Quad-Core Android 5.0 8GB Tablet with Bluetooth",
+    "model": "SHAGEGQ347BL",
+    "url": "https://www.staples.com/ematic-egq347bl-7-hd-quad-core-android-5-0-8gb-tablet-with-bluetooth/product_24329493",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Naxa 9\" Core Tablet with Android OS 7.1 & GMS Certification(NID-9009)",
+    "model": "NAXID9009",
+    "url": "https://www.staples.com/naxa-9-core-tablet-with-android-os-7-1-gms-certification-nid-9009/product_24329492",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Naxa 7\" Core Tablet with Android OS 7.1 & GMS Certification(NID-7019)",
+    "model": "NAXID7019",
+    "url": "https://www.staples.com/naxa-7-core-tablet-with-android-os-7-1-gms-certification-nid-7019/product_24329490",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Acer Iconia One 10 B3-A40FHD-K0MW Tablet, 10.1\", 2GB DDR3L SDRAM, MediaTek Cortex A35 MT8167A Quad-core 1.50GHz, 32GB",
+    "model": "NT.LE0AA.002",
+    "url": "https://www.staples.com/acer-iconia-one-10-b3-a40fhd-k0mw-tablet-10-1-2gb-ddr3l-sdram-mediatek-cortex-a35-mt8167a-quad-core-1-50ghz-32gb/product_IM12KC753",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "iView SupraPad 7-inch 8GB Tablet with Dual-Core 1.2 GHz Processor",
+    "model": "93585192M",
+    "url": "https://www.staples.com/iView-SupraPad-7-inch-8GB-Tablet-with-Dual-Core-1-2-GHz-Processor/product_551784",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Acer ICONIA B1-780-K6C3 Tablet, 7\", 1 GB DDR3L SDRAM, MediaTek Cortex A53 MT8163 Quad-core (4 Core) 1.30 GHz, 16 GB",
+    "model": "NT.LCJAA.002",
+    "url": "https://www.staples.com/acer-iconia-b1-780-k6c3-tablet-7-1-gb-ddr3l-sdram-mediatek-cortex-a53-mt8163-quad-core-4-core-1-30-ghz-16-gb/product_IM13FQ273",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic® Matrix MID 9\" Touchscreen 8GB Tablet",
+    "model": "93584989M",
+    "url": "https://www.staples.com/Supersonic-Matrix-MID-9-Tablet-8-GB-Android-Jelly-Bean-Wi-Fi-Black/product_551751",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Rand Mcnally Intelliroute 8\" TND Tablet",
+    "model": "RDY0528013076",
+    "url": "https://www.staples.com/Rand-Mcnally-Intelliroute-8-TND-Tablet/product_1641644",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Acer Chromebook Tab 10 D651N D651N-K9WT Chromebook Tablet, 9.7\", 4 GB LPDDR3, Rockchip RK33XX RK3399 2 GHz, 32 GB",
+    "model": "NX.H0BAA.001",
+    "url": "https://www.staples.com/acer-chromebook-tab-10-d651n-d651n-k9wt-chromebook-tablet-9-7-4-gb-lpddr3-rockchip-rk33xx-rk3399-2-ghz-32-gb/product_IM13BU417",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung SM-T713 8\" Galaxy Tab S2, 3GB RAM, Android 6.0, Black",
+    "model": "SM-T713NZKEXAR",
+    "url": "https://www.staples.com/Samsung-SM-T713-8-Galaxy-Tab-S2-3GB-RAM-Android-6-0-Black/product_IM11Y8719",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung SM-T813 9.7\" Galaxy Tab S2, 3GB RAM, Android 6.0, White",
+    "model": "SM-T813NZWEXAR",
+    "url": "https://www.staples.com/Samsung-SM-T813-9-7-Galaxy-Tab-S2-3GB-RAM-Android-6-0-White/product_IM11Y8717",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung SM-T713 8\" Galaxy Tab S2, 3GB RAM, Android 6.0, Gold",
+    "model": "SM-T713NZDEXAR",
+    "url": "https://www.staples.com/Samsung-SM-T713-8-Galaxy-Tab-S2-3GB-RAM-Android-6-0-Gold/product_IM11Y8721",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung SM-T813 9.7\" Galaxy Tab S2, 3GB RAM, Android 6.0, Gold",
+    "model": "SM-T813NZDEXAR",
+    "url": "https://www.staples.com/Samsung-SM-T813-9-7-Galaxy-Tab-S2-3GB-RAM-Android-6-0-Gold/product_IM11Y8718",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung SM-T713 8\" Galaxy Tab S2, 3GB RAM, Android 6.0, White",
+    "model": "SM-T713NZWEXAR",
+    "url": "https://www.staples.com/Samsung-SM-T713-8-Galaxy-Tab-S2-3GB-RAM-Android-6-0-White/product_IM11Y8720",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Amazon 6\" Black Kindle E-reader",
+    "model": "B00ZV9PXP2",
+    "url": "https://www.staples.com/New-6-Black-Kindle-E-reader/product_2424943",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab A SM-T350NZA/BT350GUJ 8\" Tablet Bundle, Android 5.0/Lollipop, Smoky Titanium",
+    "model": "SMT350NZA/BT350GUJ",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-A-SM-T350NZA-BT350GUJ-8-Tablet-Bundle-Android-5-0-Lollipop-Smoky-Titanium/product_IM11G6518",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab S3 SM-T820NZS/EJ-FT820 9.7\" Tablet Bundle, Android 7.0, Silver",
+    "model": "SM-T820NZS/EJ-FT820",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-S3-SM-T820NZS-EJ-FT820-9-7-Tablet-Bundle-Android-7-0-Silver/product_IM19J4047",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "iView® 7\" 4GB Capacitive Multi Touch 800x 480 Resolution Tablet Bundle With Android 4.2",
+    "model": "93584085M",
+    "url": "https://www.staples.com/iView-7-4GB-Capacitive-Multi-Touch-800x-480-Resolution-Tablet-Bundle-With-Android-4-2/product_283208",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab A 10.1\" Tablet 16 GB Android 6.0 Black",
+    "model": "SM-T580NZKAXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-A-10-1-Black/product_2407258",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "NuVision 7.85\" 16GB Dual Core 4.4 Kit Kat Android Tablet, Refurbished",
+    "model": "TB-TM785M3",
+    "url": "https://www.staples.com/NuVision-7-85-16GB-Dual-Core-4-4-Kit-Kat-Android-Tablet-Refurbished/product_1948476",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Ematic® EGQ235 10\" Tablet, 16GB, Android 7.1, Black",
+    "model": "EGQ235SKBL",
+    "url": "https://www.staples.com/ematic-egq235-10-tablet-16gb-android-7-1-black/product_24272664",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "ASUS® ZenPad 3S 10 Z500M-C1-GR 9.7\" Tablet, 64GB, Android 6.0 Marshmallow, Glacier Silver",
+    "model": "Z500M-C1-GR",
+    "url": "https://www.staples.com/ASUS-ZenPad-3S-10-Z500M-C1-GR-9-7-Tablet-64GB-Android-6-0-Marshmallow-Glacier-Silver/product_IM17K7924",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab S3 SM-T820 Tablet, 9.7\", 4 GB, Qualcomm Snapdragon 820 Quad-core (4 Core) 2.15 GHz, 32 GB, Android 7.0 Nougat",
+    "model": "SM-T820NZKAXAR",
+    "url": "https://www.staples.com/samsung-galaxy-tab-s3-sm-t820-tablet-9-7-4-gb-qualcomm-snapdragon-820-quad-core-4-core-2-15-ghz-32-gb-android-7-0-nougat/product_2715960",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab S2 SM-T813 Tablet, 9.7\", 3GB, Qualcomm APQ8076 Quad-core 1.90 GHz, 32GB, Android 6.0 Marshmallow, 2048 x1536",
+    "model": "SM-T813NZKEXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-S2-SM-T813-Tablet-9-7-3GB-Qualcomm-APQ8076-Quad-core-1-90-GHz-32GB-Android-6-0-Marshmallow-2048-x1536/product_IM11Y8256",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Lenovo Yoga 10.1\", 16GB Android Tablet",
+    "model": "59387999",
+    "url": "https://www.staples.com/Lenovo-Yoga-10-1-16GB-Android-Tablet/product_460768",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung T350NZAAXAR 8\" Galaxy Tab A, 16 GB, Android 5.0, Smokey Titanium",
+    "model": "SM-T350NZAAXAR",
+    "url": "https://www.staples.com/Samsung-T350NZAAXAR-8-0-Galaxy-Tab-A-16-GB-Android-5-0-Smokey-Titanium/product_1616621",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Alpha Digital 7 Inch Dual Camera Android Tablet with Protective Case",
+    "model": "ID716WTA",
+    "url": "https://www.staples.com/Alpha-Digital-7-Inch-Dual-Camera-Android-Tablet-with-Protective-Case/product_24001307",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab S2 (SM-T813NZKEXAR) 9.7\" Tablet 32GB Android 5.0 Lollipop Black",
+    "model": "SM-T813NZKEXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-S2-9-7-Tablet-Black/product_1823428",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Ematic EGQ178 7.9\" Tablet; 8GB, Android 5.0 Lollipop, Black",
+    "model": "EGQ178BL",
+    "url": "https://www.staples.com/Ematic-EGQ178-7-9-Tablet-8GB-Android-5-0-Lollipop-Black/product_2112598",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Ematic® EGQ235 10\" Tablet, 16GB, Android 7.1, Teal",
+    "model": "EGQ235SKTL",
+    "url": "https://www.staples.com/ematic-egq235-10-tablet-16gb-android-7-1-teal/product_24272671",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Refurbished Samsung Galaxy SM-T350NZWAXAR 8 in. Tablet, 16GB, Android 5.0 Lollipop, White",
+    "model": "RSM-T350NZWAXAR",
+    "url": "https://www.staples.com/Refurbished-Samsung-Galaxy-SM-T350NZWAXAR-8-in-Tablet-16GB-Android-5-0-Lollipop-White/product_2521724",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab A SM-T380 Tablet, 8\", 2GB, Samsung Exynos 5433 Quad-core 1.40GHz, 32GB, Android 7.1 Nougat, 1280 x 800",
+    "model": "SM-T380NZSEXAR",
+    "url": "https://www.staples.com/samsung-galaxy-tab-a-sm-t380-tablet-8-2gb-samsung-exynos-5433-quad-core-1-40ghz-32gb-android-7-1-nougat-1280-x-800/product_IM12DD773",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic® SC6207FIT 7\" Tablet with Fitness Band, 512MB RAM, Android 4.4, Red",
+    "model": "SC6207FITRD",
+    "url": "https://www.staples.com/Supersonic-SC6207FIT-7-Tablet-with-Fitness-Band-512MB-RAM-Android-4-4-Red/product_2596601",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Axess 7-inch 4GB Tablet with Android Jelly Bean",
+    "model": "93584078M",
+    "url": "https://www.staples.com/Axess-7-inch-4GB-Tablet-with-Android-Jelly-Bean/product_283013",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Refurbished Envizen 10.1\" Tablet 32GB Android 4.4 KitKat Pink",
+    "model": "EVT10Q32GPNKR",
+    "url": "https://www.staples.com/refurbished-envizen-10-1-tablet-32gb-android-4-4-kitkat-pink/product_23997359",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab S3 SM-T820 Tablet, 9.7\", 4GB, Qualcomm Snapdragon 820 Quad-Core 2.15GHz, 32GB, Android 7.0 Nougat, 2048x1536",
+    "model": "SM-T820NZSAXAR",
+    "url": "https://www.staples.com/samsung-galaxy-tab-s3-sm-t820-tablet-9-7-4gb-qualcomm-snapdragon-820-quad-core-2-15ghz-32gb-android-7-0-nougat-2048x1536/product_2715951",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Ematic® EGQ373 7\" Tablet, 16GB, Android 7.1, Black",
+    "model": "EGQ373BL",
+    "url": "https://www.staples.com/ematic-egq235-7-tablet-16gb-android-7-1-black/product_24272668",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Ematic® EGQ373 7\" Tablet, 16GB, Android 7.1, Teal",
+    "model": "EGQ373TL",
+    "url": "https://www.staples.com/ematic-egq235-7-tablet-16gb-android-7-1-teal/product_24272667",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Ematic® EGQ373 7\" Tablet, 16GB, Android 7.1, Blue",
+    "model": "EGQ373BU",
+    "url": "https://www.staples.com/ematic-egq235-7-tablet-16gb-android-7-1-blue/product_24272669",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Note 2014 Edition SM-P6000ZKVXAR 10.1\" Tablet 3GB RAM Android 4.3 Jelly Bean, Black",
+    "model": "SM-P6000ZKVXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Note-2014-Edition-SM-P6000ZKVXAR-10-1-Tablet-3GB-RAM-Android-4-3-Jelly-Bean-Black/product_309155",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Ematic® EGQ373 7\" Tablet, 16GB, Android 7.1, Purple",
+    "model": "EGQ373PR",
+    "url": "https://www.staples.com/ematic-egq235-7-tablet-16gb-android-7-1-purple/product_24272666",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab S2 SM-T813 Tablet, 9.7\", 3 GB Quad-core (4 Core) 1.90 GHz, 32 GB, Android 5.0 Lollipop, 2048 x 1536, Gold",
+    "model": "SM-T813NZDSXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-S2-SM-T813-Tablet-9-7-3-GB-Quad-core-4-Core-1-90-GHz-32-GB-Android-5-0-Lollipop-2048-x-1536-Gold/product_IM14T8956",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Ematic FunTab FUNTABHPKJ25BUN 7\" Kids Tablet, 1GB RAM, Android 5.1 Lollipop, Red/White",
+    "model": "FUNTABHPKJ25BUN",
+    "url": "https://www.staples.com/Ematic-FunTab-FUNTABHPKJ25BUN-7-Kids-Tablet-1GB-RAM-Android-5-1-Lollipop-Red-White/product_2596608",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic 9-inch 8GB Android 4.1 Tablet With 1.2 GHz Processor",
+    "model": "93585010M",
+    "url": "https://www.staples.com/Supersonic-9-inch-8GB-Android-4-1-Tablet-With-1-2-GHz-Processor/product_551800",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Ematic® EGQ235 10\" Tablet, 16GB, Android 7.1, Purple",
+    "model": "EGQ235SKPR",
+    "url": "https://www.staples.com/ematic-egq235-10-tablet-16gb-android-7-1-purple/product_24272670",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Ematic® EGQ235 10\" Tablet, 16GB, Android 7.1, Blue",
+    "model": "EGQ235SKBU",
+    "url": "https://www.staples.com/ematic-egq235-10-tablet-16gb-android-7-1-blue/product_24272665",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "NuVision 7\" Android 5.0 Lollipop Tablet",
+    "model": "TM700A520L",
+    "url": "https://www.staples.com/NuVision-7-Android-5-0-Lollipop-Tablet/product_1671839",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "HUAWEI MediaPad T3 10 9.6\" Tablet, 16GB, Android 7.0 Nougat, Space Gray",
+    "model": "KOBEW09C",
+    "url": "https://www.staples.com/huawei-mediapad-t3-10-9-6-tablet-16gb-android-7-0-nougat-space-gray/product_24298715",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic® SC-8800 7\" Tablet; 8GB, Android 4.4 KitKat, Black",
+    "model": "SC8800",
+    "url": "https://www.staples.com/Supersonic-SC-8800-7-Tablet-8GB-Android-4-4-KitKat-Black/product_2112569",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Ematic Funtab3 7\" Tablet, 16GB, Android",
+    "model": "FUNTAB3",
+    "url": "https://www.staples.com/ematic-funtab3-7-tablet-16gb-android/product_24254660",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Southern Telecom smarttab® STJR700 7\" Kids Tablet, 1GB RAM, Android Lollipop 5.1, Orange",
+    "model": "STJR700OR",
+    "url": "https://www.staples.com/Southern-Telecom-smarttab-STJR700-7-Kids-Tablet-1GB-RAM-Android-Lollipop-5-1-Orange/product_2596603",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "HUAWEI MediaPad M3 Lite 8 Tablet, 64GB, Android 7.0 Nougat, White",
+    "model": "CHOPINW09AC",
+    "url": "https://www.staples.com/huawei-mediapad-m3-lite-8-tablet-64gb-android-7-0-nougat-white/product_24298710",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "HUAWEI MediaPad M3 Lite 10 10.1\" Tablet, 16GB, Android 7.0 Nougat, White",
+    "model": "BACHW09AC",
+    "url": "https://www.staples.com/huawei-mediapad-m3-lite-10-10-1-tablet-16gb-android-7-0-nougat-white/product_24298711",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung SM-T713 8\" Galaxy Tab S2 Tablet, 32GB, Android 6.0, White",
+    "model": "SM-T713NZWEXAR",
+    "url": "https://www.staples.com/Samsung-SM-T713-8-Galaxy-Tab-S2-Tablet-32GB-Android-6-0-White/product_IM11Y8255",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F7KGWG 7\" Quad Core Tablet w/ Green Kids Defender Case Android and 1.5\" Smart Watch Kids Cam Selfie Green",
+    "model": "F7KGWG",
+    "url": "https://www.staples.com/LINSAY-F7KGWG-7-Quad-Core-Tablet-w-Green-Kids-Defender-Case-Android-and-1-5-Smart-Watch-Kids-Cam-Selfie-Green/product_2566897",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LINSAY F10KGWG 10\" Quad Core Tablet w/ Green Kids Defender Case Android and 1.5\" Smart Watch Kids Cam Selfie Green",
+    "model": "F10KGWG",
+    "url": "https://www.staples.com/LINSAY-F10KGWG-10-Quad-Core-Tablet-w-Green-Kids-Defender-Case-Android-and-1-5-Smart-Watch-Kids-Cam-Selfie-Green/product_2566456",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sungale Cyberus 7\" 8GB Android 4.0 Ice Cream Sandwich Tablet, Black",
+    "model": "ID730WTA",
+    "url": "https://www.staples.com/Sungale-Cyberus-7-8GB-Android-4-0-Ice-Cream-Sandwich-Tablet-Black/product_1019335",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung SM-P580NZWAXAR 10.1\" Galaxy Tab A Tablet, 16GB, Android 6.0, White",
+    "model": "SM-P580NZWAXAR",
+    "url": "https://www.staples.com/Samsung-SM-P580NZWAXAR-10-1-Galaxy-Tab-A-Tablet-16GB-Android-6-0-White/product_IM16C0423",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Asus ZenPad 10 Z301MF-A2-WH Tablet, 10.1\", 2 GB LPDDR3, MediaTek 4 Core 1.50 GHz, 16 GB, Android 7.0 Nougat, 1920 x 1200",
+    "model": "Z301MF-A2-WH",
+    "url": "https://www.staples.com/asus-zenpad-10-z301mf-a2-wh-tablet-10-1-2-gb-lpddr3-mediatek-4-core-1-50-ghz-16-gb-android-7-0-nougat-1920-x-1200/product_IM11FC969",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab Active2 SM-T390 Tablet, 8\", 3GB, Samsung Exynos 7 Octa 7870 Octa-core 1.60GHz, 16GB, Android 7.1 Nougat",
+    "model": "SM-T390NZKAXAR",
+    "url": "https://www.staples.com/samsung-galaxy-tab-active2-sm-t390-tablet-8-3gb-samsung-exynos-7-octa-7870-octa-core-1-60ghz-16gb-android-7-1-nougat/product_IM12LV457",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab A 8.0 White",
+    "model": "SM-T350NZWAXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-SM-T350NZWAXAR-8-in-Tablet-16GB-Android-5-0-Lollipop-White/product_1634431",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab 3 Lite 7-Inch Tablet, 8GB, White (SM-T110NDWAXAR)",
+    "model": "SM-T110NDWAXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-3-Lite-7-Inch-Tablet-8GB-White-SM-T110NDWAXAR/product_236475",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Refurbished Acer Tablet, B3-A30-K44M, 10.1\", 16 GB Flash, 1 GB Ram, 1.3 GHz MediaTek Cortex A53 MT8163, Touchscreen, Android",
+    "model": "NT.LCFAA.002",
+    "url": "https://www.staples.com/Refurbished-Acer-Tablet-B3-A30-K44M-10-1-16-GB-Flash-1-GB-Ram-1-3-GHz-MediaTek-Cortex-A53-MT8163-Touchscreen-Android/product_2715838",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Refurbished Acer Tablet, A3-A30-132G, 10.1\", 16GB Flash, 2GB Ram, 1.33 GHz Intel Atom Z3735F, Touchscreen, Android",
+    "model": "NT.L9YAA.002",
+    "url": "https://www.staples.com/Refurbished-Acer-Tablet-A3-A30-132G-10-1-16GB-Flash-2GB-Ram-1-33-GHz-Intel-Atom-Z3735F-Touchscreen-Android/product_2715841",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung SM-T670NZKAXAR Galaxy View 18.4\" Tablet, 32GB, Android 5.1 Lollipop, Black",
+    "model": "SM-T670NZKAXAR",
+    "url": "https://www.staples.com/samsung-sm-t670nzkaxar-galaxy-view-18-4-tablet-32gb-android-5-1-lollipop-black/product_2180455",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab A 10.1\" Tablet with S Pen, Exynos 7870, 16GB Flash, 3GB RAM, Android 6.0, Black",
+    "model": "SM-P580NZK/GP-U999",
+    "url": "https://www.staples.com/samsung-galaxy-tab-a-10-1-tablet-with-s-pen-exynos-7870-16gb-flash-3gb-ram-android-6-0-black/product_IM11AQ221",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Refurbished Samsung Galaxy Tab 7\" Tablet 8GB Android 4.4 KitKat Black",
+    "model": "SASMT113NYKAXAR",
+    "url": "https://www.staples.com/refurbished-samsung-galaxy-tab-7-tablet-8gb-android-4-4-kitkat-black/product_23997361",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Refurbished Samsung Galaxy Tab 7\" Tablet 8GB Android 4.4 KitKat White",
+    "model": "SASMT113NDWAXAR",
+    "url": "https://www.staples.com/refurbished-samsung-galaxy-tab-7-tablet-8gb-android-4-4-kitkat-white/product_23997360",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Refurbished Envizen Digital 9.0\" Tablet 16GB Android 5.1 Lollipop Purple",
+    "model": "VMD9002PURRC",
+    "url": "https://www.staples.com/Refurbished-Envizen-Digital-9-0-Tablet-16GB-Android-5-1-Lollipop-Purple/product_24142231",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab A 10.1\" Tablet with S Pen, Exynos 7870, 16GB Flash, 3GB RAM, Android 6.0, White",
+    "model": "SM-P580NZW/GP-U999",
+    "url": "https://www.staples.com/samsung-galaxy-tab-a-10-1-tablet-with-s-pen-exynos-7870-16gb-flash-3gb-ram-android-6-0-white/product_IM11AQ222",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Refurbished TG-TEK 10.1\" Tablet 16GB Android 5.1 Lollipop Black",
+    "model": "TG1051BLKR",
+    "url": "https://www.staples.com/Refurbished-TG-TEK-10-1-Tablet-16GB-Android-5-1-Lollipop-Black/product_24142230",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sungale Cyberus 4.3\" 4GB Android 4.1 Jelly Bean Tablet, Black",
+    "model": "ID436WTA",
+    "url": "https://www.staples.com/Sungale-Cyberus-4-3-4GB-Android-4-1-Jelly-Bean-Tablet-Black/product_1275380",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Asus ZenPad 10 Z301MF-A2-GR Tablet, 10.1\", 2 GB LPDDR3, MediaTek 4 Core 1.50 GHz, 16 GB, Android 7.0 Nougat, 1920 x 1200",
+    "model": "Z301MF-A2-GR",
+    "url": "https://www.staples.com/asus-zenpad-10-z301mf-a2-gr-tablet-10-1-2-gb-lpddr3-mediatek-4-core-1-50-ghz-16-gb-android-7-0-nougat-1920-x-1200/product_IM11FC968",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Asus ZenPad 10 Z301M-A2-WH Tablet, 10.1\", 2 GB LPDDR3, MediaTek Quad-core 1.30 GHz, 16 GB, Android 7.0 Nougat, 1280 x 800",
+    "model": "Z301M-A2-WH",
+    "url": "https://www.staples.com/asus-zenpad-10-z301m-a2-wh-tablet-10-1-2-gb-lpddr3-mediatek-quad-core-1-30-ghz-16-gb-android-7-0-nougat-1280-x-800/product_IM11FC967",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Asus ZenPad 10 Z301M-A2-GR Tablet, 10.1\", 2 GB LPDDR3, MediaTek 4 Core 1.30 GHz, 16 GB, Android 7.0 Nougat, 1280 x 800",
+    "model": "Z301M-A2-GR",
+    "url": "https://www.staples.com/asus-zenpad-10-z301m-a2-gr-tablet-10-1-2-gb-lpddr3-mediatek-4-core-1-30-ghz-16-gb-android-7-0-nougat-1280-x-800/product_IM11FC966",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Google Nexus 7 LTE 7-Inch 32GB Tablet with 4G LTE",
+    "model": "Nexus7 ASUS-2B3",
+    "url": "https://www.staples.com/Google-Nexus-7-LTE-7-Inch-32GB-Tablet-with-4G-LTE/product_309153",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Lenovo Tab4 10 Plus TB-X704V ZA2T0001US Tablet, 10.1\", 2 GB LPDDR3, Qualcomm Snapdragon 625 MSM8953 Octa-core (8 Core) 2 GHz",
+    "model": "ZA2T0001US",
+    "url": "https://www.staples.com/lenovo-tab4-10-plus-tb-x704v-za2t0001us-tablet-10-1-2-gb-lpddr3-qualcomm-snapdragon-625-msm8953-octa-core-8-core-2-ghz/product_IM12KF232",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Toshiba Encore 2 8-Inch Windows Tablet, 32GB (WT8-B32CN)",
+    "model": "WT8-B32CN",
+    "url": "https://www.staples.com/Toshiba-Encore-2-8-Inch-Windows-Tablet-32GB-WT8-B32CN/product_1103528",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Toshiba Encore Mini 7-Inch Windows Tablet, 16GB (WT7-C16MS)",
+    "model": "WT7-C16MS",
+    "url": "https://www.staples.com/Toshiba-Encore-Mini-7-Inch-Windows-Tablet-16GB-WT7-C16MS/product_1415574",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung® Galaxy Tab 3 Lite 7\" 8GB Wi-Fi Tablet, Dark Gray",
+    "model": "SM-T110NYKAXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-3-Lite-7-Inch-8GB-Tablet-SM-T110NYKAXAR/product_578764",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Note 8 16GB Tablet, White",
+    "model": "GT-N5110ZWYXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Note-8-16GB-Tablet-White/product_169085",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "iView Supra Pad 7-inch 8GB Tablet with 1.2 GHz Cortex A7 Dual-Core Processor (93585191M)",
+    "model": "93585191M",
+    "url": "https://www.staples.com/iview-supra-pad-7-inch-8gb-tablet-with-1-2-ghz-cortex-a7-dual-core-processor-93585191m/product_551816",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Google™ 16GB 7\" Nexus 7 WiFi Tablet, 2nd Generation",
+    "model": "NEXUS7ASUS-2B16",
+    "url": "https://www.staples.com/Google-Nexus-7-Tablet-16GB/product_215186",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Asus Memo Pad 10.1-Inch 16GB Tablet with 1.6 GHz Quad-Core Processor",
+    "model": "ME102A-A1-GR",
+    "url": "https://www.staples.com/Asus-Memo-Pad-10-1-Inch-16GB-Tablet-with-1-6-GHz-Quad-Core-Processor/product_310576",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab Pro SM-T520NZKAXAR 10.1\"i-Fi Tablet 16GB 1.9GHz Quad Core Black",
+    "model": "SM-T520NZKAXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-Pro-SM-T520NZKAXAR-10-1-i-Fi-Tablet-16GB-1-9GHz-Quad-Core-Black/product_237425",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "iView® Supra Pad 7\" Capacitive Touchscreen 8GB Tablet, White",
+    "model": "93585194M",
+    "url": "https://www.staples.com/Iview-Supra-Pad-774TPC-7-Tablet-8-GB-Android-Jelly-Bean-Wi-Fi-White/product_551802",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic® 7\" Touchscreen 4GB 1.2 GHz Tablet",
+    "model": "93585015M",
+    "url": "https://www.staples.com/Supersonic-7-Touchscreen-4GB-1-2-GHz-Tablet/product_551721",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic® Mid 7\" Touchscreen 4GB Tablet",
+    "model": "93585017M",
+    "url": "https://www.staples.com/Supersonic-Mid-7-Touchscreen-4GB-Tablet/product_551779",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Amazon Fire Tablet Bundle",
+    "model": "B013VM2P06",
+    "url": "https://www.staples.com/Amazon-Fire-Tablet-Bundle/product_1899123",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab 4 10\" 16GB, Black Tablet",
+    "model": "SM-T530NYKAXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-4-10-1-Inch-Tablet-16GB-Black-SM-T530NYKAXAR/product_1012812",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Google Nexus 7 Tablet, 32GB (NEXUS7ASUS-2B32)",
+    "model": "NEXUS7ASUS-2B32",
+    "url": "https://www.staples.com/Google-Nexus-7-Tablet-32GB-NEXUS7ASUS-2B32/product_215185",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy NotePro 12.2, 32GB Black Tablet",
+    "model": "SM-P9000ZKVXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-Note-Pro-12-2-Inch-Tablet-32GB-Black-SM-P9000ZKVXAR/product_970659",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Google Nexus 7\" 32GB WiFi + 4G Tablet",
+    "model": "NEXUS72B32-4G",
+    "url": "https://www.staples.com/Nexus-7-32GB-4G-from-Google/product_188405",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy NotePro 12.2\", 64GB Black Tablet",
+    "model": "SM-P9000ZKFXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Note-Pro-12-2-Inch-Tablet-64GB-Black-SM-P9000ZKFXAR/product_970658",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab 4 7-Inch Tablet, 8GB, White (SM-T230NZWAXAR)",
+    "model": "SM-T230NZWAXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-4-7-8-GB-White-Tablet/product_1000328",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab S 10.5-Inch Tablet, 16GB, White (SM-T800NZWAXAR)",
+    "model": "SM-T800NZWAXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-S-10-5-Inch-Tablet-16GB-White-SM-T800NZWAXAR/product_1147587",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab S 10.5-Inch Tablet, 16GB, Bronze (SM-T800NTSAXAR)",
+    "model": "SM-T800NTSAXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-S-10-5-Inch-Tablet-16GB-Bronze-SM-T800NTSAXAR/product_1279269",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "JLab Pro-7 7-Inch Tablet, 8GB (JLAB PRO-7)",
+    "model": "JLAB PRO-7",
+    "url": "https://www.staples.com/JLab-Pro-7-7-Inch-Tablet-8GB-JLAB-PRO-7/product_1187920",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Toshiba Excite AT205-T16IQ 10.1\" 8GB Tablet - Refurbished",
+    "model": "4TOS40959",
+    "url": "https://www.staples.com/Toshiba-Excite-AT205-T16IQ-10-1-8GB-Tablet-Refurbished/product_1672155",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Amazon Fire 7\" Tablet",
+    "model": "B00TSUGXKE",
+    "url": "https://www.staples.com/Amazon-Fire-7-Tablet/product_2071477",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab S Tablet, 8.4\", 16GB, Titanium Bronze",
+    "model": "SM-T700NTSAXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-S-8-4-Inch-Tablet-16GB-Bronze-SM-T700NTSAXAR/product_1116069",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Toshiba Excite Go Tablet, 7\", 8GB, Satin Gold",
+    "model": "AT7-C8",
+    "url": "https://www.staples.com/Toshiba-Excite-Go-Mini-7-Inch-Tablet-8GB-AT7-C8/product_1416383",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic® 9\" Touchscreen 8GB Tablet",
+    "model": "93584985M",
+    "url": "https://www.staples.com/Supersonic-9-Touchscreen-8GB-Tablet/product_551760",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab 3 10.1\" 16GB WiFi Tablet",
+    "model": "GT-P5210GNYXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-3-10-1-Gold-Brown/product_75583",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab 3 7\" 8GB WiFi Tablet",
+    "model": "SM-T210RGNYXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-3-7-0-Gold-Brown/product_75593",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "NuVision 13.3\" Quad Core Tablet w/ Stand, Keyboard Case & Stylus Refurbished - Black",
+    "model": "RB-TM1318BK",
+    "url": "https://www.staples.com/NuVision-13-3-Quad-Core-Tablet-w-Stand-Keyboard-Case-Stylus-Refurbished-Black/product_1698028",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "NuVision 13.3\" Quad Core Tablet w/ Stand, Keyboard Case & Stylus Refurbished - Blue",
+    "model": "RB-TM1318BL",
+    "url": "https://www.staples.com/NuVision-13-3-Quad-Core-Tablet-Starter-Kit-Refurbished-Blue/product_1698026",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab 4 10\" 16GB, White Tablet",
+    "model": "SM-T530NZWAXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-4-10-1-Inch-Tablet-16GB-White-SM-T530NZWAXAR/product_1000329",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Ematic EWT935 8.95\" Tablet, 32GB RAM, Windows 10, Black",
+    "model": "EWT935DK",
+    "url": "https://www.staples.com/Ematic-EWT935-8-95-Tablet-32GB-RAM-Windows-10-Black/product_1968416",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Kindle Fire HD 8.9-Inch 16GB Tablet with 1.5 GHz Dual-Core Processor",
+    "model": "53-000483",
+    "url": "https://www.staples.com/Kindle-Fire-HD-8-9-Inch-16GB-Tablet-with-1-5-GHz-Dual-Core-Processor/product_108945",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Amazon Fire HD Tablet, 7\", 8GB, Black",
+    "model": "SQ46CW",
+    "url": "https://www.staples.com/Fire-HD-7-8GB-Tablet/product_1376085",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Kindle Fire 7\" HD 16GB Tablet, Wifi with Special Offers",
+    "model": "B00C5W16B8",
+    "url": "https://www.staples.com/Kindle-Fire-7-HD-16GB-Tablet-Wifi-with-Special-Offers/product_306698",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Amazon Fire HD Tablet, 6\", 16GB, Black",
+    "model": "PW98VM",
+    "url": "https://www.staples.com/Fire-HD-6-16GB-Tablet/product_1375894",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "RAND MCNALLY 528014064 IntelliRoute® TND Tablet 70 with Built-in Dash Cam",
+    "model": "RDY528014064",
+    "url": "https://www.staples.com/RAND-MCNALLY-528014064-IntelliRoute-TND-Tablet-70-with-Built-in-Dash-Cam/product_2396513",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Refurbished HP Pro 10.1in Tablet 10 EE G1 Intel Atom Quad Core Z37356 2GB RAM 32GB eMMC SSD Windows 8.1 Pro",
+    "model": "L3Z82UT#ABA",
+    "url": "https://www.staples.com/Refurbished-HP-Pro-10-1in-Tablet-10-EE-G1-Intel-Atom-Quad-Core-Z37356-2GB-RAM-32GB-eMMC-SSD-Windows-8-1-Pro/product_2548734",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "HP STREAM 7\" 5701 TABLET",
+    "model": "K4F52UA#ABA",
+    "url": "https://www.staples.com/HP-STREAM-7-5701-TABLET/product_1498899",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab 4 7\" 8GB Tablet",
+    "model": "SM-T230NYKAXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-4-7-8GB-Black-Tablet/product_1000426",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Toshiba Encore 2 Tablet, 10.1\", 32GB, Satin Gold",
+    "model": "WT10-A32",
+    "url": "https://www.staples.com/Toshiba-Encore-2-10-Inch-Windows-Tablet-32GB-WT10-A32/product_1349646",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Dell Venue Pro 8, 8\", 32GB, WiFi Tablet",
+    "model": "BELL8-Pro81",
+    "url": "https://www.staples.com/Dell-Venue-Pro-8-8-32GB-Tablet/product_317912",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Toshiba Encore, 8\", 32GB, WiFi, Tablet",
+    "model": "WT8-A32",
+    "url": "https://www.staples.com/Toshiba-Encore-WT8-A32-8-32GB-Tablet/product_319635",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Amazon Kindle Fire HDX, 8.9\", 16GB WiFi, Tablet",
+    "model": "B00BHJRYYS",
+    "url": "https://www.staples.com/Kindle-Fire-HDX-8-9-16GB-Tablet-Wifi/product_320813",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Microsoft® Surface Book CR700001 13.5\" Multi-Touch Tablet, 512GB, Windows 10 Pro, Silver",
+    "model": "CR700001",
+    "url": "https://www.staples.com/Microsoft-Surface-Book-CR700001-13-5-Multi-Touch-Tablet-512GB-Windows-10-Pro-Silver/product_2580362",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Refurbished Dell 1473972615 10.8\" Tablet 128GB Windows 10 Pro Gray",
+    "model": "1473972615",
+    "url": "https://www.staples.com/Refurbished-Dell-1473972615-10-8-Tablet-128GB-Windows-10-Pro-Gray/product_2597187",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Refurbished Dell 1473972617 10.8\" Tablet 256GB Windows 10 Pro Gray",
+    "model": "1473972617",
+    "url": "https://www.staples.com/Refurbished-Dell-1473972617-10-8-Tablet-256GB-Windows-10-Pro-Gray/product_2597186",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "NuVision 13.3\" Quad Core Tablet Kit, Refurbished, Pink",
+    "model": "RB-TM1318PK",
+    "url": "https://www.staples.com/NuVision-13-3-Quad-Core-Tablet-Kit-Refurbished-Pink/product_1698027",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Nobis 7.85-Inch Tablet, 8GB (NB7850 S)",
+    "model": "NB7850 S",
+    "url": "https://www.staples.com/Nobis-7-85-Inch-Tablet-8GB-NB7850-S/product_1052512",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Ematic Fun Tab 2 7-InchTablet (FUNTAB2-RD)",
+    "model": "FUNTAB2-RD",
+    "url": "https://www.staples.com/Ematic-Fun-Tab-2-7-InchTablet-FUNTAB2-RD/product_1128106",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Fire HD 8 8GB Tablet",
+    "model": "B00S5HFVGI",
+    "url": "https://www.staples.com/Fire-HD-8-8GB-Tablet/product_1899127",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Fire HD 10 16GB Tablet",
+    "model": "B00VKIY9RG",
+    "url": "https://www.staples.com/Fire-HD-10-16GB-Tablet/product_1899125",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab A 10.1\" White",
+    "model": "SM-T580NZWAXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-A-10-1-White/product_2407257",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung SM-T813 9.7\" Galaxy Tab S2, 3GB RAM, Android 6.0, Black",
+    "model": "SM-T813NZKEXAR",
+    "url": "https://www.staples.com/Samsung-SM-T813-9-7-Galaxy-Tab-S2-3GB-RAM-Android-6-0-Black/product_IM11Y8716",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Kindle Fire HDX, 7\", 16GB, WiFi E-Reader, Black",
+    "model": "B00BWYQ9YE",
+    "url": "https://www.staples.com/Kindle-Fire-HDX-7-16GB-Tablet/product_306702",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab 3 Lite, 7\", 1.2GHz Dual Core processor, Black",
+    "model": "SM-T113NYKAXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-E-Lite-7-1-GB-RAM-Black/product_2094946",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Fire HD 7 16GB Tablet",
+    "model": "SQ46CW",
+    "url": "https://www.staples.com/Fire-HD-7-16GB-Tablet/product_1376084",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab Pro 10.1-Inch Tablet, White",
+    "model": "SM-T520NZWAXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-Pro-10-1-Inch-Tablet-White/product_202887",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Fire HD 8 Tablet with Alexa, 8\" HD Display, 16 GB, Marine Blue - with Special Offers (B01J94YIT6)",
+    "model": "B01J94YIT6",
+    "url": "https://www.staples.com/Fire-HD-8-Tablet-with-Alexa-8-HD-Display-16-GB-Marine-Blue-with-Special-Offers-B01J94YIT6/product_24145278",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Fire HD 8 Tablet with Alexa, 8\" HD Display, 32 GB, Marine Blue - with Special Offers (B01J94T1Z2)",
+    "model": "B01J94T1Z2",
+    "url": "https://www.staples.com/Fire-HD-8-Tablet-with-Alexa-8-HD-Display-32-GB-Marine-Blue-with-Special-Offers-B01J94T1Z2/product_24145279",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Fire HD 8 Tablet with Alexa, 8\" HD Display, 32 GB, Punch Red - with Special Offers (B01J94TGZC)",
+    "model": "B01J94TGZC",
+    "url": "https://www.staples.com/Fire-HD-8-Tablet-with-Alexa-8-HD-Display-32-GB-Punch-Red-with-Special-Offers-B01J94TGZC/product_24145283",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Rand McNally 0528015990 Overdryve™  7\" Connected Car™  GPS Tablet With Dash Cam and Bluetooth®",
+    "model": "RDY0528015990",
+    "url": "https://www.staples.com/Rand-McNally-0528015990-Overdryve-7-Connected-Car-GPS-Tablet-With-Dash-Cam-and-Bluetooth/product_2423704",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab A 7.0, 1.5 GB RAM, Black",
+    "model": "SM-T280NZKAXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-A-7-0-1-5-GB-RAM-Black/product_2094945",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "SAMSUNG GALAXY TAB A 9.7 TITAN",
+    "model": "SM-T550NZAAXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-A-SM-T550NZAAXAR-9-7-Tablet-16GB-Android-Smokey-Titanium/product_1615138",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Blue Green GT3 7\" Lite (SM-T110NBGAXAR)",
+    "model": "SM-T110NBGAXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-GT3-SM-T110NBGAXAR-7-Tablet-32GB-Storage-Android-Blue-Green/product_1582347",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab A 7.0, 1.5 GB RAM, White",
+    "model": "SM-T280NZWAXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-A-7-0-1-5-GB-RAM-White/product_2094569",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung® Tab S3 T820NZK 9.7\" Black Tablet Bundle with Keyboard Cover & Digital Pencil, Qualcomm, 32GB, 4GB, Android 7.0",
+    "model": "TABS3BLK/DIGPEN/KEYB",
+    "url": "https://www.staples.com/samsung-tab-s3-t820nzk-9-7-black-tablet-bundle-with-keyboard-cover-digital-pencil-qualcomm-32gb-4gb-android-7-0/product_IM11AQ223",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung® Tab S3 T820NZK 9.7\" Silver Tablet Bundle with Keyboard Cover & Digital Pencil, Qualcomm, 32GB, 4GB, Android 7.0",
+    "model": "TABS3SLV/DIGPEN/KEYB",
+    "url": "https://www.staples.com/samsung-tab-s3-t820nzk-9-7-silver-tablet-bundle-with-keyboard-cover-digital-pencil-qualcomm-32gb-4gb-android-7-0/product_IM11AQ224",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab E Lite, 7\", 1 GB RAM, White",
+    "model": "SM-T113NDWAXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-E-Lite-7-1-GB-RAM-White/product_2094570",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab S2 8.0 Black",
+    "model": "SM-T713NZKEXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-S2-8-0-Black/product_1823427",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung 16GB 8.0\" Galaxy Tab, Gold/Brown",
+    "model": "SM-T3100GNYXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-3-8-0-Gold-Brown/product_213890",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Galaxy Tab 3 7.0\" Refurbished, Gold/Brown",
+    "model": "SASMT210RGNYXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-3-7-0-Refurbished-Gold-Brown/product_1025973",
+    "category": "Android Tablets",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung 16GB 8.0\" Galaxy Tab, White",
+    "model": "SM-T3100ZWYXAR",
+    "url": "https://www.staples.com/Samsung-Galaxy-Tab-3-8-0-White/product_213891",
     "category": "Android Tablets",
     "source": "Staples",
     "sourceType": "retailer",

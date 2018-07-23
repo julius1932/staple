@@ -1,175 +1,8 @@
 [
   {
-    "brand": "iLive ITB296B 37\" Wireless HD Sound Bar, Black",
-    "model": "ITB296B",
-    "category": "Home Theater Systems",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Audiovox® RCA VH71N 2-Way Coaxial Signal Switch",
-    "model": "VH71N",
-    "category": "Home Theater Systems",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "LG SJ4Y-RB Refurbished 2.1 ch Sound Bar - Black",
-    "model": "SJ4Y-RB",
-    "category": "Home Theater Systems",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Channel Master Telescoping Antenna Mast (15ft)",
-    "model": "CMSTCM1820",
-    "category": "Home Theater Systems",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Dual Dualcast Wi-Fi USB/HDMI Dongle",
-    "model": "DULDMH25",
-    "category": "Home Theater Systems",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Ilive 37\" Bluetooth Soundbar",
-    "model": "GPXITBSW285B",
-    "category": "Home Theater Systems",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Axess® Thunder Sonic SPBT1041 10 W Indoor/Outdoor HIFI Bluetooth Speaker, Red",
-    "model": "93596943M",
-    "category": "Home Theater Systems",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "PAC Radio Replacement Interface For Select GM Vehicles (class II Databus)",
-    "model": "PACRP3GM11",
-    "category": "Home Theater Systems",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "LG Electronics BH5140-RB Refurbished Blu-Ray Home Theater System, 500 W, Black",
-    "model": "BH5140-RB",
-    "category": "Home Theater Systems",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Gogroove Basspulse 5.1 Computer Speakers Surround Sound (4957245)",
-    "model": "4957245",
-    "category": "Home Theater Systems",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "American Terminal Black Split-loom Cable Tubing, 100ft (1\")",
-    "model": "WIR27100",
-    "category": "Home Theater Systems",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Philips BTM2180-RB Refurbished Micro Music System, Black",
-    "model": "BTM2180-RB",
-    "category": "Home Theater Systems",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "RCA RTD3276HA-RB Refurbished DVD Home Theater System, 100 W, Black",
-    "model": "RTD3276HA-RB",
-    "category": "Home Theater Systems",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "LG Electronics CM4360-RB Refurbished Hi-Fi Entertainment System, 230 W, Black",
-    "model": "CM4360-RB",
-    "category": "Home Theater Systems",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Channel Master Telescoping Antenna Mast (40ft)",
-    "model": "CMSTCM1850",
-    "category": "Home Theater Systems",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Directed Installation Essentials GM Vats Bypass 15-piece Kit",
-    "model": "DEI652T",
-    "category": "Home Theater Systems",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Channel Master Telescoping Antenna Mast (25ft)",
-    "model": "CMSTCM1830",
-    "category": "Home Theater Systems",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Samsung SmartThings F-MN-KIT-US-2 Indoor Home Monitoring Kit",
-    "model": "F-MN-KIT-US-2",
-    "category": "Home Theater Systems",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "LG CJ98 3500W HI-Fi Entertainment system with Bluetooth connectivity",
-    "model": "CJ98",
-    "category": "Home Theater Systems",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "RCA RT2761HB-RB Refurbished Home Theater System, 1000 W, Black",
-    "model": "RT2761HB-RB",
-    "category": "Home Theater Systems",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "VIZIO SmartCast™ 38” 2.1 Sound Bar System - Refurbished (SB3821-D6 R)",
-    "model": "SB3821-D6 R",
-    "category": "Home Theater Systems",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "BeFree Sound Bluetooth Speaker System, bfs-500, 50 W & 15 W x 5, Blue",
-    "model": "93592796M",
+    "brand": "RCA RTB10323LW-RB Refurbished 5.1 CH Home Theater System with Blu-ray Player - Black",
+    "model": "RTB10323LW-RB",
+    "url": "https://www.staples.com/rca-rtb10323lw-rb-refurbished-5-1-ch-home-theater-system-with-blu-ray-player-black/product_24307477",
     "category": "Home Theater Systems",
     "source": "Staples",
     "sourceType": "retailer",
@@ -178,6 +11,205 @@
   {
     "brand": "LG LAS475B 2.1ch 300W Sound Bar with Wireless Subwoofer and Bluetooth, Black",
     "model": "LAS475B",
+    "url": "https://www.staples.com/lg-las475b-2-1ch-300w-sound-bar-with-wireless-subwoofer-and-bluetooth-black/product_24307495",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "VIZIO SmartCast™ 38” 2.1 Sound Bar System - Refurbished (SB3821-D6 R)",
+    "model": "SB3821-D6 R",
+    "url": "https://www.staples.com/vizio-smartcast-38-2-1-sound-bar-system-refurbished-sb3821-d6-r/product_24298189",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "BeFree Sound Bluetooth Speaker System, bfs-500, 50 W & 15 W x 5, Blue",
+    "model": "93592796M",
+    "url": "https://www.staples.com/BeFree-Sound-Bluetooth-Speaker-System-bfs-500-50-W-15-W-x-5-Blue/product_2120355",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "RCA RT2761HB-RB Refurbished Home Theater System, 1000 W, Black",
+    "model": "RT2761HB-RB",
+    "url": "https://www.staples.com/rca-rt2761hb-rb-refurbished-home-theater-system-1000-w-black/product_24288193",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG CJ98 3500W HI-Fi Entertainment system with Bluetooth connectivity",
+    "model": "CJ98",
+    "url": "https://www.staples.com/lg-cj98-3500w-hi-fi-entertainment-system-with-bluetooth-connectivity/product_24328496",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung SmartThings F-MN-KIT-US-2 Indoor Home Monitoring Kit",
+    "model": "F-MN-KIT-US-2",
+    "url": "https://www.staples.com/samsung-smartthings-f-mn-kit-us-2-indoor-home-monitoring-kit/product_IM12GG501",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Directed Installation Essentials GM Vats Bypass 15-piece Kit",
+    "model": "DEI652T",
+    "url": "https://www.staples.com/Directed-Installation-Essentials-GM-Vats-Bypass-15-piece-Kit/product_2089729",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Channel Master Telescoping Antenna Mast (25ft)",
+    "model": "CMSTCM1830",
+    "url": "https://www.staples.com/Channel-Master-Telescoping-Antenna-Mast-25ft/product_2089810",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Channel Master Telescoping Antenna Mast (40ft)",
+    "model": "CMSTCM1850",
+    "url": "https://www.staples.com/Channel-Master-Telescoping-Antenna-Mast-40ft/product_2089809",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG Electronics CM4360-RB Refurbished Hi-Fi Entertainment System, 230 W, Black",
+    "model": "CM4360-RB",
+    "url": "https://www.staples.com/lg-electronics-cm4360-rb-refurbished-hi-fi-entertainment-system-230-w-black/product_24288215",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "RCA RTD3276HA-RB Refurbished DVD Home Theater System, 100 W, Black",
+    "model": "RTD3276HA-RB",
+    "url": "https://www.staples.com/rca-rtd3276ha-rb-refurbished-dvd-home-theater-system-100-w-black/product_24288203",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Philips BTM2180-RB Refurbished Micro Music System, Black",
+    "model": "BTM2180-RB",
+    "url": "https://www.staples.com/philips-btm2180-rb-refurbished-micro-music-system-black/product_24288208",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "American Terminal Black Split-loom Cable Tubing, 100ft (1\")",
+    "model": "WIR27100",
+    "url": "https://www.staples.com/American-Terminal-Black-Split-loom-Cable-Tubing-100ft-1/product_2088248",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Audiovox® RCA VH71N 2-Way Coaxial Signal Switch",
+    "model": "VH71N",
+    "url": "https://www.staples.com/Audiovox-RCA-VH71N-2-Way-Coaxial-Signal-Switch/product_IM1T56487",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Gogroove Basspulse 5.1 Computer Speakers Surround Sound (4957245)",
+    "model": "4957245",
+    "url": "https://www.staples.com/gogroove-basspulse-5-1-computer-speakers-surround-sound-4957245/product_24286937",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "PAC Radio Replacement Interface For Select GM Vehicles (class II Databus)",
+    "model": "PACRP3GM11",
+    "url": "https://www.staples.com/PAC-Radio-Replacement-Interface-For-Select-GM-Vehicles-class-II-Databus/product_2089250",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG Electronics BH5140-RB Refurbished Blu-Ray Home Theater System, 500 W, Black",
+    "model": "BH5140-RB",
+    "url": "https://www.staples.com/lg-electronics-bh5140-rb-refurbished-blu-ray-home-theater-system-500-w-black/product_24288214",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "iLive Bluetooth 5.1 Home Theater System(IHTB138B)",
+    "model": "ILHTB138B",
+    "url": "https://www.staples.com/ilive-ihtb138b-bluetooth-5-1-home-theater-system/product_24329615",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Axess® Thunder Sonic SPBT1041 10 W Indoor/Outdoor HIFI Bluetooth Speaker, Red",
+    "model": "93596943M",
+    "url": "https://www.staples.com/Axess-Thunder-Sonic-SPBT1041-10-W-Indoor-Outdoor-HIFI-Bluetooth-Speaker-Red/product_2491891",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Ilive 37\" Bluetooth Soundbar",
+    "model": "GPXITBSW285B",
+    "url": "https://www.staples.com/Ilive-37-Bluetooth-Soundbar/product_1643098",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Dual Dualcast Wi-Fi USB/HDMI Dongle",
+    "model": "DULDMH25",
+    "url": "https://www.staples.com/Dual-Dualcast-Wi-Fi-USB-HDMI-Dongle/product_2087894",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Channel Master Telescoping Antenna Mast (15ft)",
+    "model": "CMSTCM1820",
+    "url": "https://www.staples.com/Channel-Master-Telescoping-Antenna-Mast-15ft/product_2089811",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG SJ4Y-RB Refurbished 2.1 ch Sound Bar - Black",
+    "model": "SJ4Y-RB",
+    "url": "https://www.staples.com/lg-sj4y-rb-refurbished-2-1-ch-sound-bar-black/product_24307468",
     "category": "Home Theater Systems",
     "source": "Staples",
     "sourceType": "retailer",
@@ -186,6 +218,1789 @@
   {
     "brand": "RCA RTB10323LW-RB Refurbished 5.1 CH Home Theater System with Blu-ray Player - Black",
     "model": "RTB10323LW-RB",
+    "url": "https://www.staples.com/rca-rtb10323lw-rb-refurbished-5-1-ch-home-theater-system-with-blu-ray-player-black/product_24307477",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG LAS475B 2.1ch 300W Sound Bar with Wireless Subwoofer and Bluetooth, Black",
+    "model": "LAS475B",
+    "url": "https://www.staples.com/lg-las475b-2-1ch-300w-sound-bar-with-wireless-subwoofer-and-bluetooth-black/product_24307495",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "VIZIO SmartCast™ 38” 2.1 Sound Bar System - Refurbished (SB3821-D6 R)",
+    "model": "SB3821-D6 R",
+    "url": "https://www.staples.com/vizio-smartcast-38-2-1-sound-bar-system-refurbished-sb3821-d6-r/product_24298189",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "BeFree Sound Bluetooth Speaker System, bfs-500, 50 W & 15 W x 5, Blue",
+    "model": "93592796M",
+    "url": "https://www.staples.com/BeFree-Sound-Bluetooth-Speaker-System-bfs-500-50-W-15-W-x-5-Blue/product_2120355",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "RCA RT2761HB-RB Refurbished Home Theater System, 1000 W, Black",
+    "model": "RT2761HB-RB",
+    "url": "https://www.staples.com/rca-rt2761hb-rb-refurbished-home-theater-system-1000-w-black/product_24288193",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG CJ98 3500W HI-Fi Entertainment system with Bluetooth connectivity",
+    "model": "CJ98",
+    "url": "https://www.staples.com/lg-cj98-3500w-hi-fi-entertainment-system-with-bluetooth-connectivity/product_24328496",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung SmartThings F-MN-KIT-US-2 Indoor Home Monitoring Kit",
+    "model": "F-MN-KIT-US-2",
+    "url": "https://www.staples.com/samsung-smartthings-f-mn-kit-us-2-indoor-home-monitoring-kit/product_IM12GG501",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Directed Installation Essentials GM Vats Bypass 15-piece Kit",
+    "model": "DEI652T",
+    "url": "https://www.staples.com/Directed-Installation-Essentials-GM-Vats-Bypass-15-piece-Kit/product_2089729",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Channel Master Telescoping Antenna Mast (25ft)",
+    "model": "CMSTCM1830",
+    "url": "https://www.staples.com/Channel-Master-Telescoping-Antenna-Mast-25ft/product_2089810",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Channel Master Telescoping Antenna Mast (40ft)",
+    "model": "CMSTCM1850",
+    "url": "https://www.staples.com/Channel-Master-Telescoping-Antenna-Mast-40ft/product_2089809",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG Electronics CM4360-RB Refurbished Hi-Fi Entertainment System, 230 W, Black",
+    "model": "CM4360-RB",
+    "url": "https://www.staples.com/lg-electronics-cm4360-rb-refurbished-hi-fi-entertainment-system-230-w-black/product_24288215",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "RCA RTD3276HA-RB Refurbished DVD Home Theater System, 100 W, Black",
+    "model": "RTD3276HA-RB",
+    "url": "https://www.staples.com/rca-rtd3276ha-rb-refurbished-dvd-home-theater-system-100-w-black/product_24288203",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Philips BTM2180-RB Refurbished Micro Music System, Black",
+    "model": "BTM2180-RB",
+    "url": "https://www.staples.com/philips-btm2180-rb-refurbished-micro-music-system-black/product_24288208",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "American Terminal Black Split-loom Cable Tubing, 100ft (1\")",
+    "model": "WIR27100",
+    "url": "https://www.staples.com/American-Terminal-Black-Split-loom-Cable-Tubing-100ft-1/product_2088248",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Audiovox® RCA VH71N 2-Way Coaxial Signal Switch",
+    "model": "VH71N",
+    "url": "https://www.staples.com/Audiovox-RCA-VH71N-2-Way-Coaxial-Signal-Switch/product_IM1T56487",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Gogroove Basspulse 5.1 Computer Speakers Surround Sound (4957245)",
+    "model": "4957245",
+    "url": "https://www.staples.com/gogroove-basspulse-5-1-computer-speakers-surround-sound-4957245/product_24286937",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "PAC Radio Replacement Interface For Select GM Vehicles (class II Databus)",
+    "model": "PACRP3GM11",
+    "url": "https://www.staples.com/PAC-Radio-Replacement-Interface-For-Select-GM-Vehicles-class-II-Databus/product_2089250",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG Electronics BH5140-RB Refurbished Blu-Ray Home Theater System, 500 W, Black",
+    "model": "BH5140-RB",
+    "url": "https://www.staples.com/lg-electronics-bh5140-rb-refurbished-blu-ray-home-theater-system-500-w-black/product_24288214",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "iLive Bluetooth 5.1 Home Theater System(IHTB138B)",
+    "model": "ILHTB138B",
+    "url": "https://www.staples.com/ilive-ihtb138b-bluetooth-5-1-home-theater-system/product_24329615",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Axess® Thunder Sonic SPBT1041 10 W Indoor/Outdoor HIFI Bluetooth Speaker, Red",
+    "model": "93596943M",
+    "url": "https://www.staples.com/Axess-Thunder-Sonic-SPBT1041-10-W-Indoor-Outdoor-HIFI-Bluetooth-Speaker-Red/product_2491891",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Ilive 37\" Bluetooth Soundbar",
+    "model": "GPXITBSW285B",
+    "url": "https://www.staples.com/Ilive-37-Bluetooth-Soundbar/product_1643098",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Dual Dualcast Wi-Fi USB/HDMI Dongle",
+    "model": "DULDMH25",
+    "url": "https://www.staples.com/Dual-Dualcast-Wi-Fi-USB-HDMI-Dongle/product_2087894",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Channel Master Telescoping Antenna Mast (15ft)",
+    "model": "CMSTCM1820",
+    "url": "https://www.staples.com/Channel-Master-Telescoping-Antenna-Mast-15ft/product_2089811",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG SJ4Y-RB Refurbished 2.1 ch Sound Bar - Black",
+    "model": "SJ4Y-RB",
+    "url": "https://www.staples.com/lg-sj4y-rb-refurbished-2-1-ch-sound-bar-black/product_24307468",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Axess Mini Entertainment System, msbt3907, 10 W & 5 Wx2",
+    "model": "93593166M",
+    "url": "https://www.staples.com/Axess-Mini-Entertainment-System-msbt3907-10-W-5-Wx2/product_2120340",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "RCA RT2906-RB Refurbished 5.1 Channel Home Theater System,600 W, Black",
+    "model": "RT2906-RB",
+    "url": "https://www.staples.com/rca-rt2906-rb-refurbished-5-1-channel-home-theater-system-600-w-black/product_24288195",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Axess® SPBT1033 2 W x 2 Indoor/Outdoor Portable HIFI Bluetooth Loud Speaker, Brown",
+    "model": "93595750M",
+    "url": "https://www.staples.com/Axess-SPBT1033-2-W-x-2-Indoor-Outdoor-Portable-HIFI-Bluetooth-Loud-Speaker-Brown/product_2491866",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "GPX HT050B 5.1-Channel Home Theater Speaker System",
+    "model": "GPXHT050B",
+    "url": "https://www.staples.com/GPX-HT050B-5-1-Channel-Home-Theater-Speaker-System/product_2423515",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "American Terminal Black Split-loom Cable Tubing, 100ft (.75\")",
+    "model": "WIR27071",
+    "url": "https://www.staples.com/American-Terminal-Black-Split-loom-Cable-Tubing-100ft-75/product_2088225",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Select Series 14AWG Speaker Wire, 100ft",
+    "model": "114918",
+    "url": "https://www.staples.com/Select-Series-14AWG-Speaker-Wire-100ft/product_2505013",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Creative® Labs A250 9 W 2.1 Speaker System, Black",
+    "model": "MF0420AA002",
+    "url": "https://www.staples.com/Creative-Labs-A250-9-W-2-1-Speaker-System-Black/product_893656",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Tilt TV Wall Mount Bracket with Anti-Theft Feature, UL Certified (Max 88 lbs, 37-70 inch)",
+    "model": "112989",
+    "url": "https://www.staples.com/Tilt-TV-Wall-Mount-Bracket-with-Anti-Theft-Feature-UL-Certified-Max-88-lbs-37-70-inch/product_2504437",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "American Terminal Black Split-loom Cable Tubing, 100ft (.5\")",
+    "model": "WIR27051",
+    "url": "https://www.staples.com/American-Terminal-Black-Split-loom-Cable-Tubing-100ft-5/product_2088250",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "PAC Ground Loop Signal Isolator",
+    "model": "PACSNI1",
+    "url": "https://www.staples.com/PAC-Ground-Loop-Signal-Isolator/product_2089291",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "RCA RCS13101EK-RB Refurbished Home Stereo System, Removable 7-inch Android Tablet, Black",
+    "model": "RCS13101EK-RB",
+    "url": "https://www.staples.com/rca-rcs13101ek-rb-refurbished-home-stereo-system-removable-7-inch-android-tablet-black/product_24288194",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "IQ sound® Bluetooth® Home Audio System sc-3366m",
+    "model": "93595099M",
+    "url": "https://www.staples.com/IQ-sound-Bluetooth-Home-Audio-System-sc-3366m/product_2120911",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Affinity™ Premium 14AWG Braided Speaker Wire with Gold Plated Banana Plug Connectors, 10ft",
+    "model": "113913",
+    "url": "https://www.staples.com/Affinity-Premium-14AWG-Braided-Speaker-Wire-with-Gold-Plated-Banana-Plug-Connectors-10ft/product_2504153",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic® SC-1410BTR Bluetooth Music Receiver With Aux-in and Mic",
+    "model": "93580779M",
+    "url": "https://www.staples.com/Supersonic-SC-1410BTR-Bluetooth-Music-Receiver-With-Aux-in-and-Mic/product_283981",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Axess® SPBT1036 3 W x 2 Indoor/Outdoor Portable HIFI Bluetooth Speaker, Blue",
+    "model": "93595748M",
+    "url": "https://www.staples.com/Axess-SPBT1036-3-W-x-2-Indoor-Outdoor-Portable-HIFI-Bluetooth-Speaker-Blue/product_2491865",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "PAC Amp Integration Interface With Harness For Select 2010 & Up GM Vehicles",
+    "model": "PACAAGM44",
+    "url": "https://www.staples.com/PAC-Amp-Integration-Interface-With-Harness-For-Select-2010-Up-GM-Vehicles/product_2089349",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "RCA RTS739BWS-RB Refurbished Sounds Bar System , Black, Bluetooth",
+    "model": "RTS739BWS-RB",
+    "url": "https://www.staples.com/rca-rts739bws-rb-refurbished-sounds-bar-system-black-bluetooth/product_24288206",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG Electronics SH2-RB Refurbished 2.1ch Sound Bar, 100 W, Black",
+    "model": "SH2-RB",
+    "url": "https://www.staples.com/lg-electronics-sh2-rb-refurbished-2-1ch-sound-bar-100-w-black/product_24288212",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Select Series 14AWG Speaker Wire, 50ft",
+    "model": "114917",
+    "url": "https://www.staples.com/Select-Series-14AWG-Speaker-Wire-50ft/product_2505385",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Russound® BSK1 Bluetooth Source Kit, Black/White",
+    "model": "BSK1",
+    "url": "https://www.staples.com/Russound-BSK1-Bluetooth-Source-Kit-Black-White/product_906249",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "RCA RTB10230E-RB Refurbished Home Theater System, 100 W, Black",
+    "model": "RTB10230E-RB",
+    "url": "https://www.staples.com/rca-rtb10230e-rb-refurbished-home-theater-system-100-w-black/product_24288191",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "RCA RT151-RB Refurbished Home Theater System, 80W, Black",
+    "model": "RT151-RB",
+    "url": "https://www.staples.com/rca-rt151-rb-refurbished-home-theater-system-80w-black/product_24288185",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "RCA RTD396-RB Refurbished DVD Home Theater System  - Black",
+    "model": "RTD396-RB",
+    "url": "https://www.staples.com/rca-rtd396-rb-refurbished-dvd-home-theater-system-black/product_24307478",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "RAS2866B2-RB Refurbished Tabletop Bluetooth Speaker, Black, Built-In Subwoofer",
+    "model": "RAS2866B2-RB",
+    "url": "https://www.staples.com/ras2866b2-rb-refurbished-tabletop-bluetooth-speaker-black-built-in-subwoofer/product_24288190",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle® PT628A 400 W 5.1 Channel Home Theater System with AM/FM Tuner/CD/MP3 Player",
+    "model": "93582686M",
+    "url": "https://www.staples.com/Pyle-PT628A-400-W-5-1-Channel-Home-Theater-System-with-AM-FM-Tuner-CD-MP3-Player/product_283645",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Cyber Acoustics Curve Lights CA-3712BT 2.1-Channel Bluetooth Speaker System with LED Lighting Effects, Black",
+    "model": "CA3712BT",
+    "url": "https://www.staples.com/cyber-acoustics-curve-lights-ca-3712bt-2-1-channel-bluetooth-speaker-system-with-led-lighting-effects-black/product_24167781",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Above Fireplace Pull-Down Full-Motion TV Wall Mount",
+    "model": "115618",
+    "url": "https://www.staples.com/Above-Fireplace-Pull-Down-Full-Motion-TV-Wall-Mount/product_2503739",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "RCA RS2929B-RB Refurbished CD Mini Shelf Bluetooth System, Black",
+    "model": "RS2929B-RB",
+    "url": "https://www.staples.com/rca-rs2929b-rb-refurbished-cd-mini-shelf-bluetooth-system-black/product_24288184",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "PAC Adjustable High-power Line-out Converter With Removable Harness (4 Channels)",
+    "model": "PACLP34",
+    "url": "https://www.staples.com/PAC-Adjustable-High-power-Line-out-Converter-With-Removable-Harness-4-Channels/product_2089261",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG SJ4Y 2.1 Ch High Resolution Audio Soundbar",
+    "model": "SJ4Y",
+    "url": "https://www.staples.com/lg-sj4y-2-1-ch-high-resolution-audio-soundbar/product_24328501",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle® Bluetooth Soundbar With USB/SD/FM Radio and Wireless Remote",
+    "model": "PYRPSBV200BT",
+    "url": "https://www.staples.com/Pyle-Bluetooth-Soundbar-With-USB-SD-FM-Radio-and-Wireless-Remote/product_1594033",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "10 Outlet Rotating Power Surge Block 8ft Cord, 2880 Joules",
+    "model": "115875",
+    "url": "https://www.staples.com/10-Outlet-Rotating-Power-Surge-Block-8ft-Cord-2880-Joules/product_2503664",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "RCA RTB1100-RB Refurbished Home Theater System, 1000 W, Black",
+    "model": "RTB1100-RB",
+    "url": "https://www.staples.com/rca-rtb1100-rb-refurbished-home-theater-system-1000-w-black/product_24288170",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Refurbished LG OJ45-RB 120W LOUDR Hi-Fi Speaker System with Bluetooth Connectivity - Black",
+    "model": "OJ45-RB",
+    "url": "https://www.staples.com/refurbished-lg-oj45-rb-120w-loudr-hi-fi-speaker-system-with-bluetooth-connectivity-black/product_24307479",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "BeFree Sound Bluetooth Speaker System, bfs-410, 25 W & 10 W x 5, Red",
+    "model": "93592794M",
+    "url": "https://www.staples.com/BeFree-Sound-Bluetooth-Speaker-System-bfs-410-25-W-10-W-x-5-Red/product_2120399",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "BeFree Sound Bluetooth Speaker System, bfs-400, 25 W & 10 W x 5, Blue",
+    "model": "93592793M",
+    "url": "https://www.staples.com/BeFree-Sound-Bluetooth-Speaker-System-bfs-400-25-W-10-W-x-5-Blue/product_2120400",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG SJ5Y 2.1 Ch High Resolution Audio Soundbar",
+    "model": "SJ5Y",
+    "url": "https://www.staples.com/lg-sj5y-2-1-ch-high-resolution-audio-soundbar/product_24328502",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "BeFree Sound Bluetooth Speaker System, bfs-600, 80 W & 18 Wx5, Red",
+    "model": "93592798M",
+    "url": "https://www.staples.com/BeFree-Sound-Bluetooth-Speaker-System-bfs-600-80-W-18-Wx5-Red/product_2120353",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Boss Audio Systems 4\" 400-Watt 2-Way All-Terrain/Marine Wake Tower Roll-Bar Speaker System(MRWT40)",
+    "model": "BOSMRWT40",
+    "url": "https://www.staples.com/boss-audio-systems-mrwt40-4-400-watt-2-way-all-terrain-marine-wake-tower-roll-bar-speaker-system/product_24329612",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "RCA RCS13101E-RB Refurbished Google-Powered Internet Music System, 7\" Multitouch LCD, Black",
+    "model": "RCS13101E-RB",
+    "url": "https://www.staples.com/rca-rcs13101e-rb-refurbished-google-powered-internet-music-system-7-multitouch-lcd-black/product_24288192",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "RCA RTB1013-RB Refurbished Blu-ray/DVD Home Theater System, 300 W, Black",
+    "model": "RTB1013-RB",
+    "url": "https://www.staples.com/rca-rtb1013-rb-refurbished-blu-ray-dvd-home-theater-system-300-w-black/product_24288189",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "RCA RTD3133H-RB Refurbished 5.1 Channel Home Theater System, 130 W, Black",
+    "model": "RTD3133H-RB",
+    "url": "https://www.staples.com/rca-rtd3133h-rb-refurbished-5-1-channel-home-theater-system-130-w-black/product_24288168",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Monoprice® 125W 5.1 Channel Home Theater Speaker System, Black",
+    "model": "108247",
+    "url": "https://www.staples.com/Monoprice-125W-5-1-Channel-Home-Theater-Speaker-System-Black/product_1255919",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Philips  HTL3170B/37 Soundbar Speaker, Wireless Subwoofer, Black",
+    "model": "HTL3170B/37",
+    "url": "https://www.staples.com/philips-htl3170b-37-soundbar-speaker-wireless-subwoofer-black/product_24288210",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "RCA RS2928B-RB Refurbished CD Mini Shelf Bluetooth System, Black",
+    "model": "RS2928B-RB",
+    "url": "https://www.staples.com/rca-rs2928b-rb-refurbished-cd-mini-shelf-bluetooth-system-black/product_24288187",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Helios 16-Gauge Speaker Wire (250ft) (ETHASSW16250)(AS-SW16-250)",
+    "model": "ETHASSW16250",
+    "url": "https://www.staples.com/helios-as-sw16-250-16-gauge-speaker-wire-250ft-ethassw16250/product_24330135",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Apex ASB6000A Digital Home Theater Sound Bar, 350W, Black",
+    "model": "ASB6000A",
+    "url": "https://www.staples.com/apex-asb6000a-digital-home-theater-sound-bar-350w-black/product_24288227",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "iLive Bluetooth Wireless Home Music System (IHB617B)",
+    "model": "ILHB617B",
+    "url": "https://www.staples.com/ilive-bluetooth-wireless-home-music-system-ihb617b/product_24280975",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Stable Series Small Full Motion Wall Mount for Medium 20 - 42 inch TV's Max 77 lbs UL Certified",
+    "model": "110477",
+    "url": "https://www.staples.com/Stable-Series-Small-Full-Motion-Wall-Mount-for-Medium-20-42-inch-TV-s-Max-77-lbs-UL-Certified/product_2505305",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG SJ7 Soundbar Flex with wireless subwoofer",
+    "model": "SJ7",
+    "url": "https://www.staples.com/lg-sj7-soundbar-flex-with-wireless-subwoofer/product_24328500",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "RCA RTD3236EH-RB Refurbished 5.1 Channel Home Theater System, 100 W, Black",
+    "model": "RTD3236EH-RB",
+    "url": "https://www.staples.com/rca-rtd3236eh-rb-refurbished-5-1-channel-home-theater-system-100-w-black/product_24288202",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "iLive 37\" 2.1-Channel HD Bluetooth Soundbar + Subwoofer (ITBSW397B)",
+    "model": "ILTBSW397B",
+    "url": "https://www.staples.com/iLive-37-2-1-Channel-HD-Bluetooth-Soundbar-Subwoofer-ITBSW397B/product_24233234",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle Waterproof Speaker, pdwr54btb, 600 W, Black",
+    "model": "93595166M",
+    "url": "https://www.staples.com/Pyle-Waterproof-Speaker-pdwr54btb-600-W-Black/product_2120868",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "RCA RTS796B-RB Refurbished Home Theater Sound Base, Black, Bluetooth",
+    "model": "RTS796B-RB",
+    "url": "https://www.staples.com/rca-rts796b-rb-refurbished-home-theater-sound-base-black-bluetooth/product_24288204",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle Home PDWR62BTBK 6.5\" Indoor/Outdoor Wall-Mount Bluetooth Speaker System (Black)",
+    "model": "PYLPDWR62BTBK",
+    "url": "https://www.staples.com/pyle-home-pdwr62btbk-6-5-indoor-outdoor-wall-mount-bluetooth-speaker-system-black/product_2139719",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Monoprice Planate Series 16AWG Pure Copper Flat Speaker Wire, 50ft",
+    "model": "111935",
+    "url": "https://www.staples.com/Planate-Series-16AWG-Pure-Copper-Flat-Speaker-Wire-50ft/product_2504647",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG SPJ4-S 2.0 Ch soundbar wireless speaker kit",
+    "model": "SPJ4",
+    "url": "https://www.staples.com/lg-spj4-s-2-0-ch-soundbar-wireless-speaker-kit/product_24328498",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle Waterproof Speaker, pdwr54btw, 800 W, White",
+    "model": "93595169M",
+    "url": "https://www.staples.com/Pyle-Waterproof-Speaker-pdwr54btw-800-W-White/product_2120822",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Stable Series Small Full Motion Wall Mount for Small 20 - 42 inch TV's Max 77 lbs UL Certified",
+    "model": "110476",
+    "url": "https://www.staples.com/Stable-Series-Small-Full-Motion-Wall-Mount-for-Small-20-42-inch-TV-s-Max-77-lbs-UL-Certified/product_2504903",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "iLive Itb196b 32\" Hd Bluetooth Soundbar",
+    "model": "GPXITB196B",
+    "url": "https://www.staples.com/Ilive-Itb196b-32-Hd-Bluetooth-Soundbar/product_2698975",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Technical Pro UREC7 Professional Rackmountable USB/SD Recording Deck, Black",
+    "model": "93579475M",
+    "url": "https://www.staples.com/technical-pro-urec7-professional-rackmountable-usb-sd-recording-deck-black-93579475m/product_284203",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Jensen® SMPS-550 Portable Stereo Speaker For iPad/iPad 2",
+    "model": "93576539M",
+    "url": "https://www.staples.com/jensen-smps-550-portable-stereo-speaker-for-ipad-ipad-2/product_137359",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Select 4-Inch 2-Way Bookshelf Speakers (Pair), Black Finish",
+    "model": "113778",
+    "url": "https://www.staples.com/Select-4-Inch-2-Way-Bookshelf-Speakers-Pair-Black-Finish/product_2504612",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Swivel Speaker Mount for Sonos PLAY:3 White",
+    "model": "114539",
+    "url": "https://www.staples.com/Swivel-Speaker-Mount-for-Sonos-PLAY-3-White/product_2504312",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "American Terminal Black Split-loom Cable Tubing, 100ft (.25\")",
+    "model": "WIR27021",
+    "url": "https://www.staples.com/American-Terminal-Black-Split-loom-Cable-Tubing-100ft-25/product_2088252",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Full-Motion TV Wall Mount (Max 99 lbs, 37 - 70 inch)",
+    "model": "110470",
+    "url": "https://www.staples.com/Full-Motion-TV-Wall-Mount-Max-99-lbs-37-70-inch/product_2505306",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "BeFree Sound Bluetooth Speaker System, bfs-510, 50 W & 15 W x 5, Red",
+    "model": "93592797M",
+    "url": "https://www.staples.com/BeFree-Sound-Bluetooth-Speaker-System-bfs-510-50-W-15-W-x-5-Red/product_2120354",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Swivel Speaker Mount for Sonos PLAY:1 White",
+    "model": "114537",
+    "url": "https://www.staples.com/Swivel-Speaker-Mount-for-Sonos-PLAY-1-White/product_2504313",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "DB Link 12-Gauge Blue Speaker Wire (60ft)(SW12G60)",
+    "model": "DBDSW12G60",
+    "url": "https://www.staples.com/db-link-sw12g60-12-gauge-blue-speaker-wire-60ft/product_24329619",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "8 Outlet Mini Surge Protector 6ft Cord, 3420 Joules",
+    "model": "115872",
+    "url": "https://www.staples.com/8-Outlet-Mini-Surge-Protector-6ft-Cord-3420-Joules/product_2503661",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "TimoLabs Amoy I Soundbase",
+    "model": "TM-SS2020BT",
+    "url": "https://www.staples.com/timolabs-amoy-i-soundbase/product_24300988",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung F-CEN-HMS-1 Home Monitoring System, White",
+    "model": "F-CEN-HMS-1",
+    "url": "https://www.staples.com/samsung-f-cen-hms-1-home-monitoring-system-white/product_IM11AP370",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Full-Motion TV Wall Mount (Max 55 lbs, 23 - 42 inch)",
+    "model": "110464",
+    "url": "https://www.staples.com/Full-Motion-TV-Wall-Mount-Max-55-lbs-23-42-inch/product_2504905",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Stable Series Full Motion Wall Mount for Extra Large 60 - 100 inch TV's Max 175 lbs UL Certified",
+    "model": "112280",
+    "url": "https://www.staples.com/Stable-Series-Full-Motion-Wall-Mount-for-Extra-Large-60-100-inch-TV-s-Max-175-lbs-UL-Certified/product_2504573",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Dual Monitor Adjustable Gas Spring Desk Mount 15\" - 34\"",
+    "model": "115525",
+    "url": "https://www.staples.com/Dual-Monitor-Adjustable-Gas-Spring-Desk-Mount-15-34/product_2503747",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Axess Mini Entertainment System, msbt3909, 20 W & 10 Wx2",
+    "model": "93593165M",
+    "url": "https://www.staples.com/Axess-Mini-Entertainment-System-msbt3909-20-W-10-Wx2/product_2120341",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Swivel Speaker Mount for Sonos PLAY:3 Black",
+    "model": "114538",
+    "url": "https://www.staples.com/Swivel-Speaker-Mount-for-Sonos-PLAY-3-Black/product_2504054",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "12 Outlet Slim Surge Protector 10ft Cord, 4230 Joules",
+    "model": "115870",
+    "url": "https://www.staples.com/12-Outlet-Slim-Surge-Protector-10ft-Cord-4230-Joules/product_2503675",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "ILIVE ITB066B 32\" Bluetooth Soundbar",
+    "model": "GPXITB066B",
+    "url": "https://www.staples.com/ILIVE-ITB066B-32-Bluetooth-Soundbar/product_2484393",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Select Series Swivel Wall Mount for Medium 24 - 55 inch TVs 77 lbs",
+    "model": "115868",
+    "url": "https://www.staples.com/Select-Series-Swivel-Wall-Mount-for-Medium-24-55-inch-TVs-77-lbs/product_2503666",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Select Series 16AWG Speaker Wire, 50ft",
+    "model": "114915",
+    "url": "https://www.staples.com/Select-Series-16AWG-Speaker-Wire-50ft/product_2503924",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "PAC Radio Replacement Interface (radiopro5, Select GM Class II Vehicles With OnStar)",
+    "model": "PACRP5GM11",
+    "url": "https://www.staples.com/PAC-Radio-Replacement-Interface-radiopro5-Select-GM-Class-II-Vehicles-With-OnStar/product_2089294",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "DB Link X-series RCA Cables, 10 Pk (6ft)",
+    "model": "DBDXLB6Z",
+    "url": "https://www.staples.com/DB-Link-X-series-RCA-Cables-10-Pk-6ft/product_2089747",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Adjustable Gas Spring Desk Mount 15\" - 34\"",
+    "model": "115526",
+    "url": "https://www.staples.com/Adjustable-Gas-Spring-Desk-Mount-15-34/product_2503743",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Planate Series 16AWG Pure Copper Flat Speaker Wire, 100ft",
+    "model": "111936",
+    "url": "https://www.staples.com/Planate-Series-16AWG-Pure-Copper-Flat-Speaker-Wire-100ft/product_2504646",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle Soundbar Digital Speaker System psbv620bt",
+    "model": "93595251M",
+    "url": "https://www.staples.com/Pyle-Soundbar-Digital-Speaker-System-psbv620bt/product_2120847",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sykik™ SP3698BT 28 W Bluetooth Speaker System with LED Light, Black/Blue",
+    "model": "93596142M",
+    "url": "https://www.staples.com/Sykik-SP3698BT-28-W-Bluetooth-Speaker-System-with-LED-Light-Black-Blue/product_2491430",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Premium Select 8-inch 200-Watt Subwoofer",
+    "model": "114567",
+    "url": "https://www.staples.com/Premium-Select-8-inch-200-Watt-Subwoofer/product_2504304",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "BeFree Sound Bluetooth Speaker System, h7902, 100 W & 18 Wx5, 80 W & 18 Wx5, Yellow",
+    "model": "93592799M",
+    "url": "https://www.staples.com/BeFree-Sound-Bluetooth-Speaker-System-h7902-100-W-18-Wx5-80-W-18-Wx5-Yellow/product_2120352",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Philips DS8900/37 Sound System, White",
+    "model": "DS8900/37",
+    "url": "https://www.staples.com/philips-ds8900-37-sound-system-white/product_24288209",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "RCA VH130R 3' Tripod Mount For Outdoor Antenna",
+    "model": "RCAVH130R",
+    "url": "https://www.staples.com/RCA-VH130R-3-Tripod-Mount-For-Outdoor-Antenna/product_1419171",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "6 Outlet Rotating Wall Tap, 2160 Joules",
+    "model": "115876",
+    "url": "https://www.staples.com/6-Outlet-Rotating-Wall-Tap-2160-Joules/product_2503660",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "DB Link X-series RCA Cables, 10 Pk (3ft)",
+    "model": "DBDXLB3Z",
+    "url": "https://www.staples.com/DB-Link-X-series-RCA-Cables-10-Pk-3ft/product_2089748",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle Soundbar Digital Speaker System psbv830hdbt",
+    "model": "93595242M",
+    "url": "https://www.staples.com/Pyle-Soundbar-Digital-Speaker-System-psbv830hdbt/product_2120853",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle Bluetooth Wave Base Digital Tabletop Soundbar",
+    "model": "PYLPSBV600BT",
+    "url": "https://www.staples.com/Pyle-Bluetooth-Wave-Base-Digital-Tabletop-Soundbar/product_1641669",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG CM4550 700W 2.1CH Mini Shelf System with built in subwoofer and bluetooth",
+    "model": "CM4550",
+    "url": "https://www.staples.com/lg-cm4550-700w-2-1ch-mini-shelf-system-with-built-in-subwoofer-and-bluetooth/product_24328497",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Stable Series Extra Wide Tilting Wall Mount for Extra Large 60 - 100 inch TV's Max 220 lbs UL Certified",
+    "model": "112994",
+    "url": "https://www.staples.com/Stable-Series-Extra-Wide-Tilting-Wall-Mount-for-Extra-Large-60-100-inch-TV-s-Max-220-lbs-UL-Certified/product_2504435",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "DB Link S16-Gauge Blue Speaker Wire (60ft)(W16G60)",
+    "model": "DBDSW16G60",
+    "url": "https://www.staples.com/db-link-sw16g60-16-gauge-blue-speaker-wire-60ft/product_24329616",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Stable Series Tilting Wall Mount for Large 37-70 inch TVs Max 165 lbs UL Certified",
+    "model": "110483",
+    "url": "https://www.staples.com/Stable-Series-Tilting-Wall-Mount-for-Large-37-70-inch-TVs-Max-165-lbs-UL-Certified/product_2504902",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "DB Link 18-Gauge 9-Multiconductor Speaker Wire with Remote Trigger, 100ft(STMC918G100)",
+    "model": "DBDSTMC918G100",
+    "url": "https://www.staples.com/db-link-stmc918g100-18-gauge-9-multiconductor-speaker-wire-with-remote-trigger-100ft/product_24329617",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Stable Series Slim Tilting Wall Mount for Small 32 - 42 inch TVs Max 80 lbs Black UL Certified",
+    "model": "115264",
+    "url": "https://www.staples.com/Stable-Series-Slim-Tilting-Wall-Mount-for-Small-32-42-inch-TVs-Max-80-lbs-Black-UL-Certified/product_2503877",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "In-Ceiling Back Enclosure (Pair) for PID 4104 , 8\" In-Ceiling Speaker",
+    "model": "111942",
+    "url": "https://www.staples.com/In-Ceiling-Back-Enclosure-Pair-for-PID-4104-8-In-Ceiling-Speaker/product_2505117",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Db Link Sw12G30 12-Gauge Blue Speaker Wire, 30Ft (DBDSW12G30DS)",
+    "model": "DBDSW12G30",
+    "url": "https://www.staples.com/db-link-sw12g30-12-gauge-blue-speaker-wire-30ft-dbdsw12g30ds/product_1643298",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "12 Outlet Rotating Power Surge Block 10ft Cord, 4320 Joules",
+    "model": "115874",
+    "url": "https://www.staples.com/12-Outlet-Rotating-Power-Surge-Block-10ft-Cord-4320-Joules/product_2503657",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Select Series Slim Swivel Wall Mount for Medium 24 - 55 inch TVs 77 lbs",
+    "model": "115867",
+    "url": "https://www.staples.com/Select-Series-Slim-Swivel-Wall-Mount-for-Medium-24-55-inch-TVs-77-lbs/product_2503676",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "In-Ceiling Back Enclosure (Pair) for PID 4103, 6 1/2\" In-Ceiling Speaker",
+    "model": "111941",
+    "url": "https://www.staples.com/In-Ceiling-Back-Enclosure-Pair-for-PID-4103-6-1-2-In-Ceiling-Speaker/product_2505160",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "2-Pack 6 Outlet Surge Strip, 201 Joules",
+    "model": "115873",
+    "url": "https://www.staples.com/2-Pack-6-Outlet-Surge-Strip-201-Joules/product_2503658",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Full-Motion TV Wall Mount (Max 99lbs, 37 - 70 inch)",
+    "model": "110469",
+    "url": "https://www.staples.com/Full-Motion-TV-Wall-Mount-Max-99lbs-37-70-inch/product_2504904",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "RCA RAS1609BL-RB Refurbished Music Lightwall, Black",
+    "model": "RAS1609BLE-RB",
+    "url": "https://www.staples.com/rca-ras1609bl-rb-refurbished-music-lightwall-black/product_24288188",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Metal Back Can for 4-inch Ceiling Speaker with Brackets (pair)",
+    "model": "114363",
+    "url": "https://www.staples.com/Metal-Back-Can-for-4-inch-Ceiling-Speaker-with-Brackets-pair/product_2504085",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Multizone Source Keypad with Bluetooth® Receiver",
+    "model": "113358",
+    "url": "https://www.staples.com/Multizone-Source-Keypad-with-Bluetooth-Receiver/product_2504299",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Metal Back Can for 8-inch Ceiling Speaker with Brackets (pair)",
+    "model": "114365",
+    "url": "https://www.staples.com/Metal-Back-Can-for-8-inch-Ceiling-Speaker-with-Brackets-pair/product_2504366",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Full-Motion TV Wall Mount (Max 33 lbs, 13 - 27 inch)",
+    "model": "112232",
+    "url": "https://www.staples.com/Full-Motion-TV-Wall-Mount-Max-33-lbs-13-27-inch/product_2505012",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Tilt TV Wall Mount Bracket with Anti-Theft Feature, UL Certified (Max 99 lbs, 32-55 inch) NO LOGO",
+    "model": "112992",
+    "url": "https://www.staples.com/Tilt-TV-Wall-Mount-Bracket-with-Anti-Theft-Feature-UL-Certified-Max-99-lbs-32-55-inch-NO-LOGO/product_2504436",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Fixed TV Wall Mount Bracket with Anti-Theft Feature, UL Certified (Max 88 lbs, 37-70 inch)",
+    "model": "112988",
+    "url": "https://www.staples.com/Fixed-TV-Wall-Mount-Bracket-with-Anti-Theft-Feature-UL-Certified-Max-88-lbs-37-70-inch/product_2504438",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Full Motion TV Wall Mount Bracket with Anti-Theft Feature, UL Certified (Max 88 lbs, 37-70 inch)",
+    "model": "112990",
+    "url": "https://www.staples.com/Full-Motion-TV-Wall-Mount-Bracket-with-Anti-Theft-Feature-UL-Certified-Max-88-lbs-37-70-inch/product_2505135",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Fixed TV Wall Mount Bracket with Anti-Theft Feature, UL Certified (Max 99 lbs, 32-55 inch) NO LOGO",
+    "model": "112991",
+    "url": "https://www.staples.com/Fixed-TV-Wall-Mount-Bracket-with-Anti-Theft-Feature-UL-Certified-Max-99-lbs-32-55-inch-NO-LOGO/product_2505134",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Helios 16-Gauge Speaker Wire (500ft) (ETHASSW16500)(AS-SW16-500)",
+    "model": "ETHASSW16500",
+    "url": "https://www.staples.com/helios-as-sw16-500-16-gauge-speaker-wire-500ft-ethassw16500/product_24330136",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Full Motion TV Wall Mount Bracket with Anti-Theft Feature, UL Certified (Max 88 lbs, 32-55 inch)",
+    "model": "112993",
+    "url": "https://www.staples.com/Full-Motion-TV-Wall-Mount-Bracket-with-Anti-Theft-Feature-UL-Certified-Max-88-lbs-32-55-inch/product_2505133",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Stable Series Full Motion Wall Mount for Extra Large 60 - 100 inch TVs Max 220 lbs UL Certified - No Logo",
+    "model": "112986",
+    "url": "https://www.staples.com/Stable-Series-Full-Motion-Wall-Mount-for-Extra-Large-60-100-inch-TVs-Max-220-lbs-UL-Certified-No-Logo/product_2504439",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Quad Monitor Free Standing Desk Mount 15\" - 30\"",
+    "model": "115524",
+    "url": "https://www.staples.com/Quad-Monitor-Free-Standing-Desk-Mount-15-30/product_2503748",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Stable Series Large Fixed Wall Mount for Extra Large 50 - 100 inch TVs Max 220 lbs UL Certified",
+    "model": "112278",
+    "url": "https://www.staples.com/Stable-Series-Large-Fixed-Wall-Mount-for-Extra-Large-50-100-inch-TVs-Max-220-lbs-UL-Certified/product_2504581",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Select Series Full Motion Wall Mount for Large 24 - 70 inch TVs 77 lbs",
+    "model": "115869",
+    "url": "https://www.staples.com/Select-Series-Full-Motion-Wall-Mount-for-Large-24-70-inch-TVs-77-lbs/product_2503665",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Tilt Wall Mount Bracket, UL Certified (Max 220 lbs, 60-100 inch) NO LOGO",
+    "model": "112987",
+    "url": "https://www.staples.com/Tilt-Wall-Mount-Bracket-UL-Certified-Max-220-lbs-60-100-inch-NO-LOGO/product_2505172",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "iLive ITB296B 37\" Wireless HD Sound Bar, Black",
+    "model": "ITB296B",
+    "url": "https://www.staples.com/iLive-ITB296B-37-Wireless-HD-Sound-Bar-Black/product_IM12R5991",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Iogear® Wireless 1080p Computer To HD Video Extender",
+    "model": "GUWAVKIT4TX",
+    "url": "https://www.staples.com/Iogear-Wireless-1080p-Computer-To-HD-Video-Extender/product_IM1RH9781",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Cyber Acoustics CA-3614 26 Powered Speaker System with Control Pod",
+    "model": "CA-3614",
+    "url": "https://www.staples.com/Cyber-Acoustics-CA-3614-26-Powered-Speaker-System-with-Control-Pod/product_201992",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "BeFree Sound Bluetooth Speaker System, bfs-910, 100 W & 18 Wx5, 50 W & 15 Wx5",
+    "model": "93592801M",
+    "url": "https://www.staples.com/BeFree-Sound-Bluetooth-Speaker-System-bfs-910-100-W-18-Wx5-50-W-15-Wx5/product_2120311",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Polk Audio Univeral Bluetooth Soundbar (SB225), 31\" Bluetooth equipped sound bar. Upgrade any TV with amazing audio.",
+    "model": "SB225",
+    "url": "https://www.staples.com/polk-audio-univeral-bluetooth-soundbar-sb225-31-bluetooth-equipped-sound-bar-upgrade-any-tv-with-amazing-audio/product_24298188",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Powered Bluetooth® Loudspeaker bluet80t",
+    "model": "93593164M",
+    "url": "https://www.staples.com/Powered-Bluetooth-Loudspeaker-bluet80t/product_2120342",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG CM8460 2750W HI-Fi Entertainment System with Bluetooth connectivity",
+    "model": "CM8460",
+    "url": "https://www.staples.com/lg-cm8460-2750w-hi-fi-entertainment-system-with-bluetooth-connectivity/product_24328503",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sony Refurbished 5.1ch Home Theater System with Bluetooth (HT-RT3-RB)",
+    "model": "HT-RT3-RB",
+    "url": "https://www.staples.com/sony-ht-rt3-television/product_24288254",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "RCA RS2867B-RB Refurbished 5-CD Bluetooth Music Shelf System, 300 W, Black",
+    "model": "RS2867B-RB",
+    "url": "https://www.staples.com/rca-rs2867b-rb-refurbished-5-cd-bluetooth-music-shelf-system-300-w-black/product_24288186",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "QFX® PBX-61081 2600 W Portable Tailgate Bluetooth Speaker, Black/Blue",
+    "model": "93595353M",
+    "url": "https://www.staples.com/QFX-PBX-61081-2600-W-Portable-Tailgate-Bluetooth-Speaker-Black-Blue/product_2491800",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "RCA RS22363-RB Refurbished 3 CD Mini Shelf Audio System",
+    "model": "RS22363-RB",
+    "url": "https://www.staples.com/rca-rs22363-rb-refurbished-3-cd-mini-shelf-audio-system/product_24288196",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "RCA RTB10223-RB Refurbished 5.1 CH Home Theater System with Blu-ray Player - Black",
+    "model": "RTB10223-RB",
+    "url": "https://www.staples.com/rca-rtb10223-rb-refurbished-5-1-ch-home-theater-system-with-blu-ray-player-black/product_24307480",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "1 Outlet Portable Mini Surge Protector",
+    "model": "115877",
+    "url": "https://www.staples.com/1-Outlet-Portable-Mini-Surge-Protector/product_2503659",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Refurbished SJ4R 120W LOUDR Hi-Fi Speaker System with Bluetooth Connectivity - Black",
+    "model": "SJ4R",
+    "url": "https://www.staples.com/refurbished-sj4r-120w-loudr-hi-fi-speaker-system-with-bluetooth-connectivity-black/product_24307496",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "RCA RTS7010B-E1-RB Refurbished 2-Channel Wireless Soundbar, Black, Bluetooth",
+    "model": "RTS7010B-E1-RB",
+    "url": "https://www.staples.com/rca-rts7010b-e1-rb-refurbished-2-channel-wireless-soundbar-black-bluetooth/product_24288200",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sony HTCT180-RB Refurbished 2.1 Channel Sound Bar, Black, Wireless Subwoofer",
+    "model": "HTCT180-RB",
+    "url": "https://www.staples.com/sony-htct180-rb-refurbished-2-1-channel-sound-bar-black-wireless-subwoofer/product_24288160",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Select Series 16AWG Speaker Wire, 100ft",
+    "model": "114916",
+    "url": "https://www.staples.com/Select-Series-16AWG-Speaker-Wire-100ft/product_2505060",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle Home PDWR52BTBK 5.25\" Indoor/Outdoor Wall-Mount Bluetooth Speaker System (Black)",
+    "model": "PYLPDWR52BTBK",
+    "url": "https://www.staples.com/pyle-home-pdwr52btbk-5-25-indoor-outdoor-wall-mount-bluetooth-speaker-system-black/product_2139708",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sony BDVE2100-RB Refurbished Home Theater System, Black, 3D Blu-ray",
+    "model": "BDVE2100-RB",
+    "url": "https://www.staples.com/sony-bdve2100-rb-refurbished-home-theater-system-black-3d-blu-ray/product_24288159",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG SH7B 360W 4.1CH Music Flow Wi-Fi Streaming sound bar with Wireless subwoofer",
+    "model": "SH7B",
+    "url": "https://www.staples.com/lg-sh7b-360w-4-1ch-music-flow-wi-fi-streaming-sound-bar-with-wireless-subwoofer/product_24328504",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "BOSS Audio Systems Chaos Exxtreme Series 6.5\" 350-Watt 2-Way Component Speaker System(CH6CK)",
+    "model": "BOSCH6CK",
+    "url": "https://www.staples.com/boss-audio-systems-ch6ck-chaos-exxtreme-series-6-5-350-watt-2-way-component-speaker-system/product_24329613",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Cyber Acoustics CA-3072 Speaker System",
+    "model": "CA-3072",
+    "url": "https://www.staples.com/Cyber-Acoustics-CA-3072-Speaker-System/product_113910",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG SH7B 360W 4.1CH Music Flow Wi-Fi Streaming sound bar with Wireless subwoofer",
+    "model": "SH7B",
+    "url": "https://www.staples.com/lg-sh7b-360w-4-1ch-music-flow-wi-fi-streaming-sound-bar-with-wireless-subwoofer/product_24328504",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "RCA RTD3136EH-RB Refurbished Home Theater System, 100 W, Black",
+    "model": "RTD3136EH-RB",
+    "url": "https://www.staples.com/rca-rtd3136eh-rb-refurbished-home-theater-system-100-w-black/product_24288169",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Axess® 486032 Indoor/Outdoor Portable Bluetooth Speaker, Red",
+    "model": "93595749M",
+    "url": "https://www.staples.com/Axess-486032-Indoor-Outdoor-Portable-Bluetooth-Speaker-Red/product_2491894",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Technical Pro Stage-50 500 W Bluetooth Stage Speaker System with Party Lights",
+    "model": "93597002M",
+    "url": "https://www.staples.com/Technical-Pro-Stage-50-500-W-Bluetooth-Stage-Speaker-System-with-Party-Lights/product_2491391",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "QFX® PBX-2100 6.4 W Bluetooth Rechargeable Party Speaker, Black",
+    "model": "93594598M",
+    "url": "https://www.staples.com/QFX-PBX-2100-6-4-W-Bluetooth-Rechargeable-Party-Speaker-Black/product_2491804",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "QFX® PBX-9080 600 W Battery Powered Portable Bluetooth Speaker, Black/Red",
+    "model": "93595348M",
+    "url": "https://www.staples.com/QFX-PBX-9080-600-W-Battery-Powered-Portable-Bluetooth-Speaker-Black-Red/product_2491480",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Soundstorm Boomtube All-terrain Amplified Sound System With Marine Speakers & Bluetooth® (450 Watts, 6.5\" Speakers)",
+    "model": "SSLBTB6",
+    "url": "https://www.staples.com/Soundstorm-Boomtube-All-terrain-Amplified-Sound-System-With-Marine-Speakers-Bluetooth-450-Watts-6-5-Speakers/product_2139138",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Proscan Psb3713-op 37\" Bluetooth Soundbar",
+    "model": "CURPSB3713OP",
+    "url": "https://www.staples.com/Proscan-Psb3713-op-37-Bluetooth-Soundbar/product_2698974",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Floor Speaker Stand for Sonos PLAY:1 Black",
+    "model": "114542",
+    "url": "https://www.staples.com/Floor-Speaker-Stand-for-Sonos-PLAY-1-Black/product_2504301",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "RCA RS2767IFE-RB Refurbished 5 Disc Audio System, 300 W, Black",
+    "model": "RS2767IFE-RB",
+    "url": "https://www.staples.com/rca-rs2767ife-rb-refurbished-5-disc-audio-system-300-w-black/product_24288197",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "DB Link Strandflex Blue Speaker Wire (12 Gauge, 250ft)",
+    "model": "DBDSFSW12BL250Z",
+    "url": "https://www.staples.com/DB-Link-Strandflex-Blue-Speaker-Wire-12-Gauge-250ft/product_2089860",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "DB Link Superflex Series White/gray Speaker Wire (16 Gauge, 500ft)",
+    "model": "DBDSTSW16WG500",
+    "url": "https://www.staples.com/DB-Link-Superflex-Series-White-gray-Speaker-Wire-16-Gauge-500ft/product_2140123",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "PYLE Home PSBV250BT Sound Bar for Home Theater Wireless",
+    "model": "PYLPSBV250BT",
+    "url": "https://www.staples.com/Pyle-Bluetooth-Stereo-Digital-2-channel-Soundbar/product_1641670",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG Electronics SH4-RB Refurbished 2.1 Channel Sound Bar, 300 W, Black",
+    "model": "SH4-RB",
+    "url": "https://www.staples.com/lg-electronics-sh4-rb-refurbished-2-1-channel-sound-bar-300-w-black/product_24288207",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sony HTCT380-RB Refurbished High-Power Home Audio System, Black, Bluetooth",
+    "model": "HTCT380-RB",
+    "url": "https://www.staples.com/sony-htct380-rb-refurbished-high-power-home-audio-system-black-bluetooth/product_24288171",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "DB Link Superflex Series White/Gray Speaker Wire (12 Gauge, 250ft)( STSW12WG250)",
+    "model": "DBDSTSW12WG250",
+    "url": "https://www.staples.com/db-link-stsw12wg250-superflex-series-white-gray-speaker-wire-12-gauge-250ft/product_24329618",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Multizone RJ45 to RCA Converter",
+    "model": "113356",
+    "url": "https://www.staples.com/Multizone-RJ45-to-RCA-Converter/product_2504741",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "RCA RTS7340SB-RB Refurbished Home Theater Sound Bar, Black, Bluetooth",
+    "model": "RTS7340SB-RB",
+    "url": "https://www.staples.com/rca-rts7340sb-rb-refurbished-home-theater-sound-bar-black-bluetooth/product_24288205",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sony Refurbished High-Power Home Audio System with BLUETOOTH® technology (MHC-V11-RB)",
+    "model": "MHC-V11-RB",
+    "url": "https://www.staples.com/sony-refurbished-high-power-home-audio-system-with-bluetooth-technology-mhc-v11-rb/product_24288172",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Swivel Speaker Mount for Sonos PLAY:5 Black",
+    "model": "114540",
+    "url": "https://www.staples.com/Swivel-Speaker-Mount-for-Sonos-PLAY-5-Black/product_2504302",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "RCA RTS7010BGE6-RB Refurbished Soundbar, Black",
+    "model": "RTS7010BGE6-RB",
+    "url": "https://www.staples.com/rca-rts7010bge6-rb-refurbished-soundbar-black/product_24288201",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG Electronics LAP240-RB Refurbished 2.1 Channel Bluetooth Soundplate, 100 W, Black",
+    "model": "LAP240-RB",
+    "url": "https://www.staples.com/lg-electronics-lap240-rb-refurbished-2-1-channel-bluetooth-soundplate-100-w-black/product_24288211",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic SC-1415 50W 2.1 Channel TV Sound System",
+    "model": "93592688M",
+    "url": "https://www.staples.com/Supersonic-SC-1415-50W-2-1-Channel-TV-Sound-System/product_1621009",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "OMNITRON SYSTEMS FlexPoint GX/T 2-Port Gigabit Ethernet Fiber Media Converter",
+    "model": "4706-1",
+    "url": "https://www.staples.com/OMNITRON-SYSTEMS-FlexPoint-GX-T-2-Port-Gigabit-Ethernet-Fiber-Media-Converter/product_IM1BF8104",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Metal Back Can for 6.5-inch Ceiling Speaker with Brackets (pair)",
+    "model": "114364",
+    "url": "https://www.staples.com/Metal-Back-Can-for-6-5-inch-Ceiling-Speaker-with-Brackets-pair/product_2504367",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG SJ6 2.1 Ch High Resolution Audio Soundbar",
+    "model": "SJ6",
+    "url": "https://www.staples.com/lg-sj6-2-1-ch-high-resolution-audio-soundbar/product_24328499",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Surge Protection 3 Pack, Black - 6 Outlet 540 Joules, 12 Outlet w/ 2 USB Charger Ports 3420 Joules, 3 Outlet Wall Tap w/ 2 USB",
+    "model": "113944",
+    "url": "https://www.staples.com/Surge-Protection-3-Pack-Black-6-Outlet-540-Joules-12-Outlet-w-2-USB-Charger-Ports-3420-Joules-3-Outlet-Wall-Tap-w-2-USB/product_2504134",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "6\" Adjustable Pliers - Medium",
+    "model": "111396",
+    "url": "https://www.staples.com/6-Adjustable-Pliers-Medium/product_2505421",
+    "category": "Home Theater Systems",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Craig CMA3587 2 W Microphone Shaped Portable Bluetooth Speaker, Gold",
+    "model": "93596513M",
+    "url": "https://www.staples.com/Craig-CMA3587-2-W-Microphone-Shaped-Portable-Bluetooth-Speaker-Gold/product_2491751",
     "category": "Home Theater Systems",
     "source": "Staples",
     "sourceType": "retailer",

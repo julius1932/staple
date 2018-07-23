@@ -1,175 +1,8 @@
 [
   {
-    "brand": "Refurbished Sony Blu-ray Player W/ Wired Streaming (BDP-S1700-RB)",
-    "model": "BDP-S1700A-RB",
-    "category": "Blu-Ray & DVD Players",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Sylvania 7\" Portable DVD Player, Pink",
-    "model": "CURSDVD7014PK",
-    "category": "Blu-Ray & DVD Players",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Sylvania Sdvd7049-Silver 7\" Portable Dvd Player With Integrated Handle (Silver)",
-    "model": "CURSDVD7049SIL",
-    "category": "Blu-Ray & DVD Players",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "GPX® PDB1077B 10.1\" Bluetooth DVD Player W/Wireless Headphones, Black",
-    "model": "PDB1077B",
-    "category": "Blu-Ray & DVD Players",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Pyle PDH14 14'' Portable DVD Player , Black",
-    "model": "93582491M",
-    "category": "Blu-Ray & DVD Players",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Supersonic® SC-259 Portable DVD/CD/MP3 Player With TV Tuner, USB and SD Card Slot, 9\" TFT",
-    "model": "93574072M",
-    "category": "Blu-Ray & DVD Players",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Supersonic® SC-179DVD Portable DVD Player With Swivel Display, 9\" TFT",
-    "model": "93575505M",
-    "category": "Blu-Ray & DVD Players",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Sylvania 11.6\" Portable DVD Player",
-    "model": "CURSDVD1256",
-    "category": "Blu-Ray & DVD Players",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Naxa® ND-842 Slim Portable DVD Player With AC/DC Function",
-    "model": "93577121M",
-    "category": "Blu-Ray & DVD Players",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Sylvania Sdvd7049-Black 7\" Portable Dvd Player With Integrated Handle (Black)",
-    "model": "CURSDVD7049BLK",
-    "category": "Blu-Ray & DVD Players",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Samsung Rbbd-jm57c/za Refurbished Wi-fi Blu-ray & Dvd Player (SAMRBBDJM57CZA)",
-    "model": "SAMRBBDJM57CZA",
-    "category": "Blu-Ray & DVD Players",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Sylvania 9\" Swivel-Screen Portable DVD Player with Carry Bag & Headphones(SDVD9060-COMBO-BLACK)",
-    "model": "CURSDVD9060B",
-    "category": "Blu-Ray & DVD Players",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Naxa® ND-856 High Resolution 2 Channel Progressive Scan DVD Player With USB Input",
-    "model": "93586363M",
-    "category": "Blu-Ray & DVD Players",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Sylvania 7\" Dual-screen Portable DVD Player",
-    "model": "CURSDVD8737A",
-    "category": "Blu-Ray & DVD Players",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Samsung BD-J5100 1 Disc Blu-ray Disc Player",
-    "model": "SASBDJ5100",
-    "category": "Blu-Ray & DVD Players",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Craig® HDMI DVD Player With Remote Control",
-    "model": "93587105M",
-    "category": "Blu-Ray & DVD Players",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Sylvania Sdvd1566 15.6\" Swivel Screen Portable DVD & Media Player",
-    "model": "CURSDVD1566",
-    "category": "Blu-Ray & DVD Players",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "GPX® DH300B 1080p Upconversion DVD Player With HDMI™, Black",
-    "model": "ILEDH300B",
-    "category": "Blu-Ray & DVD Players",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Supersonic® SC-178DVD Portable DVD Player With Digital TV Tuner USB, SD Card Slot and Swivel Display",
-    "model": "93575311M",
-    "category": "Blu-Ray & DVD Players",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Sylvania Swivel Screen SDVD1332 Portable DVD Player with USB/SD Card Reader",
-    "model": "CURSDVD1332",
-    "category": "Blu-Ray & DVD Players",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "Sylvania SDVD1041C 2-Channel Compact DVD Player",
-    "model": "CURSDVD1041C",
-    "category": "Blu-Ray & DVD Players",
-    "source": "Staples",
-    "sourceType": "retailer",
-    "sourceId": 6
-  },
-  {
-    "brand": "LG BP350 Built-In Wi-Fi Blu-Ray Disc Player, Black",
-    "model": "BP350LG",
+    "brand": "Naxa  nd-861 DVD Player with HD Upconversion",
+    "model": "93588534M",
+    "url": "https://www.staples.com/Naxa-nd-861-DVD-Player-with-HD-Upconversion/product_1833050",
     "category": "Blu-Ray & DVD Players",
     "source": "Staples",
     "sourceType": "retailer",
@@ -178,6 +11,205 @@
   {
     "brand": "Compact Progressive-Scan DVD Player",
     "model": "CURPDVD1053D",
+    "url": "https://www.staples.com/Compact-Progressive-Scan-DVD-Player/product_2579125",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG BP350 Built-In Wi-Fi Blu-Ray Disc Player, Black",
+    "model": "BP350LG",
+    "url": "https://www.staples.com/LG-BP350-Built-In-Wi-Fi-Blu-Ray-Disc-Player-Black/product_1621574",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania SDVD1041C 2-Channel Compact DVD Player",
+    "model": "CURSDVD1041C",
+    "url": "https://www.staples.com/Sylvania-SDVD1041C-2-Channel-Compact-DVD-Player/product_1544257",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania Swivel Screen SDVD1332 Portable DVD Player with USB/SD Card Reader",
+    "model": "CURSDVD1332",
+    "url": "https://www.staples.com/Sylvania-Swivel-Screen-SDVD1332-Portable-DVD-Player-with-USB-SD-Card-Reader/product_1104926",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic® SC-178DVD Portable DVD Player With Digital TV Tuner USB, SD Card Slot and Swivel Display",
+    "model": "93575311M",
+    "url": "https://www.staples.com/Supersonic-SC-178DVD-Portable-DVD-Player-With-Digital-TV-Tuner-USB-SD-Card-Slot-and-Swivel-Display/product_132980",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania Sdvd1566 15.6\" Swivel Screen Portable DVD & Media Player",
+    "model": "CURSDVD1566",
+    "url": "https://www.staples.com/Sylvania-Sdvd1566-15-6-Swivel-Screen-Portable-Dvd-Media-Player/product_2698853",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "GPX® DH300B 1080p Upconversion DVD Player With HDMI™, Black",
+    "model": "ILEDH300B",
+    "url": "https://www.staples.com/GPX-DH300B-1080p-Upconversion-DVD-Player-With-HDMI-Black/product_210842",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Craig® HDMI DVD Player With Remote Control",
+    "model": "93587105M",
+    "url": "https://www.staples.com/Craig-HDMI-DVD-Player-With-Remote-Control/product_1271423",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "GPX® PDB1077B 10.1\" Bluetooth DVD Player W/Wireless Headphones, Black",
+    "model": "PDB1077B",
+    "url": "https://www.staples.com/gpx-pdb1077b-10-1-bluetooth-dvd-player-w-wireless-headphones-black/product_IM19U8600",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung BD-J5100 1 Disc Blu-ray Disc Player",
+    "model": "SASBDJ5100",
+    "url": "https://www.staples.com/samsung-bd-j5100-1-disc-blu-ray-disc-player/product_SASBDJ5100",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania 7\" Dual-screen Portable DVD Player",
+    "model": "CURSDVD8737A",
+    "url": "https://www.staples.com/Sylvania-7-Dual-screen-Portable-DVD-Player/product_2088636",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Naxa® ND-856 High Resolution 2 Channel Progressive Scan DVD Player With USB Input",
+    "model": "93586363M",
+    "url": "https://www.staples.com/Naxa-ND-856-High-Resolution-2-Channel-Progressive-Scan-DVD-Player-With-USB-Input/product_238468",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania 9\" Swivel-Screen Portable DVD Player with Carry Bag & Headphones(SDVD9060-COMBO-BLACK)",
+    "model": "CURSDVD9060B",
+    "url": "https://www.staples.com/sylvania-sdvd9060-combo-black-9-swivel-screen-portable-dvd-player-with-carry-bag-headphones/product_24329678",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Rbbd-jm57c/za Refurbished Wi-fi Blu-ray & Dvd Player (SAMRBBDJM57CZA)",
+    "model": "SAMRBBDJM57CZA",
+    "url": "https://www.staples.com/Samsung-Rbbd-jm57c-za-Refurbished-Wi-fi-Blu-ray-Dvd-Player-SAMRBBDJM57CZA/product_24094662",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania Sdvd7049-Black 7\" Portable Dvd Player With Integrated Handle (Black)",
+    "model": "CURSDVD7049BLK",
+    "url": "https://www.staples.com/Sylvania-Sdvd7049-Black-7-Portable-Dvd-Player-With-Integrated-Handle-Black/product_2442920",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Naxa® ND-842 Slim Portable DVD Player With AC/DC Function",
+    "model": "93577121M",
+    "url": "https://www.staples.com/Naxa-ND-842-Slim-Portable-DVD-Player-With-AC-DC-Function/product_137365",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania 11.6\" Portable DVD Player",
+    "model": "CURSDVD1256",
+    "url": "https://www.staples.com/Sylvania-11-6-Portable-DVD-Player/product_2088644",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic® SC-179DVD Portable DVD Player With Swivel Display, 9\" TFT",
+    "model": "93575505M",
+    "url": "https://www.staples.com/Supersonic-SC-179DVD-Portable-DVD-Player-With-Swivel-Display-9-TFT/product_137762",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic® SC-259 Portable DVD/CD/MP3 Player With TV Tuner, USB and SD Card Slot, 9\" TFT",
+    "model": "93574072M",
+    "url": "https://www.staples.com/Supersonic-SC-259-Portable-DVD-CD-MP3-Player-With-TV-Tuner-USB-and-SD-Card-Slot-9-TFT/product_132978",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania 7\" Portable DVD Player, Pink",
+    "model": "CURSDVD7014PK",
+    "url": "https://www.staples.com/Sylvania-7-Portable-DVD-Player-Pink/product_1591842",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle PDH14 14'' Portable DVD Player , Black",
+    "model": "93582491M",
+    "url": "https://www.staples.com/Pyle-PDH14-14-Portable-DVD-Player-Black/product_24004275",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania Sdvd7049-Silver 7\" Portable Dvd Player With Integrated Handle (Silver)",
+    "model": "CURSDVD7049SIL",
+    "url": "https://www.staples.com/Sylvania-Sdvd7049-Silver-7-Portable-Dvd-Player-With-Integrated-Handle-Silver/product_2442918",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Refurbished Sony Blu-ray Player W/ Wired Streaming (BDP-S1700-RB)",
+    "model": "BDP-S1700A-RB",
+    "url": "https://www.staples.com/sony-refurbished-blu-ray-disc-player-bdp-s1700-rb/product_24288162",
     "category": "Blu-Ray & DVD Players",
     "source": "Staples",
     "sourceType": "retailer",
@@ -186,6 +218,772 @@
   {
     "brand": "Naxa  nd-861 DVD Player with HD Upconversion",
     "model": "93588534M",
+    "url": "https://www.staples.com/Naxa-nd-861-DVD-Player-with-HD-Upconversion/product_1833050",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Compact Progressive-Scan DVD Player",
+    "model": "CURPDVD1053D",
+    "url": "https://www.staples.com/Compact-Progressive-Scan-DVD-Player/product_2579125",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG BP350 Built-In Wi-Fi Blu-Ray Disc Player, Black",
+    "model": "BP350LG",
+    "url": "https://www.staples.com/LG-BP350-Built-In-Wi-Fi-Blu-Ray-Disc-Player-Black/product_1621574",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania SDVD1041C 2-Channel Compact DVD Player",
+    "model": "CURSDVD1041C",
+    "url": "https://www.staples.com/Sylvania-SDVD1041C-2-Channel-Compact-DVD-Player/product_1544257",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania Swivel Screen SDVD1332 Portable DVD Player with USB/SD Card Reader",
+    "model": "CURSDVD1332",
+    "url": "https://www.staples.com/Sylvania-Swivel-Screen-SDVD1332-Portable-DVD-Player-with-USB-SD-Card-Reader/product_1104926",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic® SC-178DVD Portable DVD Player With Digital TV Tuner USB, SD Card Slot and Swivel Display",
+    "model": "93575311M",
+    "url": "https://www.staples.com/Supersonic-SC-178DVD-Portable-DVD-Player-With-Digital-TV-Tuner-USB-SD-Card-Slot-and-Swivel-Display/product_132980",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania Sdvd1566 15.6\" Swivel Screen Portable DVD & Media Player",
+    "model": "CURSDVD1566",
+    "url": "https://www.staples.com/Sylvania-Sdvd1566-15-6-Swivel-Screen-Portable-Dvd-Media-Player/product_2698853",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "GPX® DH300B 1080p Upconversion DVD Player With HDMI™, Black",
+    "model": "ILEDH300B",
+    "url": "https://www.staples.com/GPX-DH300B-1080p-Upconversion-DVD-Player-With-HDMI-Black/product_210842",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Craig® HDMI DVD Player With Remote Control",
+    "model": "93587105M",
+    "url": "https://www.staples.com/Craig-HDMI-DVD-Player-With-Remote-Control/product_1271423",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "GPX® PDB1077B 10.1\" Bluetooth DVD Player W/Wireless Headphones, Black",
+    "model": "PDB1077B",
+    "url": "https://www.staples.com/gpx-pdb1077b-10-1-bluetooth-dvd-player-w-wireless-headphones-black/product_IM19U8600",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung BD-J5100 1 Disc Blu-ray Disc Player",
+    "model": "SASBDJ5100",
+    "url": "https://www.staples.com/samsung-bd-j5100-1-disc-blu-ray-disc-player/product_SASBDJ5100",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania 7\" Dual-screen Portable DVD Player",
+    "model": "CURSDVD8737A",
+    "url": "https://www.staples.com/Sylvania-7-Dual-screen-Portable-DVD-Player/product_2088636",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Naxa® ND-856 High Resolution 2 Channel Progressive Scan DVD Player With USB Input",
+    "model": "93586363M",
+    "url": "https://www.staples.com/Naxa-ND-856-High-Resolution-2-Channel-Progressive-Scan-DVD-Player-With-USB-Input/product_238468",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania 9\" Swivel-Screen Portable DVD Player with Carry Bag & Headphones(SDVD9060-COMBO-BLACK)",
+    "model": "CURSDVD9060B",
+    "url": "https://www.staples.com/sylvania-sdvd9060-combo-black-9-swivel-screen-portable-dvd-player-with-carry-bag-headphones/product_24329678",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung Rbbd-jm57c/za Refurbished Wi-fi Blu-ray & Dvd Player (SAMRBBDJM57CZA)",
+    "model": "SAMRBBDJM57CZA",
+    "url": "https://www.staples.com/Samsung-Rbbd-jm57c-za-Refurbished-Wi-fi-Blu-ray-Dvd-Player-SAMRBBDJM57CZA/product_24094662",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania Sdvd7049-Black 7\" Portable Dvd Player With Integrated Handle (Black)",
+    "model": "CURSDVD7049BLK",
+    "url": "https://www.staples.com/Sylvania-Sdvd7049-Black-7-Portable-Dvd-Player-With-Integrated-Handle-Black/product_2442920",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Naxa® ND-842 Slim Portable DVD Player With AC/DC Function",
+    "model": "93577121M",
+    "url": "https://www.staples.com/Naxa-ND-842-Slim-Portable-DVD-Player-With-AC-DC-Function/product_137365",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania 11.6\" Portable DVD Player",
+    "model": "CURSDVD1256",
+    "url": "https://www.staples.com/Sylvania-11-6-Portable-DVD-Player/product_2088644",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic® SC-179DVD Portable DVD Player With Swivel Display, 9\" TFT",
+    "model": "93575505M",
+    "url": "https://www.staples.com/Supersonic-SC-179DVD-Portable-DVD-Player-With-Swivel-Display-9-TFT/product_137762",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic® SC-259 Portable DVD/CD/MP3 Player With TV Tuner, USB and SD Card Slot, 9\" TFT",
+    "model": "93574072M",
+    "url": "https://www.staples.com/Supersonic-SC-259-Portable-DVD-CD-MP3-Player-With-TV-Tuner-USB-and-SD-Card-Slot-9-TFT/product_132978",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania 7\" Portable DVD Player, Pink",
+    "model": "CURSDVD7014PK",
+    "url": "https://www.staples.com/Sylvania-7-Portable-DVD-Player-Pink/product_1591842",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle PDH14 14'' Portable DVD Player , Black",
+    "model": "93582491M",
+    "url": "https://www.staples.com/Pyle-PDH14-14-Portable-DVD-Player-Black/product_24004275",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania Sdvd7049-Silver 7\" Portable Dvd Player With Integrated Handle (Silver)",
+    "model": "CURSDVD7049SIL",
+    "url": "https://www.staples.com/Sylvania-Sdvd7049-Silver-7-Portable-Dvd-Player-With-Integrated-Handle-Silver/product_2442918",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Refurbished Sony Blu-ray Player W/ Wired Streaming (BDP-S1700-RB)",
+    "model": "BDP-S1700A-RB",
+    "url": "https://www.staples.com/sony-refurbished-blu-ray-disc-player-bdp-s1700-rb/product_24288162",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "SONY Refurbished 4K Smart Blu-Ray Player with Super WIFI (BDP-S6700-RB)",
+    "model": "BDP-S6700-RB",
+    "url": "https://www.staples.com/sony-refurbished-4k-smart-blu-ray-player-with-super-wifi-bdp-s6700-rb/product_24307481",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Ematic EPD909TL 9\" Portable DVD Player Bundles (Teal)",
+    "model": "SHAGEPD909TL",
+    "url": "https://www.staples.com/ematic-epd909tl-9-portable-dvd-player-bundles-teal/product_1971474",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Naxa® NPD-1003 10\" TFT LCD Swivel Screen Portable DVD Player With USB/SD/MMC Inputs",
+    "model": "93583555M",
+    "url": "https://www.staples.com/Naxa-NPD-1003-10-TFT-LCD-Swivel-Screen-Portable-DVD-Player-With-USB-SD-MMC-Inputs/product_283294",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Naxa ND-860 On-Screen Portable DVD Player, Black",
+    "model": "93588531M",
+    "url": "https://www.staples.com/Naxa-ND-860-On-Screen-Portable-DVD-Player-Black/product_1105353",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Naxa nt-70 ATSC/NTSC TV & Digital Multimedia Player Tuner, 7\" LCD, Black",
+    "model": "93592156M",
+    "url": "https://www.staples.com/Naxa-nt-70-ATSC-NTSC-TV-Digital-Multimedia-Player-Tuner-7-LCD-Black/product_2121097",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania 7\" Portable DVD Players With Integrated Handle (black)",
+    "model": "CURSDVD7046BK",
+    "url": "https://www.staples.com/Sylvania-7-Portable-DVD-Players-With-Integrated-Handle-black/product_2088643",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic sc28 2.0 Channel DVD Player",
+    "model": "93591203M",
+    "url": "https://www.staples.com/Supersonic-sc28-2-0-Channel-DVD-Player/product_1832951",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Naxa® NPD-952 9\" TFT LCD Swivel Screen Portable DVD Player With USB/SD/MMC Inputs",
+    "model": "93577692M",
+    "url": "https://www.staples.com/Naxa-NPD-952-9-TFT-LCD-Swivel-Screen-Portable-DVD-Player-With-USB-SD-MMC-Inputs/product_283293",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania 7\" Portable DVD Players With Integrated Handle (red)",
+    "model": "CURSDVD7046RD",
+    "url": "https://www.staples.com/Sylvania-7-Portable-DVD-Players-With-Integrated-Handle-red/product_2088640",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Naxa® NPD-703 Swivel Screen Portable DVD Player With USB/SD/MMC Inputs, 7\" TFT LCD",
+    "model": "93576747M",
+    "url": "https://www.staples.com/Naxa-NPD-703-Swivel-Screen-Portable-DVD-Player-With-USB-SD-MMC-Inputs-7-TFT-LCD/product_137389",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Technical Pro Professional DVD Player DV90",
+    "model": "93597004M",
+    "url": "https://www.staples.com/technical-pro-professional-dvd-player-dv90/product_2491389",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania 7\" Swivel-screen Portable DVD Players (blue)",
+    "model": "CURSDVD7060BL",
+    "url": "https://www.staples.com/Sylvania-7-Swivel-screen-Portable-DVD-Players-blue/product_2088638",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania Sdvd1052-red 10\" Portable DVD Player with Integrated Handle (red)",
+    "model": "CURSDVD1052RD",
+    "url": "https://www.staples.com/Sylvania-Sdvd1052-red-10-Portable-Dvd-Player-With-Integrated-Handle-red/product_2698896",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "SONY Refurbished Blu-Ray Player with Super WIFI (BDP-S3700-RB)",
+    "model": "BDP-S3700-RB",
+    "url": "https://www.staples.com/sony-refurbished-blu-ray-player-with-super-wifi-bdp-s3700-rb/product_24307483",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Naxa® ND 837 5.1 Channel Digital DVD Player With Karaoke Function and USB/SD/MMC Inputs",
+    "model": "93576135M",
+    "url": "https://www.staples.com/Naxa-ND-837-5-1-Channel-Digital-DVD-Player-With-Karaoke-Function-and-USB-SD-MMC-Inputs/product_137362",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania Portable DVD SDVD7027 PURPLE Player with Car Bag/Kit, Swivel Screen",
+    "model": "CURSDVD7027PR",
+    "url": "https://www.staples.com/Sylvania-Portable-DVD-SDVD7027-PURPLE-Player-with-Car-Bag-Kit-Swivel-Screen/product_1104925",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle Home 10\" Portable CD/DVD Player, HD Widescreen Display, Built-in Rechargeable Battery, USB/SD Card Memory (93599055M)",
+    "model": "93599055M",
+    "url": "https://www.staples.com/pyle-home-10-portable-cd-dvd-player-hd-widescreen-display-built-in-rechargeable-battery-usb-sd-card-memory-93599055m/product_24179635",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic Sc-20h 2-channel Dvd Player (SSC20H)",
+    "model": "SSC20H",
+    "url": "https://www.staples.com/Supersonic-Sc-20h-2-channel-Dvd-Player-SSC20H/product_24094492",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle PDH9 9\" Portable DVD Player , Black",
+    "model": "93582489M",
+    "url": "https://www.staples.com/Pyle-PDH9-9-Portable-DVD-Player-Black/product_24004608",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania Sdvd7049-Pink 7\" Portable Dvd Player With Integrated Handle (Pink)",
+    "model": "CURSDVD7049PK",
+    "url": "https://www.staples.com/Sylvania-Sdvd7049-Pink-7-Portable-Dvd-Player-With-Integrated-Handle-Pink/product_2442915",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic Sc-18dvd 2-channel Dvd Player (SSC18DVD)",
+    "model": "SSC18DVD",
+    "url": "https://www.staples.com/Supersonic-Sc-18dvd-2-channel-Dvd-Player-SSC18DVD/product_24094491",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania Sdvd7049-Blue 7\" Portable Dvd Player With Integrated Handle (Blue)",
+    "model": "CURSDVD7049BLU",
+    "url": "https://www.staples.com/Sylvania-Sdvd7049-Blue-7-Portable-Dvd-Player-With-Integrated-Handle-Blue/product_2442921",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Onkyo® DX-C390 High Precision 6 Disc CD Carousel Changer, Black",
+    "model": "DX-C390",
+    "url": "https://www.staples.com/onkyo-dx-c390-high-precision-6-disc-cd-carousel-changer-black/product_IM1T45648",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Ematic EPD909PR 9\" Portable DVD Player Bundles (Purple)",
+    "model": "SHAGEPD909PR",
+    "url": "https://www.staples.com/ematic-epd909pr-9-portable-dvd-player-bundles-purple/product_1971476",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Naxa DVD Player With HD Upconversion",
+    "model": "NAXND861",
+    "url": "https://www.staples.com/Naxa-DVD-Player-With-HD-Upconversion/product_2139805",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Supersonic sc-25 2.0 Channel DVD Player, Black",
+    "model": "93586013M",
+    "url": "https://www.staples.com/Supersonic-sc-25-2-0-Channel-DVD-Player-Black/product_2120512",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania Sdvd1010 10.1\" Dual-screen DVD & Media Player",
+    "model": "CURSDVD1010",
+    "url": "https://www.staples.com/Sylvania-Sdvd1010-10-1-Dual-screen-Dvd-Media-Player/product_2698894",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania Sdvd1052-black 10\" Portable DVD Player with Integrated Handle (black)",
+    "model": "CURSDVD1052BK",
+    "url": "https://www.staples.com/Sylvania-Sdvd1052-black-10-Portable-Dvd-Player-With-Integrated-Handle-black/product_2698893",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania Sdvd7049-Purple 7\" Portable Dvd Player With Integrated Handle (Purple)",
+    "model": "CURSDVD7049PUR",
+    "url": "https://www.staples.com/Sylvania-Sdvd7049-Purple-7-Portable-Dvd-Player-With-Integrated-Handle-Purple/product_2442919",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania 9\" Portable DVD Players With 5-hour Battery (blue)",
+    "model": "CURSDVD9020BBL",
+    "url": "https://www.staples.com/Sylvania-9-Portable-DVD-Players-With-5-hour-Battery-blue/product_2088634",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Naxa nt-90 ATSC/NTSC TV & Digital Multimedia Player Tuner, 9\" LCD, Black",
+    "model": "93592607M",
+    "url": "https://www.staples.com/Naxa-nt-90-ATSC-NTSC-TV-Digital-Multimedia-Player-Tuner-9-LCD-Black/product_2121098",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG Refurbished 3D Capable Blu-ray Player with Streaming and Wi-Fi (BPM55-RB)",
+    "model": "BPM55A-RB",
+    "url": "https://www.staples.com/lg-refurbished-3d-capable-blu-ray-player-with-streaming-and-wi-fi-bpm55-rb/product_24288216",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania Sdvd1052-purple 10\" Portable Dvd Player With Integrated Handle (purple)",
+    "model": "CURSDVD1052PR",
+    "url": "https://www.staples.com/Sylvania-Sdvd1052-purple-10-Portable-Dvd-Player-With-Integrated-Handle-purple/product_2698897",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sanyo Rfwbp706f Refurbished Wi-fi Blu-ray Player (SANRFWBP706F)",
+    "model": "SANRFWBP706F",
+    "url": "https://www.staples.com/Sanyo-Rfwbp706f-Refurbished-Wi-fi-Blu-ray-Player-SANRFWBP706F/product_24094661",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania Sdvd7049-Red 7\" Portable Dvd Player With Integrated Handle (Red)",
+    "model": "CURSDVD7049RD",
+    "url": "https://www.staples.com/Sylvania-Sdvd7049-Red-7-Portable-Dvd-Player-With-Integrated-Handle-Red/product_2442914",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania Sp269-blue Bluetooth Tabletop Tower Speaker (blue)",
+    "model": "CURSP269BLUE",
+    "url": "https://www.staples.com/Sylvania-Sp269-blue-Bluetooth-Tabletop-Tower-Speaker-blue/product_2698889",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania 9\" Portable DVD Players With 5-hour Battery (pink)",
+    "model": "CURSDVD9020BPK",
+    "url": "https://www.staples.com/Sylvania-9-Portable-DVD-Players-With-5-hour-Battery-pink/product_2088633",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania 7\" Swivel-screen Portable DVD Players (black)",
+    "model": "CURSDVD7060BK",
+    "url": "https://www.staples.com/Sylvania-7-Swivel-screen-Portable-DVD-Players-black/product_2088639",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Gpx Pd951B 9\" Portable Dvd Player",
+    "model": "GPXPD951B",
+    "url": "https://www.staples.com/Gpx-Pd951B-9-Portable-Dvd-Player/product_2442643",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania 9\" Portable DVD Players With 5-hour Battery (red)",
+    "model": "CURSDVD9020BRD",
+    "url": "https://www.staples.com/Sylvania-9-Portable-DVD-Players-With-5-hour-Battery-red/product_2088586",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania 7\" Swivel-screen Portable DVD Players (pink)",
+    "model": "CURSDVD7060PK",
+    "url": "https://www.staples.com/Sylvania-7-Swivel-screen-Portable-DVD-Players-pink/product_2088637",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "QFX PD-107 7\" Multimedia Player",
+    "model": "93576882M",
+    "url": "https://www.staples.com/QFX-PD-107-7-Multimedia-Player/product_283772",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania 7\" Swivel-Screen Portable DVD Player, Black",
+    "model": "CURSDVD7027BK",
+    "url": "https://www.staples.com/Sylvania-7-Swivel-Screen-Portable-DVD-Player-Black/product_1591841",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle Home PDV71BL 7'' Portable CD/DVD Player, Blue",
+    "model": "93599058M",
+    "url": "https://www.staples.com/Pyle-Home-PDV71BL-7-Portable-CD-DVD-Player-Blue/product_24004607",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania 9\" Dual-screen Portable DVD Player",
+    "model": "CURSDVD9957",
+    "url": "https://www.staples.com/Sylvania-9-Dual-screen-Portable-DVD-Player/product_2088589",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "LG 4K Ultra HD Blu-ray Disc Player with HDR (UP870)",
+    "model": "UP870",
+    "url": "https://www.staples.com/lg-4k-ultra-hd-blu-ray-disc-player-with-hdr-up870/product_24307482",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Ematic EPD707BL 7\" Portable DVD Player Bundles (Black)",
+    "model": "SHAGEPD707BL",
+    "url": "https://www.staples.com/ematic-epd707bl-7-portable-dvd-player-bundles-black/product_1971536",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania 9\" Swivel-screen Portable DVD Player",
+    "model": "CURSDVD9000B2",
+    "url": "https://www.staples.com/Sylvania-9-Swivel-screen-Portable-DVD-Player/product_2088663",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Pyle 6.5\" Double-din In-dash LCD Touchscreen Navigation DVD Receiver With Built-in Gps & Bluetooth®",
+    "model": "PYLPLDNV66B",
+    "url": "https://www.staples.com/pyle-6-5-double-din-in-dash-lcd-touchscreen-navigation-dvd-receiver-with-built-in-gps-bluetooth/product_2089123",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sony Refurbished 4K Upscale Blu-ray Disc™ Player with Built-in Wi-Fi (BDP-S6500A-RB)",
+    "model": "BDP-S6500A-RB",
+    "url": "https://www.staples.com/sony-refurbished-4k-upscale-blu-ray-disc-player-with-built-in-wi-fi-bdp-s6500a-rb/product_24288161",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "GPX® D200B DVD Player With Progressive Scan",
+    "model": "D200B",
+    "url": "https://www.staples.com/GPX-D200B-DVD-Player-With-Progressive-Scan/product_IM1RY5791",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Ematic Epd116bu 10\" Portable DVD Player With Headphones & Car-headrest Mount (blue)",
+    "model": "SHAGEPD116BU",
+    "url": "https://www.staples.com/Ematic-Epd116bu-10-Portable-DVD-Player-With-Headphones-Car-headrest-Mount-blue/product_2396398",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "DVD Player with USB Direct Recording",
+    "model": "LGDP132",
+    "url": "https://www.staples.com/DVD-Player-with-USB-Direct-Recording/product_2579128",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Ematic Epd116rd 10\" Portable DVD Player With Headphones & Car-headrest Mount (red)",
+    "model": "SHAGEPD116RD",
+    "url": "https://www.staples.com/Ematic-Epd116rd-10-Portable-DVD-Player-With-Headphones-Car-headrest-Mount-red/product_2396397",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Qfx Digital Multimedia Player with HDMI (VP-220)",
+    "model": "935100949M",
+    "url": "https://www.staples.com/qfx-digital-multimedia-player-with-hdmi-vp-220/product_24194607",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania Sdvd1052-blue 10\" Portable DVD Player with Integrated Handle (blue)",
+    "model": "CURSDVD1052BL",
+    "url": "https://www.staples.com/Sylvania-Sdvd1052-blue-10-Portable-Dvd-Player-With-Integrated-Handle-blue/product_2698892",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania 9\" Portable DVD Players With 5-hour Battery (black)",
+    "model": "CURSDVD9020BBK",
+    "url": "https://www.staples.com/Sylvania-9-Portable-DVD-Players-With-5-hour-Battery-black/product_2088635",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Samsung BD, J5900 1 Disc(s) 3D Blu-ray Disc Player, 1080p",
+    "model": "SASBDJ5900",
+    "url": "https://www.staples.com/samsung-bd-j5900-1-disc-s-3d-blu-ray-disc-player-1080p/product_SASBDJ5900",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania Sdvd1052-silver 10\" Portable DVD Player with Integrated Handle (silver)",
+    "model": "CURSDVD1052SIL",
+    "url": "https://www.staples.com/Sylvania-Sdvd1052-silver-10-Portable-Dvd-Player-With-Integrated-Handle-silver/product_2698895",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "TEAC® CD Player With USB And iPod® Digital Interface",
+    "model": "TEACDP650",
+    "url": "https://www.staples.com/TEAC-CD-Player-With-USB-And-iPod-Digital-Interface/product_1593631",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "Sylvania 7\" Portable DVD Players With Integrated Handle (pink)",
+    "model": "CURSDVD7046PK",
+    "url": "https://www.staples.com/Sylvania-7-Portable-DVD-Players-With-Integrated-Handle-pink/product_2088641",
+    "category": "Blu-Ray & DVD Players",
+    "source": "Staples",
+    "sourceType": "retailer",
+    "sourceId": 6
+  },
+  {
+    "brand": "20Th Century Fox Home Enter Dvd Love Comes Softly 10Th Anniversary 10 Dvd(ANCRD14476)",
+    "model": "ANCRD14476",
+    "url": "https://www.staples.com/20th-century-fox-home-enter-dvd-love-comes-softly-10th-anniversary-10-dvd-ancrd14476/product_23999473",
     "category": "Blu-Ray & DVD Players",
     "source": "Staples",
     "sourceType": "retailer",

@@ -1,8 +1,7 @@
 const puppeteer = require('puppeteer');
 var URL = require('url-parse');
 var jsonfile = require('jsonfile');
-//var START_URL = "https://www.staples.com/TVs/cat_CL164870?icid=TVSTREAMINGSUPERCAT:LINKBOX2:TVSTREAMINGMEDIA1:TVS::::";
-var START_URL ="https://www.staples.com/TVs/cat_CL164870?fids=&pn=3&sr=true&sby=&min=&max=&myStoreId=";
+var START_URL = "https://www.staples.com/TVs/cat_CL164870?icid=TVSTREAMINGSUPERCAT:LINKBOX2:TVSTREAMINGMEDIA1:TVS::::";
 var MAX_PAGES_TO_VISIT = 1000;
 
 var pagesVisited = {};
@@ -12,12 +11,16 @@ var pagesToVisit = [];
 var url = new URL(START_URL);
 var baseUrl = url.protocol + "//" + url.hostname;
 var count=0;
-pagesToVisit.push(START_URL);
+//pagesToVisit.push(START_URL);
+for(var i =5;i<=10;i++){//10
+    var crrlink ="https://www.staples.com/TVs/cat_CL164870?fids=&pn="+i+"&sr=true&sby=&min=&max=&myStoreId=";
+    pagesToVisit.push(crrlink);
+}
 var file='jsonDat.json';
 var items =jsonfile.readFileSync(file);
 var arrModel=[];
 items.forEach(function(itm) {
-    arrModel.push(itm);
+    arrModel.push(itm.brand+itm.model);
 });
 async function crawl() {
     if(pagesToVisit.length<=0 ) {
@@ -29,7 +32,7 @@ async function crawl() {
         }
         return ;
     }
-    var nextPage = pagesToVisit.pop();
+    var nextPage = pagesToVisit.shift();
      if (nextPage in pagesVisited) {
            // We've already visited this page, so repeat the crawl
            crawl();
@@ -55,11 +58,11 @@ async function crawl() {
         let lnkElms = document.querySelectorAll('div.product-info a.scTrack.pfm');
         var  brand = document.querySelector("h1.product-title");
         if(brand){
-            brand = brand.textContent;          
+            brand = brand.textContent;
         }
         var modl = document.querySelector("div.item-model span#mmx-sku-manufacturerPartNumber");
         if(modl){
-           modl = modl.textContent; 
+           modl = modl.textContent;
         }
         // get the hotel data
         lnkElms.forEach((lnkEl) => {
@@ -67,11 +70,11 @@ async function crawl() {
                 let lnk =lnkEl.getAttribute('href');
                 //let re1 = new RegExp("blu");
                 hotels.push(lnk);
-                
+
             }  catch (ex){
               console.log(ex);
             }
-        
+
         });
         return {links:hotels, brand:brand,model:modl};
     });
@@ -89,21 +92,22 @@ async function crawl() {
 
     if(hotelData.brand){
         count++;
+        var brand = hotelData.brand;
         var model=""
         if(hotelData.model){
            model= hotelData.model;
         }
-        if(!arrModel.includes(model)){
+        if(!arrModel.includes(brand+model)){
             items.push({
-                brand:hotelData.brand,
+                brand:brand,
                 model:model,
+                url :nextPage,
                 category: "Televisions",
-                source: "Staples", 
+                source: "Staples",
                 sourceType: "retailer",
                sourceId: 6
            });
         }
-        
     }
     browser.close();
     crawl();
